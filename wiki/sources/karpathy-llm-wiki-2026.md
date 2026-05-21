@@ -26,7 +26,7 @@ Karpathy beschreibt ein Muster für persoenliche Wissensbasen: Ein LLM soll Quel
 - Raw Sources bleiben Quelle der Wahrheit.
 - Die Wiki-Schicht wird aktiv gepflegt.
 - Index und Log sind zentrale Navigationsdateien.
-- Gute Antworten duerfen wieder als neue Seiten in die Wissensbasis zurück.
+- Gute Antworten dürfen wieder als neue Seiten in die Wissensbasis zurück.
 - Linting ist Teil des Systems: Widersprueche, veraltete Seiten und fehlende Links werden gesucht.
 
 ## Grenze
@@ -37,4 +37,3 @@ Die Quelle ist ein Architektur- und Arbeitsmuster. Sie ist keine empirische Stud
 
 - [Vault Operating System](../../00_System/Vault_Operating_System.md)
 - [Arbeitsmarkt Radar Workflow](../../05_Playbooks/Arbeitsmarkt_Radar_Workflow.md)
-

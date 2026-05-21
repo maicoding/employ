@@ -18,15 +18,15 @@ Agentic Workflow Literacy ist die Fähigkeit, KI-Agenten oder automatisierte Wor
 
 ## Was sich gegenüber normaler KI-Nutzung ändert
 
-Ein Chatbot liefert Antwortvorschlaege.
+Ein Chatbot liefert Antwortvorschläge.
 
-Ein Agent kann Schritte ausfuehren:
+Ein Agent kann Schritte ausführen:
 
 - recherchieren
 - Dateien bearbeiten
 - Daten abgleichen
 - Tickets anlegen
-- Code ausfuehren
+- Code ausführen
 - Freigaben vorbereiten
 
 Damit steigen Nutzen und Risiko gleichzeitig.
@@ -49,4 +49,3 @@ Agentische Systeme sind noch ungleich reif. Viele Organisationen brauchen zuerst
 
 - [Workflow Literacy](workflow-literacy.md)
 - [Governance and Risk](governance-and-risk.md)
-

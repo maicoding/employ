@@ -24,6 +24,7 @@ Wiederverwendbare Denkbausteine für den Vault.
 
 - [Workflow Literacy](workflow-literacy.md)
 - [Agentic Workflow Literacy](agentic-workflow-literacy.md)
+- [Platform-led Creative Automation](platform-led-creative-automation.md)
 - [Validation Burden](validation-burden.md)
 - [Governance and Risk](governance-and-risk.md)
 - [Provenance and Rights](provenance-and-rights.md)
@@ -34,4 +35,3 @@ Wiederverwendbare Denkbausteine für den Vault.
 - [Portfolio Evidence](portfolio-evidence.md)
 - [Design Through Language](design-through-language.md)
 - [Creative Technologist](creative-technologist.md)
-

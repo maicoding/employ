@@ -32,3 +32,4 @@ tags: [review, sources]
 | S19 | [BVDW Internet Agency Ranking 2026](../wiki/sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md) | industry ranking / trend analysis | supporting | AI value driver, staff compression, agency productivity |
 | S20 | [Atlassian AI Design 2026](../wiki/sources/atlassian-ai-design-nondeterminism-trust-2026.md) | vendor documentation / workflow context | supporting | non-deterministic UX, trust, design foundations, MCP workflows |
 | S21 | [Azerion AdMove.ai Hawk DSP 2026](../wiki/sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md) | vendor press / product context | supporting | agentic creative production, DSP workflow, brand governance |
+| S22 | [Platform Creative Automation 2026](../wiki/sources/platform-creative-automation-2026.md) | platform documentation / vendor announcements | supporting | platform-native asset generation, optimization, creative QA, brand guardrails |

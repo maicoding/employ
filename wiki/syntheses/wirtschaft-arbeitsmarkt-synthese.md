@@ -14,6 +14,7 @@ sources:
   - "../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md"
   - "../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md"
   - "../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md"
+  - "../sources/platform-creative-automation-2026.md"
 ---
 
 # Wirtschaft Arbeitsmarkt Synthese
@@ -72,6 +73,14 @@ Das BVDW-Internetagentur-Ranking 2026 zeigt zudem eine Produktivitäts- und Orga
 
 Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt die operative Marketingseite dieser Entwicklung: Creative Production, Media Buying und Performance Testing verschmelzen. Wirtschaftliche Kompetenz braucht deshalb DSP-/Programmatic-Grundlagen, Budgetlogik, Brand Governance, Freigabeprozesse und Human Review für agentische Kampagnenworkflows.
 
+Die Plattformautomation verschärft das weiter. Google, Meta, TikTok, Amazon Ads und Adobe dokumentieren Systeme, die Creatives erzeugen, automatisch anpassen, kombinieren und nach Kampagnenziel ausspielen. Marketing-Employability liegt damit weniger in "Content bestellen" und stärker in:
+
+- Plattformziel und Geschäftsziel auseinanderhalten
+- Budget-, Platzierungs- und Performance-Logik lesen
+- Automatisierung gegen Brand Safety, Rechte, Zielgruppe und Langfristwirkung prüfen
+- Testdesign, Creative Fatigue und inkrementelle Wirkung verstehen
+- Freigaben und Eskalation für automatisch erzeugte Varianten organisieren
+
 ### HR
 
 KI kann Stellenanzeigen, Matching und Kommunikation unterstützen. Das erhöht die Pflicht zu Fairness, Transparenz und Datenschutz.
@@ -90,6 +99,8 @@ Wirtschaft braucht mehr Schnittstellenrollen:
 - AI Product or CX Manager
 - Risk and Compliance Analyst für KI-Prozesse
 - Change Consultant mit KI-Verständnis
+- Marketing Automation / Creative Ops Analyst
+- Platform Performance Strategist
 
 Das sind keine festen Titel. Es sind Arbeitsbündel.
 
@@ -104,10 +115,11 @@ Gute Wirtschaft-Cases zeigen:
 - Stakeholder-Kommunikation
 - Vorher-Nachher-Workflow
 - Fehler- oder Grenzenlog
+- Plattformautomations-Audit mit akzeptierten, abgelehnten und überschriebenen Varianten
 
 ## Grenze
 
-Wirtschaft ist breit. Finance, Marketing, HR, Operations, Consulting und Entrepreneurship brauchen eigene Radar-Laeufe.
+Wirtschaft ist breit. Finance, Marketing, HR, Operations, Consulting und Entrepreneurship brauchen eigene Radar-Läufe.
 
 ## Anschluss
 
@@ -117,3 +129,4 @@ Wirtschaft ist breit. Finance, Marketing, HR, Operations, Consulting und Entrepr
 - [BVDW/OVK Prognose Digitaler Werbemarkt](../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md)
 - [BVDW Internet Agency Ranking 2026](../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)
 - [Azerion AdMove.ai Hawk DSP 2026](../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md)
+- [Platform Creative Automation 2026](../sources/platform-creative-automation-2026.md)

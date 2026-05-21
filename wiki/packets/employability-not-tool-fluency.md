@@ -26,5 +26,4 @@ In manchen Rollen ist schnelle Toolbedienung trotzdem ein Einstiegsvorteil. Sie 
 
 ## Gegencheck
 
-Wenn eine Aufgabe klar, risikoarm und standardisiert ist, kann reine Toolgeschwindigkeit kurzfristig stark zaehlen.
-
+Wenn eine Aufgabe klar, risikoarm und standardisiert ist, kann reine Toolgeschwindigkeit kurzfristig stark zählen.

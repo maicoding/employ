@@ -9,17 +9,18 @@ tags: [claims, review]
 
 # Belastbare Aussagen
 
-Diese Seite ist die knappe Leseflaeche für Aussagen, die im Vault bereits Quellenanschluss haben.
+Diese Seite ist die knappe Lesefläche für Aussagen, die im Vault bereits Quellenanschluss haben.
 
 ## Gut belegt
 
 | Aussage | Quellen | Grenze |
 |---|---|---|
 | KI verändert Aufgabenbündel stärker als ganze Berufe. | [ILO](wiki/sources/ilo-generative-ai-jobs-2025.md), [OECD](wiki/sources/oecd-skills-outlook-2025.md) | Exposition ist nicht Adoption. |
-| KI-Nutzung ist in deutschen Betrieben angekommen, aber nicht flaechendeckend. | [IAB](wiki/sources/iab-generative-ki-betriebe-2026.md) | Betriebliche Nutzung sagt noch nichts über einzelne Rollen. |
-| Employability ist mehr als Toolbedienung. | [WEF](wiki/sources/wef-future-of-jobs-2025.md), [Bundesnetzagentur](wiki/sources/bundesnetzagentur-ki-kompetenz-2025.md) | Tooltempo kann kurzfristig trotzdem zaehlen. |
+| KI-Nutzung ist in deutschen Betrieben angekommen, aber nicht flächendeckend. | [IAB](wiki/sources/iab-generative-ki-betriebe-2026.md) | Betriebliche Nutzung sagt noch nichts über einzelne Rollen. |
+| Employability ist mehr als Toolbedienung. | [WEF](wiki/sources/wef-future-of-jobs-2025.md), [Bundesnetzagentur](wiki/sources/bundesnetzagentur-ki-kompetenz-2025.md) | Tooltempo kann kurzfristig trotzdem zählen. |
 | Wirtschaftliche KI-Arbeit braucht Entscheidung, Risiko und Umsetzung. | [BLS Management Analysts](wiki/sources/bls-management-analysts-2024-2034.md), [OECD AI in Finance](wiki/sources/oecd-ai-in-finance.md) | Subfelder müssen einzeln betrachtet werden. |
 | Design-Portfolios müssen Prozess und Urteil zeigen. | [BLS Graphic Designers](wiki/sources/bls-graphic-designers-2024-2034.md), [BLS Web/Digital Designers](wiki/sources/bls-web-digital-designers-2024-2034.md) | Erwartungen unterscheiden sich je Studio, Agentur und Unternehmen. |
+| Plattformen automatisieren Teile von Asset-Erstellung, Variantenbildung und Optimierung. | [Platform Creative Automation 2026](wiki/sources/platform-creative-automation-2026.md), [Azerion AdMove.ai Hawk DSP 2026](wiki/sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md) | Vendor-Quellen zeigen Produktlogik, aber keine neutrale Qualitäts- oder Jobwirkung. |
 
 ## Noch nicht hart genug
 
@@ -32,4 +33,3 @@ Diese Seite ist die knappe Leseflaeche für Aussagen, die im Vault bereits Quell
 ## Arbeitsregel
 
 Eine Aussage wandert erst dann in diese Seite, wenn sie eine Quellenkarte, eine Grenze und einen Gegencheck hat.
-

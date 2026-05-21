@@ -20,7 +20,7 @@ Provenance and Rights meint: Herkunft, Rechte, Einwilligung, Modellnutzung und K
 
 In Design, Marketing, Medien und Produktkommunikation ist Output nicht nur "gut" oder "schnell". Er muss nutzbar sein:
 
-- duerfen diese Bilder verwendet werden?
+- dürfen diese Bilder verwendet werden?
 - sind Personen oder Marken betroffen?
 - ist KI-Einsatz offenzulegen?
 - sind Trainingsdaten, Quellen oder Referenzen problematisch?
@@ -44,4 +44,3 @@ Provenance loest nicht alle Rechtsfragen. Sie macht aber Prüfung und Verantwort
 
 - [Portfolio Evidence](portfolio-evidence.md)
 - [Design Arbeitsmarkt](../../03_Design/Design_Arbeitsmarkt.md)
-

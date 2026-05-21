@@ -9,14 +9,14 @@ tags: [wirtschaft, roles, portfolio]
 
 # Wirtschaft Rollen und Portfolio
 
-## Rollenbuendel
+## Rollenbündel
 
 ### AI Governance Translator
 
 Übersetzt KI-Regeln in Arbeit:
 
 - Welche KI wird genutzt?
-- Welche Daten duerfen hinein?
+- Welche Daten dürfen hinein?
 - Wer prüft?
 - Wer gibt frei?
 - Was wird dokumentiert?
@@ -51,11 +51,19 @@ Portfolio-Beweis:
 
 ### Change Consultant
 
-Begleitet Einfuehrung, Akzeptanz, Training und neue Rollen.
+Begleitet Einführung, Akzeptanz, Training und neue Rollen.
 
 Portfolio-Beweis:
 
 - Change-Plan für ein KI-gestütztes Arbeitsformat
+
+### Marketing Automation / Creative Ops Analyst
+
+Prüft, wie Plattformen Creatives erzeugen, kombinieren, testen und ausspielen.
+
+Portfolio-Beweis:
+
+- Plattformautomations-Audit mit Ziel, Budgetlogik, Varianten, Freigaben, abgelehnten Kombinationen und Performance-Auswertung
 
 ## Gute Case-Struktur
 
@@ -66,7 +74,8 @@ Portfolio-Beweis:
 5. Prüfung
 6. Entscheidung
 7. Risiko
-8. Nächster Schritt
+8. Plattform- oder Automationsgrenze
+9. Nächster Schritt
 
 ## Was nicht reicht
 
@@ -78,4 +87,4 @@ Portfolio-Beweis:
 
 - [Decision Evidence](../wiki/concepts/decision-evidence.md)
 - [Portfolio Evidence System](../04_Portfolio/Portfolio_Evidence_System.md)
-
+- [Platform-led Creative Automation](../wiki/concepts/platform-led-creative-automation.md)

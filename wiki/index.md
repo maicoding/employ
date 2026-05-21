@@ -40,6 +40,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [GenAI Divide](concepts/genai-divide.md)
 - [Workflow Literacy](concepts/workflow-literacy.md)
 - [Agentic Workflow Literacy](concepts/agentic-workflow-literacy.md)
+- [Platform-led Creative Automation](concepts/platform-led-creative-automation.md)
 - [Validation Burden](concepts/validation-burden.md)
 - [Governance and Risk](concepts/governance-and-risk.md)
 - [Provenance and Rights](concepts/provenance-and-rights.md)
@@ -69,6 +70,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [BVDW Internet Agency Ranking 2026](sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)
 - [Atlassian AI Design 2026](sources/atlassian-ai-design-nondeterminism-trust-2026.md)
 - [Azerion AdMove.ai Hawk DSP 2026](sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md)
+- [Platform Creative Automation 2026](sources/platform-creative-automation-2026.md)
 - [D&AD Awards 2026 Creative Work Shift](sources/dandad-pencils-germany-2026-creative-work-shift.md)
 - [AGF and Amazon Video Measurement](sources/agf-youtube-video-measurement-platform-metrics-2026.md)
 

@@ -9,13 +9,14 @@ sources:
   - "../sources/bls-management-analysts-2024-2034.md"
   - "../sources/bls-data-scientists-2024-2034.md"
   - "../sources/oecd-ai-in-finance.md"
+  - "../sources/platform-creative-automation-2026.md"
 ---
 
 # Wirtschaftsarbeit verschiebt sich zu Entscheidungen
 
 ## Kernaussage
 
-KI beschleunigt Analyse und Reporting. Arbeitsmarktwert entsteht stärker dort, wo daraus Entscheidung, Risikoabwaegung und Umsetzung werden.
+KI beschleunigt Analyse, Reporting und Marketingproduktion. Arbeitsmarktwert entsteht stärker dort, wo daraus Entscheidung, Risikoabwägung und Umsetzung werden.
 
 ## Mechanismus
 
@@ -23,7 +24,7 @@ Mehr Daten und schnellere Entwürfe erzeugen nicht automatisch bessere Entscheid
 
 ## Grenze
 
-In datenarmen oder sehr regulierten Umgebungen bleibt manuelle Vorarbeit laenger wichtig.
+In datenarmen oder sehr regulierten Umgebungen bleibt manuelle Vorarbeit länger wichtig.
 
 ## Gegencheck
 

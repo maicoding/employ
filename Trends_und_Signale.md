@@ -31,6 +31,12 @@ Ein fertiges Ergebnis reicht weniger. Sichtbar werden müssen Briefing, Variante
 
 Siehe: [Portfolio Evidence](wiki/concepts/portfolio-evidence.md)
 
+### Plattformen werden selbst zur Gestaltungsebene
+
+Google Ads, Meta Advantage+ Creative, TikTok Smart+, Amazon Ads und Adobe GenStudio zeigen öffentlich, dass Asset-Erstellung, Variantenbildung, Formatadaption und Optimierung in Plattformen wandern. Das ist belastbarer als ein einzelnes Hype-Signal: Designer:innen arbeiten nicht nur mit Tools, sondern gegen und mit Plattformlogiken.
+
+Siehe: [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md)
+
 ## Frühe Signale
 
 ### Juniorarbeit wird enger
@@ -98,3 +104,9 @@ Nächster Check: Rollenprofile für Product Design, UX, Design Systems und AI Pr
 Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt, dass KI-gestützte Werbemittelproduktion direkt in DSP- und Aktivierungsumgebungen integriert wird. Damit verschmelzen Kreation, Brand Governance, Freigabe, Publishing, Testing und Media Buying.
 
 Nächster Check: Stellenprofile für Performance Creative, Media Buying, Creative Operations, AdTech und Marketing Automation auf DSP, Agentic AI, Brand Governance, Testing und Human Review prüfen.
+
+### Plattformautomation verändert Designaufgaben
+
+Die neue Aufgabe ist nicht mehr nur "mehr Assets schneller herstellen". Wenn Plattformen Assets selbst erzeugen, zuschneiden, vertonen, übersetzen, kombinieren und performanceseitig auswählen, verschiebt sich Designarbeit zu Inputqualität, Guardrails, Review, Rechteklärung, Messlogik und Stop-Regeln. Schwache Variantenproduktion verliert Wert; starke Creative Direction und Platform Literacy gewinnen.
+
+Nächster Check: Jobprofile und Portfolios auf Seed Assets, Brand Invariants, Creative Fatigue, Plattform-QA, automatisch erzeugte Kombinationen und Performance-Interpretation prüfen.

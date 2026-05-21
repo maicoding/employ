@@ -34,6 +34,7 @@ Verschiebung:
 - mehr Positionierung
 - mehr Variantenbewertung
 - mehr Kanal- und Wirkungslogik
+- mehr Plattformautomation für Asset-Erstellung, Kombination und Ausspielung
 - mehr Plattformökonomie, Programmatic, Streaming-/Retail-Media und Brand Safety
 - mehr Verständnis für KI-Suche, Trafficverschiebung, Regulierungsrisiken und Marktspaltung
 - mehr Unterscheidung von Brutto-Werbedruck, Nettoerlösen und Plattformbudgets
@@ -52,7 +53,7 @@ Verschiebung:
 
 - weniger Prozessdokumentation als Handarbeit
 - mehr Automationsdesign
-- mehr Schnittstellenverstaendnis
+- mehr Schnittstellenverständnis
 - mehr Change-Kommunikation
 
 ### Consulting und Business Development
@@ -75,6 +76,7 @@ Verschiebung:
 - Stakeholder adressieren
 - Umsetzung planen
 - Plattformabhängigkeiten und Media-Kosten einordnen
+- Plattformautomation prüfen und begrenzen
 - Wachstum und Spaltung im Werbemarkt gleichzeitig analysieren
 - Nielsen-, ZAW-, OVK- und Plattformdaten methodisch sauber auseinanderhalten
 
@@ -84,3 +86,4 @@ Verschiebung:
 - [Wirtschaft Arbeitsmarkt Synthese](../wiki/syntheses/wirtschaft-arbeitsmarkt-synthese.md)
 - [Decision Evidence](../wiki/concepts/decision-evidence.md)
 - [Governance and Risk](../wiki/concepts/governance-and-risk.md)
+- [Platform-led Creative Automation](../wiki/concepts/platform-led-creative-automation.md)

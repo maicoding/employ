@@ -16,6 +16,7 @@ sources:
   - "../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md"
   - "../sources/atlassian-ai-design-nondeterminism-trust-2026.md"
   - "../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md"
+  - "../sources/platform-creative-automation-2026.md"
   - "../sources/ilo-generative-ai-jobs-2025.md"
 ---
 
@@ -87,6 +88,26 @@ Design-Employability braucht deshalb:
 
 KI-Suche und Zero-Click-Umgebungen sind als Arbeitsmarktsignal plausibel, aber im Vault noch nicht hart genug belegt. Sie bleiben eine Recherchelinie: Designer:innen müssen wahrscheinlich stärker zeigen, wie Gestaltung Auffindbarkeit, Vertrauen und Wirkung stützt.
 
+## Plattformautomation als eigener Mechanismus
+
+Die neue Verschiebung ist präziser als "KI erstellt Assets". Google Ads, Meta Advantage+ Creative, TikTok Smart+, Amazon Ads Creative Agent und Adobe GenStudio zeigen, dass Plattformen Asset-Erstellung, Variantenbildung, Formatadaption, Kombination und Optimierung direkt in die Kampagnenumgebung ziehen.
+
+Damit wird Designarbeit an zwei Stellen neu sortiert:
+
+- vor der Plattform: gute Seed Assets, klare Brand Invariants, saubere Produktdaten, brauchbare Claims, erlaubte Referenzen, Ausschlüsse
+- in der Plattform: Preview, Kombinationen, automatische Zuschnitte, Textvarianten, Musik, Übersetzung, Dubbing, Platzierungen, Performance-Signale
+
+Die Plattform optimiert auf ein Kampagnenziel. Das ist nicht automatisch identisch mit Markenqualität, langfristigem Vertrauen, kultureller Passung, Barrierefreiheit, Rechteklarheit oder gestalterischer Differenz. Genau dort verschiebt sich die Aufgabe von Designer:innen.
+
+Wichtiger werden:
+
+- Variantenlogik statt Variantenmenge
+- Guardrails statt Einzelkorrektur
+- Review-Protokolle statt Bauchgefühl
+- Messkritik statt blindes Performance-Vertrauen
+- Creative-Fatigue-Lesen statt immer neuer Output
+- Stop-Regeln für fehlerhafte, unpassende oder rechtlich riskante Automatisierung
+
 Mediamix bleibt eine Kompetenzfrage. Designarbeit muss Kanalspezifik, Formatlogik und Messannahmen zeigen, statt nur ein einheitliches Kampagnenvisual über alle Kanäle zu ziehen.
 
 Der D&AD-Pencils-Scan 2026 ergänzt die Marktlogik um eine Craft- und Spitzenarbeits-Perspektive: Preisfähige Kampagnen sind nicht nur schöne Outputs, sondern Mechaniken aus Filmcraft, Service Design, Sport-Entertainment, Accessibility, Recht, Plattform und Wirkung. Für Employability heißt das: Studierende müssen Case-Mechanik, Creative Direction, Rechte-/Risikoarbeit und Wirkungslogik nachweisen können.
@@ -99,6 +120,8 @@ Das Atlassian/Figma-Signal zeigt die Produktdesign-Seite: Nichtdeterministische 
 
 Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt die Performance-Creative-Seite: Werbemittelproduktion wird agentisch und rückt in Media-Buying-Infrastruktur. Designer:innen müssen Brand Guardrails, Variantenlogik, Creative Fatigue, Rechte, Freigaben und Testing in einem operativen Kampagnenworkflow verstehen.
 
+Das Platform-Creative-Automation-Signal schärft das: Die Plattformen übernehmen Teile der Asset-Produktion und Optimierung selbst. Design-Employability liegt deshalb stärker in der Fähigkeit, Plattformen mit guten Inputs, Grenzen und Prüfentscheidungen zu führen. Wer nur einzelne Formatadaptionen baut, konkurriert direkt mit Plattformfunktionen.
+
 ## Rollen, die wichtiger werden
 
 - AI Creative Producer
@@ -109,6 +132,8 @@ Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt die Performance-Creative-Seite: Werb
 - Product Visualization Specialist
 - AI QC / Provenance Reviewer
 - Brand Systems Designer
+- Platform Creative Systems Designer
+- Performance Creative Strategist
 
 Diese Rollen sind nicht alle standardisiert. Sie beschreiben Arbeitsbündel, die in Agenturen, Studios, Unternehmen und Freelance-Praxis auftauchen können.
 
@@ -123,6 +148,8 @@ Ein gutes Designportfolio unter KI-Bedingungen zeigt:
 - Auswahlbegründung
 - Rechte- und Provenance-Notiz
 - Qualitätsprüfung
+- Plattform- und Kombinationsprüfung
+- Stop- oder Override-Regeln
 - Handoff
 - finale Anwendung
 
@@ -141,3 +168,4 @@ Nicht jede Designpraxis wird technisch. Handwerk, Konzept, Kritik, Kultur, Typog
 - [BVDW Internet Agency Ranking 2026](../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)
 - [Atlassian AI Design 2026](../sources/atlassian-ai-design-nondeterminism-trust-2026.md)
 - [Azerion AdMove.ai Hawk DSP 2026](../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md)
+- [Platform Creative Automation 2026](../sources/platform-creative-automation-2026.md)
