@@ -13,7 +13,7 @@ tags: [roadmap, gaps]
 
 ### 1. Drei offene Claims härten
 
-Die drei offenen Claims sind jetzt als [Claim Hardening Map](review/claim-hardening-map-2026-05-21.md), [Jobposting Coding](review/jobposting-coding.md), [DACH Jobposting Spot Check](wiki/sources/dach-jobposting-spot-check-2026-05-21.md) und [Trends und Signale Next Checks](wiki/sources/trends-signale-next-checks-2026-05-21.md) geframt.
+Die drei offenen Claims sind jetzt als [Claim Hardening Map](review/claim-hardening-map-2026-05-21.md), [Jobposting Coding](review/jobposting-coding.md), [DACH Jobposting Spot Check](wiki/sources/dach-jobposting-spot-check-2026-05-21.md), [Trends und Signale Next Checks](wiki/sources/trends-signale-next-checks-2026-05-21.md) und [Jobposting und Arbeitgeberdaten Check](wiki/sources/jobposting-employer-data-check-2026-05-21.md) geframt.
 
 Nächster Schritt:
 
@@ -25,7 +25,7 @@ Nächster Schritt:
 
 ### 2. DACH-Jobposting-Daten
 
-Der Vault hat globale und öffentliche Quellen. Es fehlen eigene, public-safe codierte Jobanzeigen für Deutschland, Österreich und Schweiz.
+Der Vault hat jetzt ein erstes public-safe Sample mit 22 Rollenmarkern. Es ist noch kein Korpus.
 
 Nächster Schritt:
 

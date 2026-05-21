@@ -84,6 +84,10 @@ Gestaltung von Seed Assets, Guardrails, Variantenlogik und Review für Plattform
 - Handoff
 - reale Anwendung
 
+## Stellenanzeigen-Check 2026-05-21
+
+Der [Jobposting und Arbeitgeberdaten Check](../wiki/sources/jobposting-employer-data-check-2026-05-21.md) stützt die Richtung: Junior- und Product-Design-Rollen verlangen häufiger Prototyping, Designsystemarbeit, QA, AI-Toolumgang, Code-/Toolnähe und Portfolio-Belege. Gleichzeitig bleiben klassische UX-Grundlagen sichtbar. Der saubere Claim ist deshalb Aufgabenumbau, nicht Ersatz.
+
 ## Anschluss
 
 - [Design Rollen und Portfolio](Design_Rollen_und_Portfolio.md)

@@ -39,6 +39,8 @@ Siehe: [Platform-led Creative Automation](wiki/concepts/platform-led-creative-au
 
 ## Frühe Signale
 
+Aktueller Check: [Jobposting und Arbeitgeberdaten Check 2026-05-21](wiki/sources/jobposting-employer-data-check-2026-05-21.md). Der Check codiert 22 öffentliche Rollenmarker und verbindet sie mit Arbeitgeberdaten von IAB, Bitkom, Randstad-ifo und BVDW. Er stützt Aufgabenverschiebung, aber keinen pauschalen Jobverlustclaim.
+
 ### Juniorarbeit wird enger
 
 Einfache Einstiegsaufgaben können durch KI kleiner werden. Das ist plausibel, aber für einzelne Branchen noch nicht hart genug belegt.

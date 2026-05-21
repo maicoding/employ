@@ -36,6 +36,11 @@ tags: [review, sources]
 | S23 | [Designer Fund AI in Design Report 2026](../wiki/sources/designer-fund-ai-in-design-report-2026.md) | industry survey report | directional | AI design practice, tool fluency, hybrid roles, hiring signal |
 | S24 | [DACH Jobposting Spot Check 2026-05-21](../wiki/sources/dach-jobposting-spot-check-2026-05-21.md) | public jobposting spot-check | low-directional | junior task shift, creative technology visibility, AI governance entry signal |
 | S25 | [Trends und Signale Next Checks 2026-05-21](../wiki/sources/trends-signale-next-checks-2026-05-21.md) | public spot-check / study and jobposting scan | low-to-medium directional | open signal checks, AI search, platform metrics, media roles, AI design trust, governance subfields |
+| S26 | [Jobposting und Arbeitgeberdaten Check 2026-05-21](../wiki/sources/jobposting-employer-data-check-2026-05-21.md) | public jobposting and employer-data spot-check | directional | coded role markers plus employer data for junior work, governance, media metrics, platform automation |
+
+## Ingest 2026-05-21 - Jobposting und Arbeitgeberdaten
+
+- [Jobposting und Arbeitgeberdaten Check 2026-05-21](../wiki/sources/jobposting-employer-data-check-2026-05-21.md) - Öffentlicher Spot-Check mit 22 Rollenmarkern und Arbeitgeberdaten zu KI-Nutzung, HR, Agenturen und Stellenanpassungen.
 
 ## Ingest 2026-05-21 - Trends und Signale Next Checks
 

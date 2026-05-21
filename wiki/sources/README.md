@@ -44,6 +44,10 @@ tags: [sources]
 
 - [Trends und Signale Next Checks 2026-05-21](trends-signale-next-checks-2026-05-21.md) - Öffentlicher Gegencheck der offenen Signalprüfungen zu AI Search, Plattformmetriken, Media-Rollen, AI Design und Governance.
 
+## Ingest 2026-05-21 - Jobposting und Arbeitgeberdaten
+
+- [Jobposting und Arbeitgeberdaten Check 2026-05-21](jobposting-employer-data-check-2026-05-21.md) - Öffentlicher Spot-Check mit Rollenmarkern und Arbeitgeberdaten zu Juniorarbeit, Governance, Media-Metriken und Plattformautomation.
+
 ## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
 
 - [Agentic Workflow Guardrails und Media Buying 2026](agentic-workflow-guardrails-media-buying-2026-05-21.md) - Industry-Signal mit Quellenstatus, Extraktion, Critical Forecast Mode und Vault-Relevanz.

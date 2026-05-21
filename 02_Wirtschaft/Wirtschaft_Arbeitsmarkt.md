@@ -80,6 +80,10 @@ Verschiebung:
 - Wachstum und Spaltung im Werbemarkt gleichzeitig analysieren
 - Nielsen-, ZAW-, OVK- und Plattformdaten methodisch sauber auseinanderhalten
 
+## Stellenanzeigen- und Arbeitgeberdaten-Check 2026-05-21
+
+Der [Jobposting und Arbeitgeberdaten Check](../wiki/sources/jobposting-employer-data-check-2026-05-21.md) zeigt: AI-Governance ist in Einstiegs- und Juniorprofilen vor allem dort sichtbar, wo Regulierung, Security, Finance und Consulting zusammenkommen. Arbeitgeberdaten stützen KI-Adoption und Aufgabenanpassung, aber keine einfache Erzählung von flächigem Stellenabbau. Für HR und Operations bleibt die Evidenz noch zu dünn.
+
 ## Anschluss
 
 - [Wirtschaft Rollen und Portfolio](Wirtschaft_Rollen_und_Portfolio.md)
