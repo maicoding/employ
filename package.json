@@ -1,0 +1,10 @@
+{
+  "name": "employability-arbeitsmarkt-vault",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "python3 scripts/public_safe_check.py && python3 scripts/link_check.py",
+    "public-safe": "python3 scripts/public_safe_check.py",
+    "links": "python3 scripts/link_check.py"
+  }
+}

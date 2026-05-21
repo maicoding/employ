@@ -1,0 +1,51 @@
+---
+title: "AI Readiness"
+type: concept
+status: reviewed
+created: 2026-05-21
+updated: 2026-05-21
+tags: [ai-readiness, employability, skills]
+sources:
+  - "../sources/wef-future-of-jobs-2025.md"
+  - "../sources/bundesnetzagentur-ki-kompetenz-2025.md"
+  - "../sources/iab-generative-ki-betriebe-2026.md"
+---
+
+# AI Readiness
+
+## Definition
+
+AI Readiness ist die Faehigkeit, KI in echten Arbeitssituationen sinnvoll, pruefbar und verantwortlich einzusetzen.
+
+Es ist mehr als Toolkenntnis.
+
+## Warum es zaehlt
+
+Betriebe nutzen generative KI unterschiedlich schnell. Das IAB zeigt fuer Deutschland 2025 eine breite, aber nicht flaechendeckende Nutzung. Gleichzeitig verlangt der AI Act KI-Kompetenz im Nutzungskontext.
+
+Wer arbeitsfaehig sein will, muss deshalb nicht nur ein Tool kennen. Man muss erkennen:
+
+- Wann KI passt.
+- Welche Daten, Rechte und Risiken betroffen sind.
+- Wie Ergebnisse geprueft werden.
+- Wann menschliche Entscheidung noetig bleibt.
+
+## Bausteine
+
+- Aufgabenanalyse
+- Kontext und Ziel klaeren
+- Quellen und Daten pruefen
+- Output bewerten
+- Fehler und Grenzen dokumentieren
+- Verantwortung uebernehmen
+
+## Grenze
+
+AI Readiness ist kein Persoenlichkeitsmerkmal. Sie haengt von Zugang, Zeit, Sprache, Lernumgebung, Organisation und Toolkosten ab.
+
+## Links
+
+- [GenAI Divide](genai-divide.md)
+- [Workflow Literacy](workflow-literacy.md)
+- [Governance and Risk](governance-and-risk.md)
+

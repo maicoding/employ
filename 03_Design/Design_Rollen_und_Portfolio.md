@@ -1,0 +1,86 @@
+---
+title: "Design Rollen und Portfolio"
+type: entry
+status: reviewed
+created: 2026-05-21
+updated: 2026-05-21
+tags: [design, roles, portfolio]
+---
+
+# Design Rollen und Portfolio
+
+## Rollenbuendel
+
+### AI Creative Producer
+
+Produziert und steuert KI-gestuetzte Bild-, Video- und Contentvarianten.
+
+Portfolio-Beweis:
+
+- Kampagnen- oder Contentcase mit Briefing, Varianten, Auswahl, QA und Rechtecheck
+
+### AI Art Director
+
+Setzt Bildsprache, Referenzen, Stilgrenzen und Auswahlkriterien.
+
+Portfolio-Beweis:
+
+- Look-System mit Referenzlogik, Promptstruktur, Anti-Beispielen und finaler Route
+
+### Creative Technologist
+
+Verbindet Gestaltung, Code, Tools, Prototyping und Workflow.
+
+Portfolio-Beweis:
+
+- kleiner Prototyp oder Workflow mit README, Testoutputs und Handoff
+
+### UX / AI Interface Designer
+
+Gestaltet Interfaces, in denen KI Teil des Nutzerflusses ist.
+
+Portfolio-Beweis:
+
+- Flow, Wireframes, Fehlerszenarien, Consent, Erklaerlogik und Testnotiz
+
+### Generative Video / Motion Designer
+
+Arbeitet mit Shotlogik, Kamera, Timing, Sound, Sequenz und KI-Video.
+
+Portfolio-Beweis:
+
+- Animatic oder Clipserie mit Shotlist, Tooltests, Continuity-Check und Schnittlogik
+
+### AI QC / Provenance Reviewer
+
+Prueft KI-Outputs auf Fehler, Rechte, Konsistenz, Markenpassung und Freigabe.
+
+Portfolio-Beweis:
+
+- Fehlerkatalog, Rechtecheck und Empfehlung fuer eine Produktion
+
+## Gute Case-Struktur
+
+1. Briefing
+2. Kontext
+3. Referenzen
+4. KI- und Nicht-KI-Anteile
+5. Variantenmatrix
+6. Auswahlbegruendung
+7. QA und Rechte
+8. Anwendung
+9. Reflexion
+
+## Was nicht reicht
+
+- nur schoene Bilder
+- Prompts ohne Kriterien
+- Toolname statt Prozess
+- kein Hinweis auf Rechte oder Quellen
+- keine Entscheidung zwischen Varianten
+
+## Anschluss
+
+- [Portfolio Evidence System](../04_Portfolio/Portfolio_Evidence_System.md)
+- [Design Through Language](../wiki/concepts/design-through-language.md)
+

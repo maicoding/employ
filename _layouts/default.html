@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/site.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip" href="#content">Zum Inhalt</a>
+    <header class="site-header">
+      <div>
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <p class="site-description">Archiv, Quellen, Trends, belastbare Aussagen.</p>
+      </div>
+      <nav class="top-nav" aria-label="Hauptnavigation">
+        <a href="{{ '/Belastbare_Aussagen/' | relative_url }}">Aussagen</a>
+        <a href="{{ '/Trends_und_Signale/' | relative_url }}">Trends</a>
+        <a href="{{ '/wiki/' | relative_url }}">Wiki</a>
+        <a href="{{ '/Quellen_und_Lizenz/' | relative_url }}">Quellen</a>
+      </nav>
+    </header>
+    <div class="page-shell">
+      <aside class="side-nav" aria-label="Archivbereiche">
+        <a href="{{ '/01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick/' | relative_url }}">Arbeitsmarkt</a>
+        <a href="{{ '/02_Wirtschaft/Wirtschaft_Arbeitsmarkt/' | relative_url }}">Wirtschaft</a>
+        <a href="{{ '/03_Design/Design_Arbeitsmarkt/' | relative_url }}">Design</a>
+        <a href="{{ '/04_Portfolio/Portfolio_Evidence_System/' | relative_url }}">Portfolio</a>
+        <a href="{{ '/05_Playbooks/Arbeitsmarkt_Radar_Workflow/' | relative_url }}">Radar</a>
+        <a href="{{ '/Fehlstellen_und_Roadmap/' | relative_url }}">Fehlstellen</a>
+      </aside>
+      <main id="content" class="content">
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>
+
