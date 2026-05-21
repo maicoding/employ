@@ -28,7 +28,7 @@ Wer arbeitsfähig sein will, muss deshalb nicht nur ein Tool kennen. Man muss er
 - Wann KI passt.
 - Welche Daten, Rechte und Risiken betroffen sind.
 - Wie Ergebnisse geprüft werden.
-- Wann menschliche Entscheidung noetig bleibt.
+- Wann menschliche Entscheidung nötig bleibt.
 
 ## Bausteine
 

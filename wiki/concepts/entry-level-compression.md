@@ -27,7 +27,7 @@ Das betrifft Aufgaben wie:
 
 ## Warum es zaehlt
 
-Diese Aufgaben waren nie nur billige Arbeit. Sie waren Lernraeume. Menschen haben dort Muster gesehen, Fehler gemacht, Feedback bekommen und Urteil aufgebaut.
+Diese Aufgaben waren nie nur billige Arbeit. Sie waren Lernräume. Menschen haben dort Muster gesehen, Fehler gemacht, Feedback bekommen und Urteil aufgebaut.
 
 Wenn KI diese Aufgaben übernimmt, muss Lernen anders organisiert werden.
 

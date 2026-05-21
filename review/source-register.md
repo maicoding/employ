@@ -33,3 +33,13 @@ tags: [review, sources]
 | S20 | [Atlassian AI Design 2026](../wiki/sources/atlassian-ai-design-nondeterminism-trust-2026.md) | vendor documentation / workflow context | supporting | non-deterministic UX, trust, design foundations, MCP workflows |
 | S21 | [Azerion AdMove.ai Hawk DSP 2026](../wiki/sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md) | vendor press / product context | supporting | agentic creative production, DSP workflow, brand governance |
 | S22 | [Platform Creative Automation 2026](../wiki/sources/platform-creative-automation-2026.md) | platform documentation / vendor announcements | supporting | platform-native asset generation, optimization, creative QA, brand guardrails |
+| S23 | [Designer Fund AI in Design Report 2026](../wiki/sources/designer-fund-ai-in-design-report-2026.md) | industry survey report | directional | AI design practice, tool fluency, hybrid roles, hiring signal |
+| S24 | [DACH Jobposting Spot Check 2026-05-21](../wiki/sources/dach-jobposting-spot-check-2026-05-21.md) | public jobposting spot-check | low-directional | junior task shift, creative technology visibility, AI governance entry signal |
+
+## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
+
+- [Agentic Workflow Guardrails und Media Buying 2026](../wiki/sources/agentic-workflow-guardrails-media-buying-2026-05-21.md) - Industry-Signal mit Quellenstatus, Extraktion, Critical Forecast Mode und Vault-Relevanz.
+
+## Ingest 2026-05-21 - Zendesk Autonomous Service Workforce 2026
+
+- [Zendesk Autonomous Service Workforce 2026](../wiki/sources/zendesk-autonomous-service-workforce-2026-05-21.md) - Industry-Signal mit Quellenstatus, Extraktion, Critical Forecast Mode und Vault-Relevanz.

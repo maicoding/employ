@@ -23,13 +23,13 @@ Die OECD verbindet Skill-Anforderungen, Beschäftigungsprognosen und Veränderun
 
 ## Kernaussagen für diesen Vault
 
-- Manche Rollen veraendern ihre Skill-Anforderungen schnell und haben zugleich unsichere oder ruecklaeufige Perspektiven.
+- Manche Rollen verändern ihre Skill-Anforderungen schnell und haben zugleich unsichere oder rückläufige Perspektiven.
 - Die OECD nennt Application Programmers als Beispiel für Rollen, bei denen generative KI Nachfrage und Aufgabeninhalt gleichzeitig verschieben kann.
 - Skill-Wandel ist sozial ungleich verteilt. Wer Zugang zu Weiterbildung und lernfähigen Arbeitsumgebungen hat, kann besser reagieren.
 
 ## Was die Quelle traegt
 
-Sie stützt die Idee, Employability nicht nur als "welcher Job waechst" zu lesen, sondern als Kopplung aus Jobperspektive, Skill-Veränderung und Lernzugang.
+Sie stützt die Idee, Employability nicht nur als "welcher Job wächst" zu lesen, sondern als Kopplung aus Jobperspektive, Skill-Veränderung und Lernzugang.
 
 ## Grenze
 
@@ -40,4 +40,3 @@ Die OECD arbeitet auf hoher Ebene. Konkrete lokale Arbeitsmarktentscheidungen br
 - [Arbeitsmarkt 2030](../syntheses/arbeitsmarkt-2030.md)
 - [GenAI Divide](../concepts/genai-divide.md)
 - [Reserve Skills](../concepts/reserve-skills.md)
-

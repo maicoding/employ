@@ -35,7 +35,7 @@ Streichen oder ersetzen:
 - innovativ, wenn unklar
 - zukunftsfähig, wenn unklar
 - revolutioniert, wenn kein Mechanismus folgt
-- kuenstliche Gegensatz-Schemata
+- künstliche Gegensatz-Schemata
 
 ## Quellencheck
 

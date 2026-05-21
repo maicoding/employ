@@ -43,7 +43,7 @@ Vorteil:
 Nachteil:
 
 - Build-Schritt
-- Konfiguration und Theme noetig
+- Konfiguration und Theme nötig
 
 ## Empfehlung für diesen Vault
 
@@ -56,4 +56,3 @@ Erst Variante A für schnelle Veröffentlichung. Danach MkDocs, wenn die Struktu
 - Source-Refresh-Issue
 - halbjaehrlicher Radar-Run
 - automatischer Indexcheck
-

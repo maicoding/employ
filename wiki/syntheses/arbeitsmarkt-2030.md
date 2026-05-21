@@ -48,7 +48,7 @@ Mehr Output erzeugt mehr Prüfung:
 
 ### 3. Arbeit wird mehrteilig
 
-Viele Rollen müssen kuenftig drei Ebenen verbinden:
+Viele Rollen müssen künftig drei Ebenen verbinden:
 
 - Fachprozess verstehen
 - KI sinnvoll einbauen
@@ -56,7 +56,7 @@ Viele Rollen müssen kuenftig drei Ebenen verbinden:
 
 ### 4. Einstiegslernen wird fragiler
 
-Wenn einfache Aufgaben automatisiert werden, verschwinden auch Uebungsraeume. Das betrifft Juniorrollen in Wirtschaft, Design, Medien, Software, Administration und Beratung.
+Wenn einfache Aufgaben automatisiert werden, verschwinden auch Übungsräume. Das betrifft Juniorrollen in Wirtschaft, Design, Medien, Software, Administration und Beratung.
 
 ### 5. Ungleichheit kann wachsen
 

@@ -25,10 +25,9 @@ URL: https://www.autodesk.com/design-make/research/state-of-design-and-make-2025
 
 ## Grenze
 
-Autodesk ist Anbieter im Markt. Die Quelle ist als Branchen- und Produktoekosystem-Signal nutzbar, aber nicht als neutrale Arbeitsmarktstatistik.
+Autodesk ist Anbieter im Markt. Die Quelle ist als Branchen- und Produktökosystem-Signal nutzbar, aber nicht als neutrale Arbeitsmarktstatistik.
 
 ## Links
 
 - [Design Arbeitsmarkt](../../03_Design/Design_Arbeitsmarkt.md)
 - [Creative Technologist](../concepts/creative-technologist.md)
-

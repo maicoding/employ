@@ -10,10 +10,9 @@ tags: [lessons]
 # Lessons
 
 - Toolkenntnis ist kein ausreichender Employability-Beweis.
-- Routineautomatisierung kann Lernraeume entfernen.
+- Routineautomatisierung kann Lernräume entfernen.
 - Mehr Output erzeugt mehr Review.
 - Portfolio muss Entscheidung und Prüfung zeigen.
 - Design braucht Sprache, System und Rechte.
 - Wirtschaft braucht Daten, Entscheidung und Governance.
 - Public-safe heisst: lieber weniger Quellen, aber sauber.
-

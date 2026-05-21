@@ -24,11 +24,13 @@ Diese Seite ist die knappe Lesefläche für Aussagen, die im Vault bereits Quell
 
 ## Noch nicht hart genug
 
-| Aussage | Status | Nächster Check |
-|---|---|---|
-| Juniorrollen verlieren klassische Lernaufgaben. | Signal | Jobposting- und Arbeitgeberdaten nachziehen. |
-| Creative-Technology-Rollen wachsen im DACH-Designmarkt. | Signal | Öffentliche Stellenanzeigen und Branchenreports auswerten. |
-| AI-Governance wird in Wirtschaftseinstiegsrollen sichtbar. | Signal | Rollenprofile in Finance, HR, Operations und Consulting codieren. |
+Diese drei Aussagen bleiben unterhalb von `Gut belegt`. Der [AI in Design Report 2026](wiki/sources/designer-fund-ai-in-design-report-2026.md) und der [DACH Jobposting Spot Check](wiki/sources/dach-jobposting-spot-check-2026-05-21.md) machen sie präziser, aber noch nicht statistisch hart.
+
+| Aussage | Was jetzt belastbar ist | Was fehlt | Nächster Check |
+|---|---|---|---|
+| Juniorrollen verlieren klassische Lernaufgaben. | Besserer Frame: Einstiegslernen wird fragiler, weil Routineproduktion, Erstentwurf und Recherche stärker durch KI überlagert werden. Einzelne Juniorrollen verlangen bereits Agentenaufsicht, Review, Prototyping, AI-Tools und schnelle Lieferung. | DACH-Zeitreihe und Arbeitgebercodierung; nicht belegt ist ein allgemeiner Verlust von Juniorarbeit. | 30 Junior-Designrollen und 30 Wirtschaftseinstiegsrollen codieren: Routineproduktion, Review, Mentoring, AI-Tools, Freigabegrenzen. |
+| Creative-Technology-Rollen wachsen im DACH-Designmarkt. | Sichtbar sind öffentliche Rollenprofile für Creative Technology, AI Creative Technology und Design Engineering im DACH-Kontext. Sie bündeln Gestaltung, technische Pipeline, Prompt-/Modellarbeit, visuelle Urteilskraft und Qualitätssicherung. | Wachstum ist nicht belegt. Dafür braucht es Zeitvergleich oder aggregierte Jobposting-Daten. | Öffentliche Stellenanzeigen aus Designstudios, Agenturen, Produktfirmen und AI-Content-Startups als kleines Korpus codieren. |
+| AI-Governance wird in Wirtschaftseinstiegsrollen sichtbar. | Sichtbar sind Junior-/Einstiegsprofile in AI Security, AI Governance und Consulting. Bundesnetzagentur, EU-AI-Act-Kontext und Plattformquellen erklären, warum Governance-Arbeit zunimmt. | Noch zu eng auf Consulting/Security; Finance, HR und Operations sind nicht breit genug abgedeckt. | Rollenprofile in Finance, HR, Operations und Consulting getrennt codieren: Governance, Risiko, Compliance, AI Literacy, Audit, Freigabe. |
 
 ## Arbeitsregel
 

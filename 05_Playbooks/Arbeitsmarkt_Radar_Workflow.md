@@ -39,7 +39,7 @@ Er soll halbjaehrlich zeigen:
 | Daten-Signal | Werden Daten, BI, Analyse, Statistik genannt? |
 | Governance-Signal | Recht, Datenschutz, Compliance, AI Act, Bias? |
 | Portfolio-Signal | Welche Beweise sollen Bewerber:innen zeigen? |
-| Reserve Skill | Welche Grundlage bleibt noetig? |
+| Reserve Skill | Welche Grundlage bleibt nötig? |
 
 ## Auswertung
 
@@ -63,4 +63,3 @@ Ein Radarbriefing hat maximal 8 Seiten:
 6. Portfolio-Beweise
 7. Gegenchecks
 8. Nächste Quellen
-

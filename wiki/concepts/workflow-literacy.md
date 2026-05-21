@@ -34,7 +34,7 @@ Mit KI wird diese Fähigkeit wichtiger, weil einzelne Schritte automatisiert ode
 
 ## Warum es zaehlt
 
-Toolkompetenz ohne Workflow fuehrt zu Einzeloutputs. Arbeitsmarktwert entsteht, wenn Outputs in einen Prozess passen.
+Toolkompetenz ohne Workflow führt zu Einzeloutputs. Arbeitsmarktwert entsteht, wenn Outputs in einen Prozess passen.
 
 ## Grenze
 

@@ -35,3 +35,15 @@ tags: [sources]
 - [Design Council Design Economy](design-council-design-economy.md)
 - [Autodesk State of Design and Make 2025](autodesk-state-of-design-and-make-2025.md)
 
+## Ingest 2026-05-21 - AI in Design Report 2026
+
+- [Designer Fund AI in Design Report 2026](designer-fund-ai-in-design-report-2026.md) - Quellenkarte zum AI in Design Report 2026: Tools, Craft, Teams, Methodik, Grenzen und Vault-spezifische Anschlussfragen.
+- [DACH Jobposting Spot Check 2026-05-21](dach-jobposting-spot-check-2026-05-21.md) - Öffentlicher Spot-Check zu Juniorrollen, Creative Technology und AI-Governance in DACH-Rollenprofilen.
+
+## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
+
+- [Agentic Workflow Guardrails und Media Buying 2026](agentic-workflow-guardrails-media-buying-2026-05-21.md) - Industry-Signal mit Quellenstatus, Extraktion, Critical Forecast Mode und Vault-Relevanz.
+
+## Ingest 2026-05-21 - Zendesk Autonomous Service Workforce 2026
+
+- [Zendesk Autonomous Service Workforce 2026](zendesk-autonomous-service-workforce-2026-05-21.md) - Industry-Signal mit Quellenstatus, Extraktion, Critical Forecast Mode und Vault-Relevanz.

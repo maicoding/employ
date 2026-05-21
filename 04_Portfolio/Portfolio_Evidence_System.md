@@ -69,7 +69,7 @@ Was ist wiederholbar?
 
 - Was hat KI verbessert?
 - Wo war KI falsch?
-- Welche Grundlage war noetig?
+- Welche Grundlage war nötig?
 - Was wuerde ich wiederholen?
 
 ## Rubrik
@@ -88,4 +88,3 @@ Was ist wiederholbar?
 - [Portfolio Evidence](../wiki/concepts/portfolio-evidence.md)
 - [Decision Evidence](../wiki/concepts/decision-evidence.md)
 - [Provenance and Rights](../wiki/concepts/provenance-and-rights.md)
-

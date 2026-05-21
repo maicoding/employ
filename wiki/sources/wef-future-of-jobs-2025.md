@@ -25,7 +25,7 @@ Der Report bündelt die Erwartungen von über 1.000 Arbeitgebern aus 22 Branchen
 
 - Der Arbeitsmarkt verändert sich nicht nur durch KI. WEF nennt auch gruene Transformation, Demografie, Geökonomie und wirtschaftliche Unsicherheit.
 - WEF erwartet starke Nachfrage nach KI, Big Data, Cybersecurity und technologischer Grundkompetenz.
-- Gleichzeitig bleiben analytisches Denken, kreative Problembearbeitung, Resilienz, Fuehrung und Zusammenarbeit wichtig.
+- Gleichzeitig bleiben analytisches Denken, kreative Problembearbeitung, Resilienz, Führung und Zusammenarbeit wichtig.
 - Die Skill-Frage ist nicht "Mensch oder Maschine", sondern "welche Kombination aus Technik, Urteil und Anpassung".
 
 ## Was die Quelle traegt
@@ -41,4 +41,3 @@ Arbeitgebererwartungen sind keine gemessenen Karriereverlaeufe. Branchen, Region
 - [Arbeitsmarkt 2030](../syntheses/arbeitsmarkt-2030.md)
 - [Skill Families](../../01_Arbeitsmarkt/Skill_Families.md)
 - [AI Readiness](../concepts/ai-readiness.md)
-

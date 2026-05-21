@@ -94,6 +94,8 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 
 - [Source Register](../review/source-register.md)
 - [Claim Register](../review/claim-register.md)
+- [Claim Hardening Map 2026-05-21](../review/claim-hardening-map-2026-05-21.md)
+- [Jobposting Coding](../review/jobposting-coding.md)
 - [Public Safe Audit](../review/public-safe-audit.md)
 
 ## Thematische Einstiege
@@ -103,3 +105,16 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Wirtschaft Arbeitsmarkt](../02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Design Arbeitsmarkt](../03_Design/Design_Arbeitsmarkt.md)
 - [Portfolio Evidence System](../04_Portfolio/Portfolio_Evidence_System.md)
+
+## Ingest 2026-05-21 - AI in Design Report 2026
+
+- [Designer Fund AI in Design Report 2026](sources/designer-fund-ai-in-design-report-2026.md) - Quellenkarte zum AI in Design Report 2026: Tools, Craft, Teams, Methodik, Grenzen und Vault-spezifische Anschlussfragen.
+- [DACH Jobposting Spot Check 2026-05-21](sources/dach-jobposting-spot-check-2026-05-21.md) - Öffentlicher Spot-Check zu Juniorrollen, Creative Technology und AI-Governance in DACH-Rollenprofilen.
+
+## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
+
+- [Agentic Workflow Guardrails und Media Buying 2026](sources/agentic-workflow-guardrails-media-buying-2026-05-21.md) - Industry-Signal mit Quellenstatus, Extraktion, Critical Forecast Mode und Vault-Relevanz.
+
+## Ingest 2026-05-21 - Zendesk Autonomous Service Workforce 2026
+
+- [Zendesk Autonomous Service Workforce 2026](sources/zendesk-autonomous-service-workforce-2026-05-21.md) - Industry-Signal mit Quellenstatus, Extraktion, Critical Forecast Mode und Vault-Relevanz.
