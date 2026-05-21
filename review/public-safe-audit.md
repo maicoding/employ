@@ -23,7 +23,6 @@ Geprüft:
 
 Offen:
 
-- externe Links spaeter automatisch prüfen
+- externe Links später automatisch prüfen
 - Lizenzhinweis für GitHub Pages ergänzen
 - Design-DACH-Quellen nachziehen
-

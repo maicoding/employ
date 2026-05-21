@@ -41,11 +41,10 @@ Wer arbeitsfähig sein will, muss deshalb nicht nur ein Tool kennen. Man muss er
 
 ## Grenze
 
-AI Readiness ist kein Persoenlichkeitsmerkmal. Sie haengt von Zugang, Zeit, Sprache, Lernumgebung, Organisation und Toolkosten ab.
+AI Readiness ist kein Persönlichkeitsmerkmal. Sie hängt von Zugang, Zeit, Sprache, Lernumgebung, Organisation und Toolkosten ab.
 
 ## Links
 
 - [GenAI Divide](genai-divide.md)
 - [Workflow Literacy](workflow-literacy.md)
 - [Governance and Risk](governance-and-risk.md)
-

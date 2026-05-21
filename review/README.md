@@ -16,8 +16,9 @@ Hier werden Quellen, Claims und Grenzen geprüft.
 - [Source Register](source-register.md)
 - [Claim Register](claim-register.md)
 - [Public Safe Audit](public-safe-audit.md)
+- [Galloway OMR 2026 Claim Triage](galloway-omr-2026-claim-triage.md)
 
-## Dateien, die spaeter ergänzt werden sollten
+## Dateien, die später ergänzt werden sollten
 
 - `jobposting-coding.md`
 - `contradiction-scan.md`

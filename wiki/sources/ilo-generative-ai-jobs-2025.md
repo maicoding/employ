@@ -33,11 +33,10 @@ Sie stützt die Unterscheidung zwischen Job-Ersatz und Task-Rebundling. Sie ist 
 
 ## Grenze
 
-Exposition ist nicht Adoption. Ob Betriebe KI tatsaechlich einsetzen, haengt von Kosten, Recht, Organisation, Daten, Akzeptanz und Qualifikation ab.
+Exposition ist nicht Adoption. Ob Betriebe KI tatsächlich einsetzen, hängt von Kosten, Recht, Organisation, Daten, Akzeptanz und Qualifikation ab.
 
 ## Links
 
 - [Task Rebundling](../concepts/task-rebundling.md)
 - [Entry Level Compression](../concepts/entry-level-compression.md)
 - [Design Arbeitsmarkt](../../03_Design/Design_Arbeitsmarkt.md)
-
