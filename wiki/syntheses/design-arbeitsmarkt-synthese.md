@@ -14,6 +14,8 @@ sources:
   - "../sources/dandad-pencils-germany-2026-creative-work-shift.md"
   - "../sources/agf-youtube-video-measurement-platform-metrics-2026.md"
   - "../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md"
+  - "../sources/atlassian-ai-design-nondeterminism-trust-2026.md"
+  - "../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md"
   - "../sources/ilo-generative-ai-jobs-2025.md"
 ---
 
@@ -91,7 +93,11 @@ Der D&AD-Pencils-Scan 2026 ergänzt die Marktlogik um eine Craft- und Spitzenarb
 
 Das AGF/YouTube-Signal macht die Messseite derselben Verschiebung sichtbar: Designer:innen und Marketingabsolvent:innen müssen nicht nur Inhalte für Plattformen bauen, sondern Reichweitenwährungen und Messgrenzen verstehen. Views, Watchtime und Interaktionen sind nicht automatisch mit neutraler, crossmedialer Reichweite vergleichbar.
 
-Das BVDW-Internetagentur-Ranking 2026 ergaenzt die Agenturperspektive: Wenn Honorarumsaetze leicht steigen, Mitarbeitendenzahlen aber sinken und KI-Skalierung als Werttreiber gilt, wird Design-Employability staerker zu Workflow-, Review-, Daten- und Beratungskompetenz. Routineproduktion allein wird als Einstiegsbeweis schwaecher.
+Das BVDW-Internetagentur-Ranking 2026 ergänzt die Agenturperspektive: Wenn Honorarumsätze leicht steigen, Mitarbeitendenzahlen aber sinken und KI-Skalierung als Werttreiber gilt, wird Design-Employability stärker zu Workflow-, Review-, Daten- und Beratungskompetenz. Routineproduktion allein wird als Einstiegsbeweis schwächer.
+
+Das Atlassian/Figma-Signal zeigt die Produktdesign-Seite: Nichtdeterministische KI braucht Trust- und Kontrollarchitektur. Designarbeit umfasst Zustandsanzeige, Undo, Recovery, Nachvollziehbarkeit, Designsystem-Kontext und Brand-/Freigabelogik. Grundlagen wie Designgeschichte, Typografie und Wahrnehmung werden dadurch zu Urteilskriterien.
+
+Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt die Performance-Creative-Seite: Werbemittelproduktion wird agentisch und rückt in Media-Buying-Infrastruktur. Designer:innen müssen Brand Guardrails, Variantenlogik, Creative Fatigue, Rechte, Freigaben und Testing in einem operativen Kampagnenworkflow verstehen.
 
 ## Rollen, die wichtiger werden
 
@@ -133,3 +139,5 @@ Nicht jede Designpraxis wird technisch. Handwerk, Konzept, Kritik, Kultur, Typog
 - [D&AD Awards 2026 Creative Work Shift](../sources/dandad-pencils-germany-2026-creative-work-shift.md)
 - [AGF, YouTube and Video Measurement 2026](../sources/agf-youtube-video-measurement-platform-metrics-2026.md)
 - [BVDW Internet Agency Ranking 2026](../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)
+- [Atlassian AI Design 2026](../sources/atlassian-ai-design-nondeterminism-trust-2026.md)
+- [Azerion AdMove.ai Hawk DSP 2026](../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md)

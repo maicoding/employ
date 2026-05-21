@@ -30,3 +30,5 @@ tags: [review, sources]
 | S17 | [D&AD Awards 2026 Creative Work Shift](../wiki/sources/dandad-pencils-germany-2026-creative-work-shift.md) | award archive / case scan | supporting | creative-system work, portfolio evidence, design skill shift |
 | S18 | [AGF and Amazon Video Measurement](../wiki/sources/agf-youtube-video-measurement-platform-metrics-2026.md) | public measurement documentation | supporting | measurement literacy, platform metrics, cross-media comparability |
 | S19 | [BVDW Internet Agency Ranking 2026](../wiki/sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md) | industry ranking / trend analysis | supporting | AI value driver, staff compression, agency productivity |
+| S20 | [Atlassian AI Design 2026](../wiki/sources/atlassian-ai-design-nondeterminism-trust-2026.md) | vendor documentation / workflow context | supporting | non-deterministic UX, trust, design foundations, MCP workflows |
+| S21 | [Azerion AdMove.ai Hawk DSP 2026](../wiki/sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md) | vendor press / product context | supporting | agentic creative production, DSP workflow, brand governance |

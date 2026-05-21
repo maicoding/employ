@@ -13,6 +13,7 @@ sources:
   - "../sources/bundesnetzagentur-ki-kompetenz-2025.md"
   - "../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md"
   - "../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md"
+  - "../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md"
 ---
 
 # Wirtschaft Arbeitsmarkt Synthese
@@ -67,7 +68,9 @@ Die Plattformverschiebung im Werbemarkt verschärft das: Marketingarbeit braucht
 
 Marketing- und Wirtschaftsstudierende müssen Brutto-Werbedruck, Nettoerlöse, Plattformbudgets und Attributionsdaten unterscheiden. Sonst lesen sie Mediamix-Daten falsch.
 
-Das BVDW-Internetagentur-Ranking 2026 zeigt zudem eine Produktivitaets- und Organisationsfrage: Digitalagenturen melden leicht steigende Honorarumsaetze bei sinkenden Mitarbeitendenzahlen und beschreiben KI-Skalierung, Custom Workflows und Agentic AI als Werttreiber. Wirtschaftliche Employability verschiebt sich damit zu Prozessanalyse, Automationsbewertung, Kostenmodell, Governance und Beratungsargumentation.
+Das BVDW-Internetagentur-Ranking 2026 zeigt zudem eine Produktivitäts- und Organisationsfrage: Digitalagenturen melden leicht steigende Honorarumsätze bei sinkenden Mitarbeitendenzahlen und beschreiben KI-Skalierung, Custom Workflows und Agentic AI als Werttreiber. Wirtschaftliche Employability verschiebt sich damit zu Prozessanalyse, Automationsbewertung, Kostenmodell, Governance und Beratungsargumentation.
+
+Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt die operative Marketingseite dieser Entwicklung: Creative Production, Media Buying und Performance Testing verschmelzen. Wirtschaftliche Kompetenz braucht deshalb DSP-/Programmatic-Grundlagen, Budgetlogik, Brand Governance, Freigabeprozesse und Human Review für agentische Kampagnenworkflows.
 
 ### HR
 
@@ -113,3 +116,4 @@ Wirtschaft ist breit. Finance, Marketing, HR, Operations, Consulting und Entrepr
 - [Wirtschaft Rollen und Portfolio](../../02_Wirtschaft/Wirtschaft_Rollen_und_Portfolio.md)
 - [BVDW/OVK Prognose Digitaler Werbemarkt](../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md)
 - [BVDW Internet Agency Ranking 2026](../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)
+- [Azerion AdMove.ai Hawk DSP 2026](../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md)

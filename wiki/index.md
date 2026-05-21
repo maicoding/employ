@@ -67,6 +67,8 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Autodesk State of Design and Make 2025](sources/autodesk-state-of-design-and-make-2025.md)
 - [BVDW/OVK Prognose Digitaler Werbemarkt 2026](sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md)
 - [BVDW Internet Agency Ranking 2026](sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)
+- [Atlassian AI Design 2026](sources/atlassian-ai-design-nondeterminism-trust-2026.md)
+- [Azerion AdMove.ai Hawk DSP 2026](sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md)
 - [D&AD Awards 2026 Creative Work Shift](sources/dandad-pencils-germany-2026-creative-work-shift.md)
 - [AGF and Amazon Video Measurement](sources/agf-youtube-video-measurement-platform-metrics-2026.md)
 

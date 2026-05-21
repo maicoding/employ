@@ -83,6 +83,18 @@ Nächster Check: Stellenprofile für Media Planning, Creator Strategy, Performan
 
 ### Agenturwachstum entkoppelt sich teilweise von Headcount
 
-Das BVDW Internetagentur-Ranking 2026 zeigt einen produktivitaetsnahen Spannungsbefund: Die teilnehmenden Digitalagenturen melden wieder leicht steigende Honorarumsaetze, waehrend die Mitarbeitendenzahl sinkt. Gleichzeitig beschreiben die Agenturen KI-Skalierung, Custom Workflows und Agentic AI als Werttreiber.
+Das BVDW Internetagentur-Ranking 2026 zeigt einen produktivitätsnahen Spannungsbefund: Die teilnehmenden Digitalagenturen melden wieder leicht steigende Honorarumsätze, während die Mitarbeitendenzahl sinkt. Gleichzeitig beschreiben die Agenturen KI-Skalierung, Custom Workflows und Agentic AI als Werttreiber.
 
-Naechster Check: Stellenprofile in Digitalagenturen auf AI Production Operations, Workflow Automation, Data Transformation, QA, Consulting und Junior-Routineabbau pruefen.
+Nächster Check: Stellenprofile in Digitalagenturen auf AI Production Operations, Workflow Automation, Data Transformation, QA, Consulting und Junior-Routineabbau prüfen.
+
+### KI-Design wird Trust- und Kontrollarchitektur
+
+Das Atlassian/Figma-Signal verschiebt die Skillfrage vom Output zum Verhalten nichtdeterministischer Systeme. Designer:innen müssen Systemzustand, Kontrolle, Undo, Nachvollziehbarkeit, Brand Voice und Human Review gestalten. Grundlagen werden dabei nicht abgelöst, sondern zu Prüfkriterien gegen plausible Mittelmäßigkeit.
+
+Nächster Check: Rollenprofile für Product Design, UX, Design Systems und AI Product Design auf Trust, Agent UX, Designsystem-MCP, Undo/Recovery, Governance und Foundations prüfen.
+
+### Creative Production wandert in Media-Buying-Infrastruktur
+
+Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt, dass KI-gestützte Werbemittelproduktion direkt in DSP- und Aktivierungsumgebungen integriert wird. Damit verschmelzen Kreation, Brand Governance, Freigabe, Publishing, Testing und Media Buying.
+
+Nächster Check: Stellenprofile für Performance Creative, Media Buying, Creative Operations, AdTech und Marketing Automation auf DSP, Agentic AI, Brand Governance, Testing und Human Review prüfen.

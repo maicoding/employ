@@ -11,7 +11,7 @@ tags: [digital-agencies, ai, agentic-ai, employability, productivity]
 
 ## Status
 
-Evidence-linked for public BVDW ranking and press-release data. Candidate for Horizont-specific interpretation details from the user-provided article.
+Evidence-linked for public BVDW ranking and press-release data. Use as industry self-report and market-direction signal.
 
 ## Signal
 
@@ -23,8 +23,8 @@ The 2026 German internet agency ranking shows a productivity-pressure pattern: r
 - Plan.Net ranks first with 258.823 million euros, up 4.3 percent, and 1,710 employees, down 8.0 percent.
 - Reply - Digital Experience ranks second with 242.785 million euros, up 1.5 percent, and 1,606 employees, down 4.1 percent.
 - ]init[ ranks third with 195.894 million euros, up 7.1 percent, and 1,201 employees, up 1.2 percent.
-- Horizont reports total headcount across evaluated agencies falling from 19,285 to 18,729.
-- Horizont/BVDW trend analysis reports high relevance of data-centered process transformation, AI scaling, custom AI ecosystems/workflows and Agentic AI in production and consulting.
+- The visible top-ranked agencies show revenue growth with flat or falling staff counts in several cases.
+- The public BVDW material frames AI, workflow change and digital transformation as central agency topics.
 
 ## Interpretation
 
@@ -48,5 +48,4 @@ The ranking is based on participating agencies and industry self-reporting. Fall
 
 - BVDW Internetagentur-Ranking 2026: https://www.bvdw.org/rankings/internetagentur-ranking-2026/
 - BVDW press release, 19 May 2026: https://www.bvdw.org/news-und-publikationen/internetagentur-ranking-2026-plannet-verteidigt-spitzenposition/
-- Horizont, Eva-Maria Schmidt, 19 May 2026, "Das sind die 50 umsatzstärksten deutschen Digitalagenturen" (user-provided full text)
 - iBusiness Ranking 2026: https://www.ibusiness.de/internetagentur-ranking/ranking_2026
