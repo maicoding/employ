@@ -1,0 +1,18 @@
+---
+layout: null
+---
+[
+{% assign indexed_pages = site.pages | where_exp: "page", "page.url != '/search.json'" | sort: "url" %}
+{% for item in indexed_pages %}
+  {
+    "title": {{ item.title | default: item.name | jsonify }},
+    "url": {{ item.url | relative_url | jsonify }},
+    "path": {{ item.path | jsonify }},
+    "type": {{ item.type | default: "" | jsonify }},
+    "status": {{ item.status | default: "" | jsonify }},
+    "tags": {{ item.tags | join: " " | jsonify }},
+    "content": {{ item.content | strip_html | strip_newlines | replace: "\t", " " | replace: "  ", " " | truncate: 5000 | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
+

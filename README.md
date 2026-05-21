@@ -15,6 +15,9 @@ Der Vault ist allgemein gehalten. Er enthaelt keine institutionellen Alt-Bezuege
 
 ## Einstieg
 
+- [Suche](Suche.md)
+- [Begriffsindex](Begriffsindex.md)
+- [Strukturkarte](Strukturkarte.md)
 - [Belastbare Aussagen](Belastbare_Aussagen.md)
 - [Trends und Signale](Trends_und_Signale.md)
 - [Start hier](00_Start/Start_Hier.md)

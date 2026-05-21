@@ -13,6 +13,9 @@ Der Vault sammelt Quellen, trennt Signale von belastbaren Aussagen und baut dara
 
 ## Direkteinstieg
 
+- [Suche](Suche.md)
+- [Begriffsindex](Begriffsindex.md)
+- [Strukturkarte](Strukturkarte.md)
 - [Belastbare Aussagen](Belastbare_Aussagen.md)
 - [Trends und Signale](Trends_und_Signale.md)
 - [Arbeitsmarkt 2030 Ueberblick](01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)

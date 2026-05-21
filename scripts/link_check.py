@@ -24,7 +24,7 @@ for path in iter_files():
         target = raw.split("#", 1)[0]
         if not target or target.startswith(("http", "mailto:")):
             continue
-        full = (path.parent / target).resolve()
+        full = Path(os.path.normpath(path.parent / target))
         if not full.exists():
             missing.append(f"{path.relative_to(ROOT)}: {raw} -> {full}")
 

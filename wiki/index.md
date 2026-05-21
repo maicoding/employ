@@ -13,6 +13,9 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 
 ## Start
 
+- [Suche](../Suche.md)
+- [Begriffsindex](../Begriffsindex.md)
+- [Strukturkarte](../Strukturkarte.md)
 - [Belastbare Aussagen](../Belastbare_Aussagen.md)
 - [Trends und Signale](../Trends_und_Signale.md)
 - [Fehlstellen und Roadmap](../Fehlstellen_und_Roadmap.md)
