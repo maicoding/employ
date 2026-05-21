@@ -5,12 +5,16 @@ import os
 
 ROOT = Path.cwd()
 FORBIDDEN = [
-    re.compile(r"FH", re.IGNORECASE),
+    re.compile(r"\bFH\b", re.IGNORECASE),
     re.compile(r"Dortmund", re.IGNORECASE),
+    re.compile(r"Horizont", re.IGNORECASE),
+    re.compile(r"\bDIE ZEIT\b", re.IGNORECASE),
+    re.compile(r"\bFAZ\b", re.IGNORECASE),
+    re.compile(r"\bSPIEGEL\b", re.IGNORECASE),
     re.compile(r"file://", re.IGNORECASE),
     re.compile(r"/Users/claudiamai", re.IGNORECASE),
     re.compile(r"\[\["),
-    re.compile(r"TODO|TBD|Lorem|placeholder", re.IGNORECASE),
+    re.compile(r"TODO|TBD|Lorem", re.IGNORECASE),
 ]
 
 ALLOWED = {

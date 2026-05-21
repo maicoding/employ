@@ -1,5 +1,5 @@
 ---
-title: "Arbeitsmarkt 2030 Ueberblick"
+title: "Arbeitsmarkt 2030 Überblick"
 type: entry
 status: reviewed
 created: 2026-05-21
@@ -7,17 +7,17 @@ updated: 2026-05-21
 tags: [arbeitsmarkt, overview]
 ---
 
-# Arbeitsmarkt 2030 Ueberblick
+# Arbeitsmarkt 2030 Überblick
 
 ## Kerngedanke
 
-Die wichtigste Veraenderung ist nicht, dass KI "Jobs ersetzt". Die robustere Frage lautet:
+Die wichtigste Veränderung ist nicht, dass KI "Jobs ersetzt". Die robustere Frage lautet:
 
 ```text
-Welche Aufgaben werden billiger, welche werden wichtiger, und welche neuen Pruefaufgaben entstehen?
+Welche Aufgaben werden billiger, welche werden wichtiger, und welche neuen Prüfaufgaben entstehen?
 ```
 
-## Fuenf Bewegungen
+## Fünf Bewegungen
 
 ### 1. Routine wird automatisierbarer
 
@@ -37,10 +37,10 @@ Wenn Output schnell kommt, muss die Aufgabe besser gerahmt werden:
 - Was ist das Ziel?
 - Wer entscheidet?
 - Welche Constraints gelten?
-- Was waere ein Fehler?
-- Welche Daten duerfen genutzt werden?
+- Was wäre ein Fehler?
+- Welche Daten dürfen genutzt werden?
 
-### 3. Pruefung wird Arbeit
+### 3. Prüfung wird Arbeit
 
 KI erzeugt Review-Bedarf:
 
@@ -55,11 +55,11 @@ KI erzeugt Review-Bedarf:
 
 ### 4. Portfolio wird Beleg
 
-Ein Ergebnis allein sagt weniger aus. Arbeitsfaehigkeit zeigt sich in Prozess, Entscheidung und Pruefung.
+Ein Ergebnis allein sagt weniger aus. Arbeitsfähigkeit zeigt sich in Prozess, Entscheidung und Prüfung.
 
 ### 5. Grundlagen bleiben notwendig
 
-Wer KI-Ergebnisse nicht fachlich pruefen kann, verliert Steuerung.
+Wer KI-Ergebnisse nicht fachlich prüfen kann, verliert Steuerung.
 
 ## Skill-Familien
 

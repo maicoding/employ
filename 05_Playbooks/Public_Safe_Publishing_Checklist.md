@@ -9,10 +9,10 @@ tags: [publishing, public-safe]
 
 # Public Safe Publishing Checklist
 
-## Vor jeder Veroeffentlichung
+## Vor jeder Veröffentlichung
 
 - Keine institutionellen Alt-Bezuege.
-- Keine geschuetzten Quellen.
+- Keine geschützten Quellen.
 - Keine Pressespiegel-Auswertung.
 - Keine kopierten Volltexte.
 - Keine langen Zitate.
@@ -20,20 +20,20 @@ tags: [publishing, public-safe]
 - Jede Quelle hat URL.
 - Unsicherheit ist sichtbar.
 - Keine personenbezogenen Daten.
-- Keine internen Dateipfade in oeffentlichen Texten.
+- Keine internen Dateipfade in öffentlichen Texten.
 
 ## Sprachcheck
 
 - Keine Adjektivketten.
-- Keine grossen KI-Behauptungen ohne Mechanismus.
-- Kuenstliche Gegensatz-Schemata vermeiden.
+- Keine großen KI-Behauptungen ohne Mechanismus.
+- Künstliche Gegensatz-Schemata vermeiden.
 - Kurze Saetze bevorzugen.
 - Konkrete Arbeitsaufgaben nennen.
 
 ## GitHub-Check
 
-- `README.md` ist Einstieg fuer Repo.
-- `index.md` ist Einstieg fuer Pages.
+- `README.md` ist Einstieg für Repo.
+- `index.md` ist Einstieg für Pages.
 - Links funktionieren relativ.
-- Lizenzhinweis ist ergaenzt.
+- Lizenzhinweis ist ergänzt.
 - Quellenhinweis ist sichtbar.

@@ -31,7 +31,7 @@ URL:
 
 ## Worum es geht
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
 ## Was die Quelle traegt
 
@@ -39,4 +39,3 @@ URL:
 
 ## Links
 ```
-

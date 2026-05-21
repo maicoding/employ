@@ -18,15 +18,15 @@ tags: [health-check, maintenance]
 
 ## Offene Punkte
 
-- Jobposting-Daten fuer DACH/Wirtschaft/Design als eigene oeffentliche Datenbasis nachziehen.
+- Jobposting-Daten für DACH/Wirtschaft/Design als eigene öffentliche Datenbasis nachziehen.
 - Design-spezifische DACH-Quellen suchen, die nicht Paywall oder Verbandspresse allein sind.
 - Spaetere GitHub-Pages-Struktur entscheiden: Jekyll, MkDocs oder reine GitHub-Markdown-Navigation.
-- Lizenzhinweis ergaenzen, bevor veroeffentlicht wird.
+- Lizenzhinweis ergänzen, bevor veröffentlicht wird.
 - Automatisierten Linkcheck und Public-Safe-Lint bauen.
 
 ## Nicht verwenden
 
-- geschuetzte Pressespiegel
+- geschützte Pressespiegel
 - Paywall-Artikel als tragende Quelle
 - kopierte Volltexte
 - interne Hochschuldokumente

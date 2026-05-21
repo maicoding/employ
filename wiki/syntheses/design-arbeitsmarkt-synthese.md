@@ -10,6 +10,10 @@ sources:
   - "../sources/bls-web-digital-designers-2024-2034.md"
   - "../sources/design-council-design-economy.md"
   - "../sources/autodesk-state-of-design-and-make-2025.md"
+  - "../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md"
+  - "../sources/dandad-pencils-germany-2026-creative-work-shift.md"
+  - "../sources/agf-youtube-video-measurement-platform-metrics-2026.md"
+  - "../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md"
   - "../sources/ilo-generative-ai-jobs-2025.md"
 ---
 
@@ -24,7 +28,7 @@ Stark unter Druck stehen:
 - schnelle Varianten
 - einfache Layouts
 - Moodboards
-- erste Bildentwuerfe
+- erste Bildentwürfe
 - einfache Social-Adaptionen
 - generische Visuals
 
@@ -43,9 +47,9 @@ Wichtiger werden:
 
 ## Warum Grafikdesign nicht ausreicht
 
-BLS projiziert fuer Graphic Designers nur geringes Wachstum. Gleichzeitig wachsen digitale Interface- und Webrollen staerker.
+BLS projiziert für Graphic Designers nur geringes Wachstum. Gleichzeitig wachsen digitale Interface- und Webrollen stärker.
 
-Das passt zu einer groesseren Verschiebung:
+Das passt zu einer größeren Verschiebung:
 
 ```text
 Vom einzelnen Artefakt zum System aus Touchpoints, Daten, Tools, Formaten und Freigaben.
@@ -55,29 +59,52 @@ Vom einzelnen Artefakt zum System aus Touchpoints, Daten, Tools, Formaten und Fr
 
 KI macht Sprache, Referenzen und Auswahl wichtiger.
 
-Gute Designer:innen muessen nicht nur ein Bild erzeugen. Sie muessen:
+Gute Designer:innen müssen nicht nur ein Bild erzeugen. Sie müssen:
 
 - Briefings schreiben
 - Referenzen kuratieren
 - Stilgrenzen setzen
 - Varianten lesen
 - Fehler erkennen
-- Rechte klaeren
+- Rechte klären
 - Serien konsistent halten
-- Arbeit in ein System ueberfuehren
+- Arbeit in ein System überführen
+
+## Plattformen als Arbeitsumgebung
+
+Öffentliche BVDW/OVK-Signale zeigen, dass digitale Werbung weiter wächst und Online-Video, Programmatic und Plattformlogiken wichtig bleiben. Für Design bedeutet das: Gestaltung findet nicht nur im Artefakt statt, sondern in einer Arbeitsumgebung aus Format, Distribution, Metrik, Brand Safety, Rechteklärung und Kostenlogik.
+
+Design-Employability braucht deshalb:
+
+- Cross-Plattform-Formatdenken
+- Kampagnen- und Touchpoint-Systeme
+- Anti-Slop- und Differenzierungsurteil
+- Rechte-/Provenance-Prüfung
+- Verständnis für Media-Kosten und Wirkungsdaten
+- Portfolio-Belege für Kanalstrategie, Review und Ergebnisqualität
+
+KI-Suche und Zero-Click-Umgebungen sind als Arbeitsmarktsignal plausibel, aber im Vault noch nicht hart genug belegt. Sie bleiben eine Recherchelinie: Designer:innen müssen wahrscheinlich stärker zeigen, wie Gestaltung Auffindbarkeit, Vertrauen und Wirkung stützt.
+
+Mediamix bleibt eine Kompetenzfrage. Designarbeit muss Kanalspezifik, Formatlogik und Messannahmen zeigen, statt nur ein einheitliches Kampagnenvisual über alle Kanäle zu ziehen.
+
+Der D&AD-Pencils-Scan 2026 ergänzt die Marktlogik um eine Craft- und Spitzenarbeits-Perspektive: Preisfähige Kampagnen sind nicht nur schöne Outputs, sondern Mechaniken aus Filmcraft, Service Design, Sport-Entertainment, Accessibility, Recht, Plattform und Wirkung. Für Employability heißt das: Studierende müssen Case-Mechanik, Creative Direction, Rechte-/Risikoarbeit und Wirkungslogik nachweisen können.
+
+Das AGF/YouTube-Signal macht die Messseite derselben Verschiebung sichtbar: Designer:innen und Marketingabsolvent:innen müssen nicht nur Inhalte für Plattformen bauen, sondern Reichweitenwährungen und Messgrenzen verstehen. Views, Watchtime und Interaktionen sind nicht automatisch mit neutraler, crossmedialer Reichweite vergleichbar.
+
+Das BVDW-Internetagentur-Ranking 2026 ergaenzt die Agenturperspektive: Wenn Honorarumsaetze leicht steigen, Mitarbeitendenzahlen aber sinken und KI-Skalierung als Werttreiber gilt, wird Design-Employability staerker zu Workflow-, Review-, Daten- und Beratungskompetenz. Routineproduktion allein wird als Einstiegsbeweis schwaecher.
 
 ## Rollen, die wichtiger werden
 
 - AI Creative Producer
 - AI Art Director
 - Creative Technologist
-- UX/UI Designer mit KI- und Datenverstaendnis
+- UX/UI Designer mit KI- und Datenverständnis
 - Motion / Generative Video Designer
 - Product Visualization Specialist
 - AI QC / Provenance Reviewer
 - Brand Systems Designer
 
-Diese Rollen sind nicht alle standardisiert. Sie beschreiben Arbeitsbuendel, die in Agenturen, Studios, Unternehmen und Freelance-Praxis auftauchen koennen.
+Diese Rollen sind nicht alle standardisiert. Sie beschreiben Arbeitsbündel, die in Agenturen, Studios, Unternehmen und Freelance-Praxis auftauchen können.
 
 ## Portfolio-Beweise
 
@@ -87,19 +114,22 @@ Ein gutes Designportfolio unter KI-Bedingungen zeigt:
 - Ausgangsmaterial
 - Prompt- oder Briefinglogik
 - Variantenmatrix
-- Auswahlbegruendung
+- Auswahlbegründung
 - Rechte- und Provenance-Notiz
-- Qualitaetspruefung
+- Qualitätsprüfung
 - Handoff
 - finale Anwendung
 
 ## Grenze
 
-Nicht jede Designpraxis wird technisch. Handwerk, Konzept, Kritik, Kultur, Typografie, Fotografie, Material und soziale Beobachtung bleiben wichtig. KI macht diese Grundlagen nicht unwichtig. Sie macht sie zu Pruefkriterien.
+Nicht jede Designpraxis wird technisch. Handwerk, Konzept, Kritik, Kultur, Typografie, Fotografie, Material und soziale Beobachtung bleiben wichtig. KI macht diese Grundlagen nicht unwichtig. Sie macht sie zu Prüfkriterien.
 
 ## Anschluss
 
 - [Design Through Language](../concepts/design-through-language.md)
 - [Creative Technologist](../concepts/creative-technologist.md)
 - [Portfolio Evidence](../concepts/portfolio-evidence.md)
-
+- [BVDW/OVK Prognose Digitaler Werbemarkt](../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md)
+- [D&AD Awards 2026 Creative Work Shift](../sources/dandad-pencils-germany-2026-creative-work-shift.md)
+- [AGF, YouTube and Video Measurement 2026](../sources/agf-youtube-video-measurement-platform-metrics-2026.md)
+- [BVDW Internet Agency Ranking 2026](../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)

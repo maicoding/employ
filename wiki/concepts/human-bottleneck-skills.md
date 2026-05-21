@@ -14,27 +14,27 @@ sources:
 
 ## Definition
 
-Human Bottleneck Skills sind Faehigkeiten, bei denen der Engpass nicht reine Produktion ist, sondern Urteil, Verantwortung, Beziehung, Kontext oder Freigabe.
+Human Bottleneck Skills sind Fähigkeiten, bei denen der Engpass nicht reine Produktion ist, sondern Urteil, Verantwortung, Beziehung, Kontext oder Freigabe.
 
 ## Beispiele
 
 - Problem richtig rahmen
-- mit Kund:innen oder Stakeholdern klaeren, was zaehlt
+- mit Kund:innen oder Stakeholdern klären, was zaehlt
 - aus mehreren Varianten entscheiden
-- Verantwortung fuer Fehler uebernehmen
+- Verantwortung für Fehler übernehmen
 - soziale Folgen einschaetzen
 - Konflikte moderieren
-- Stil und Qualitaet begruenden
+- Stil und Qualität begründden
 
 ## Warum es zaehlt
 
 Wenn KI Produktion beschleunigt, wird der Engpass oft nicht kleiner. Er wandert.
 
-Mehr Output erzeugt mehr Auswahl, mehr Pruefung und mehr Verantwortung.
+Mehr Output erzeugt mehr Auswahl, mehr Prüfung und mehr Verantwortung.
 
 ## Grenze
 
-Auch diese Skills koennen durch KI unterstuetzt werden. Der Punkt ist nicht, dass Menschen alles allein tun. Der Punkt ist, dass die Verantwortung nicht verschwindet.
+Auch diese Skills können durch KI unterstützt werden. Der Punkt ist nicht, dass Menschen alles allein tun. Der Punkt ist, dass die Verantwortung nicht verschwindet.
 
 ## Links
 

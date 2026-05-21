@@ -19,13 +19,13 @@ URL: https://www.bls.gov/ooh/business-and-financial/management-analysts.htm
 
 ## Worum es geht
 
-Die BLS beschreibt Aufgaben, Einkommen und Beschaeftigungsausblick fuer Management Analysts in den USA.
+Die BLS beschreibt Aufgaben, Einkommen und Beschäftigungsausblick für Management Analysts in den USA.
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
-- Die BLS projiziert fuer Management Analysts 9 Prozent Beschaeftigungswachstum von 2024 bis 2034.
+- Die BLS projiziert für Management Analysts 9 Prozent Beschäftigungswachstum von 2024 bis 2034.
 - Die Rolle verbindet Analyse, Prozessverstaendnis, Organisationsveraenderung und Entscheidungsvorbereitung.
-- Fuer KI-Employability ist diese Rolle ein Beispiel: Wert entsteht nicht nur durch Analyseoutput, sondern durch Problemrahmung, Umsetzung und Stakeholderarbeit.
+- Für KI-Employability ist diese Rolle ein Beispiel: Wert entsteht nicht nur durch Analyseoutput, sondern durch Problemrahmung, Umsetzung und Stakeholderarbeit.
 
 ## Grenze
 

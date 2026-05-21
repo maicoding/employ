@@ -14,11 +14,11 @@ sources:
 
 ## Definition
 
-Validation Burden beschreibt die zusaetzliche Pruefarbeit, die entsteht, wenn KI schneller Output erzeugt.
+Validation Burden beschreibt die zusaetzliche Prüfarbeit, die entsteht, wenn KI schneller Output erzeugt.
 
 ## Warum es zaehlt
 
-KI kann Entwuerfe, Analysen, Bilder, Reports oder Code beschleunigen. Aber jemand muss pruefen:
+KI kann Entwürfe, Analysen, Bilder, Reports oder Code beschleunigen. Aber jemand muss prüfen:
 
 - Stimmt das?
 - Passt das zum Kontext?
@@ -32,7 +32,7 @@ Schneller Output verschiebt Arbeit in Review.
 
 Wirtschaft:
 
-- Plausibilitaet von Zahlen
+- Plausibilität von Zahlen
 - Annahmen in Forecasts
 - Compliance in Entscheidungsvorlagen
 - Quellen in Marktanalysen
@@ -46,7 +46,7 @@ Design:
 
 ## Grenze
 
-Nicht jeder KI-Output braucht gleich viel Pruefung. Risiko, Kontext und Einsatz entscheiden.
+Nicht jeder KI-Output braucht gleich viel Prüfung. Risiko, Kontext und Einsatz entscheiden.
 
 ## Links
 

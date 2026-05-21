@@ -1,6 +1,6 @@
 # AGENTS.md
 
-Arbeitsregeln fuer dieses Karpathy-Style Second-Brain-Wiki.
+Arbeitsregeln für dieses Karpathy-Style Second-Brain-Wiki.
 
 ## Zweck
 
@@ -9,23 +9,23 @@ Dieser Vault sammelt und kompiliert Wissen zum Arbeitsmarkt unter KI-Bedingungen
 - Wirtschaft
 - Design
 
-Der Vault ist fuer eine spaetere GitHub-Pages-Veroeffentlichung vorbereitet. Deshalb gelten strengere Quellenregeln als in einem rein privaten Recherchevault.
+Der Vault ist für eine spaetere GitHub-Pages-Veröffentlichung vorbereitet. Deshalb gelten strengere Quellenregeln als in einem rein privaten Recherchevault.
 
 ## Nicht-Ziele
 
 - keine institutionellen Alt-Bezuege
 - keine Paywall-Zusammenfassungen als tragende Quelle
 - keine kopierten Pressespiegel
-- keine geschuetzten Volltexte
+- keine geschützten Volltexte
 - keine langen Zitate
-- keine KI-Sprache mit grossen Gesten, Adjektivketten oder kuenstlichen Gegensaetzen
+- keine KI-Sprache mit großen Gesten, Adjektivketten oder künstlichen Gegensaetzen
 - keine Toolhype-Seiten ohne Arbeitsmarktbezug
 
 ## Grundsatz
 
 Der Vault ist Denkraum und Belegarchiv.
 
-Fruehe Gedanken duerfen hinein. Sie muessen aber als frueh markiert bleiben. Oeffentliche Aussagen brauchen oeffentliche Quellen, klare Grenzen und eine nachvollziehbare Verbindung zu den Quellen.
+Fruehe Gedanken dürfen hinein. Sie müssen aber als frueh markiert bleiben. Öffentliche Aussagen brauchen öffentliche Quellen, klare Grenzen und eine nachvollziehbare Verbindung zu den Quellen.
 
 Arbeitsformel:
 
@@ -33,8 +33,8 @@ Arbeitsformel:
 Raw sammeln.
 Wiki kompilieren.
 Widerspruch markieren.
-Quellen pruefen.
-Nur saubere Aussagen veroeffentlichen.
+Quellen prüfen.
+Nur saubere Aussagen veröffentlichen.
 ```
 
 ## Schichten
@@ -46,28 +46,28 @@ Nur saubere Aussagen veroeffentlichen.
 Regeln:
 
 - Bestehende Raw-Dateien nicht umschreiben.
-- Keine geschuetzten Volltexte ablegen.
+- Keine geschützten Volltexte ablegen.
 - Keine kopierten Artikel aus Paywalls oder Pressedatenbanken ablegen.
 - Bei Webquellen lieber URL plus kurze eigene Notiz speichern.
 
 ### Review
 
-`review/` enthaelt Quellenpruefung, Gegenchecks, Claim-Register und offene Fragen.
+`review/` enthaelt Quellenprüfung, Gegenchecks, Claim-Register und offene Fragen.
 
 Hier wird entschieden:
 
 - Was ist nur Signal?
 - Was ist brauchbarer Beleg?
-- Was ist oeffentlich nutzbar?
+- Was ist öffentlich nutzbar?
 - Was ist veraltet oder zu schwach?
 
 ### Wiki
 
 `wiki/` ist die kompilierte Wissensschicht.
 
-- `wiki/sources/`: eine Seite pro oeffentlich nutzbarer Quelle
+- `wiki/sources/`: eine Seite pro öffentlich nutzbarer Quelle
 - `wiki/concepts/`: Begriffe und wiederverwendbare Denkbausteine
-- `wiki/syntheses/`: Ueberblicke und Verdichtungen
+- `wiki/syntheses/`: Überblicke und Verdichtungen
 - `wiki/packets/`: kurze Merksaetze mit Grenze und Gegencheck
 - `wiki/operations/`: Suchlogik, Wartung, offene Fragen
 - `wiki/state/`: Dashboard, Entscheidungen, Lessons
@@ -80,7 +80,7 @@ Hier wird entschieden:
 - `04_Portfolio/`
 - `05_Playbooks/`
 
-Diese Ordner sind lesbare Einstiege fuer Menschen. Sie duerfen auf Wiki-Seiten verlinken.
+Diese Ordner sind lesbare Einstiege für Menschen. Sie dürfen auf Wiki-Seiten verlinken.
 
 ### Outputs
 
@@ -88,12 +88,12 @@ Diese Ordner sind lesbare Einstiege fuer Menschen. Sie duerfen auf Wiki-Seiten v
 
 ## Statuswerte
 
-- `inbox`: Fund oder Notiz, ungeprueft
+- `inbox`: Fund oder Notiz, ungeprüft
 - `scoping`: Thema wird abgegrenzt
 - `signal`: Muster oder Beobachtung, noch nicht als Befund nutzen
-- `candidate-source`: Quelle sieht relevant aus, ist aber noch nicht geprueft
-- `evidence-linked`: Aussage ist mit Quelle verbunden, aber noch nicht oeffentlich hart
-- `claim-ready`: oeffentlich nutzbar, wenn Quellenlage und Gegencheck passen
+- `candidate-source`: Quelle sieht relevant aus, ist aber noch nicht geprüft
+- `evidence-linked`: Aussage ist mit Quelle verbunden, aber noch nicht öffentlich hart
+- `claim-ready`: öffentlich nutzbar, wenn Quellenlage und Gegencheck passen
 - `contested`: plausibel, aber mit offenem Widerspruch
 - `rejected`: bewusst nicht als Stuetzung verwenden
 
@@ -101,9 +101,9 @@ Diese Ordner sind lesbare Einstiege fuer Menschen. Sie duerfen auf Wiki-Seiten v
 
 Eine Seite ist public-safe, wenn:
 
-- jede zentrale Zahl eine oeffentliche Quelle hat
+- jede zentrale Zahl eine öffentliche Quelle hat
 - die Quelle direkt verlinkt ist
-- keine geschuetzten Passagen uebernommen wurden
+- keine geschützten Passagen übernommen wurden
 - Zitate kurz bleiben oder vermieden werden
 - Unsicherheit sichtbar ist
 - keine internen Namen, Kundendaten oder Hochschulbezuge enthalten sind
@@ -117,22 +117,22 @@ Bevorzugt:
 - "Kernaussage" statt akademischer Schlagwortlogik
 - "Warum es zaehlt" statt "Relevanzdimension"
 - "Grenze" statt "Limitationsdiskurs"
-- "Gegencheck" statt kuenstlicher Gegensaetze
-- konkrete Taetigkeiten statt Buzzwords
+- "Gegencheck" statt künstlicher Gegensaetze
+- konkrete Tätigkeiten statt Buzzwords
 - Verben statt Adjektivketten
 
 Vermeiden:
 
-- "transformativ", wenn nicht genau gesagt wird, was sich veraendert
+- "transformativ", wenn nicht genau gesagt wird, was sich verändert
 - "disruptiv", wenn kein Mechanismus genannt wird
-- "holistisch", "zukunftsfaehig", "innovativ" als Fuellwoerter
+- "holistisch", "zukunftsfähig", "innovativ" als Fuellwoerter
 - Toollisten ohne Arbeitsprozess
 - allgemeine KI-Formeln ohne Branchenbezug
 
 ## Ingest Workflow
 
 1. Quelle in `raw/inbox/` oder direkt als Link erfassen.
-2. Pruefen: oeffentlich, stabil, zitierbar?
+2. Prüfen: öffentlich, stabil, zitierbar?
 3. Source Card in `wiki/sources/` anlegen.
 4. Relevante Konzepte aktualisieren.
 5. Wenn mehrere Quellen zusammenpassen: Synthese aktualisieren.
@@ -144,17 +144,17 @@ Vermeiden:
 1. Zuerst `wiki/index.md` lesen.
 2. Relevante Source-, Concept- und Synthesis-Seiten oeffnen.
 3. Antwort mit Quellenbezug und Grenzen formulieren.
-4. Wenn die Antwort dauerhaft nuetzlich ist, als neue Seite ablegen.
+4. Wenn die Antwort dauerhaft nützlich ist, als neue Seite ablegen.
 5. Index und Log aktualisieren.
 
 ## Lint Workflow
 
-Regelmaessig pruefen:
+Regelmaessig prüfen:
 
 - Quellen ohne URL
 - Seiten ohne Status
 - Aussagen ohne Quelle
-- interne Links auf institutionelle Alt- oder geschuetzte Archive
+- interne Links auf institutionelle Alt- oder geschützte Archive
 - zu werbliche Sprache
 - veraltete Marktannahmen
 - Konzepte ohne Gegencheck

@@ -24,7 +24,7 @@ tags: [navigation, map]
 - [Strukturkarte](../Strukturkarte.md)
 - [Belastbare Aussagen](../Belastbare_Aussagen.md)
 - [Trends und Signale](../Trends_und_Signale.md)
-- [Arbeitsmarkt 2030 Ueberblick](../01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
+- [Arbeitsmarkt 2030 Überblick](../01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
 - [Skill Families](../01_Arbeitsmarkt/Skill_Families.md)
 - [Wirtschaft Arbeitsmarkt](../02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Wirtschaft Rollen und Portfolio](../02_Wirtschaft/Wirtschaft_Rollen_und_Portfolio.md)

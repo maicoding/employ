@@ -11,7 +11,7 @@ tags: [open-questions]
 
 ## Arbeitsmarkt
 
-- Welche DACH-Jobposting-Quellen koennen public-safe ausgewertet werden?
+- Welche DACH-Jobposting-Quellen können public-safe ausgewertet werden?
 - Welche Branchen zeigen KI-Anforderungen in Juniorrollen zuerst?
 - Wo ist KI-Nutzung in Betrieben noch niedrig, obwohl Reports viel Hype zeigen?
 
@@ -29,6 +29,6 @@ tags: [open-questions]
 
 ## GitHub Pages
 
-- Soll die erste Veroeffentlichung mit Jekyll aus dem Vault-Root laufen?
+- Soll die erste Veröffentlichung mit Jekyll aus dem Vault-Root laufen?
 - Oder soll ein `site/`-Export gebaut werden, damit Obsidian- und Webstruktur getrennt bleiben?
 

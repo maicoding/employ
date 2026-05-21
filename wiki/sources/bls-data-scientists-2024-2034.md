@@ -17,15 +17,15 @@ tags: [data, wirtschaft, analytics, job-outlook]
 U.S. Bureau of Labor Statistics. *Data Scientists*. Occupational Outlook Handbook, 2024-2034 projections.  
 URL: https://www.bls.gov/ooh/math/data-scientists.htm
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
 - Die BLS projiziert 34 Prozent Wachstum von 2024 bis 2034.
-- Wachstum wird mit wachsendem Bedarf an datengetriebenen Entscheidungen und groesseren Datenmengen begruendet.
-- Fuer Employability heisst das: Datenkompetenz bleibt wertvoll, aber sie muss mit Fachkontext, Prozesswissen und Entscheidungskompetenz verbunden werden.
+- Wachstum wird mit wachsendem Bedarf an datengetriebenen Entscheidungen und größeren Datenmengen begründdet.
+- Für Employability heisst das: Datenkompetenz bleibt wertvoll, aber sie muss mit Fachkontext, Prozesswissen und Entscheidungskompetenz verbunden werden.
 
 ## Grenze
 
-Die Rolle "Data Scientist" ist breit. Nicht jede Wirtschaftsstudierende Person muss Data Scientist werden. Relevanter ist oft: Daten lesen, Grenzen erkennen, Entscheidungen begruenden.
+Die Rolle "Data Scientist" ist breit. Nicht jede Wirtschaftsstudierende Person muss Data Scientist werden. Relevanter ist oft: Daten lesen, Grenzen erkennen, Entscheidungen begründden.
 
 ## Links
 

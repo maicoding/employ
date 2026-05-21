@@ -19,17 +19,17 @@ URL: https://www.ilo.org/publications/generative-ai-and-jobs-2025-update
 
 ## Worum es geht
 
-Die ILO aktualisiert ihre Schaetzung, welche Berufe und Taetigkeiten durch generative KI betroffen sind. Die Auswertung arbeitet auf Aufgabenebene und unterscheidet verschiedene Expositionsgrade.
+Die ILO aktualisiert ihre Schaetzung, welche Berufe und Tätigkeiten durch generative KI betroffen sind. Die Auswertung arbeitet auf Aufgabenebene und unterscheidet verschiedene Expositionsgrade.
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
 - KI-Exposition ist aufgabenbezogen. Ein Beruf verschwindet nicht automatisch, nur weil einige Aufgaben automatisierbar sind.
-- Die ILO verweist auf wachsende Faehigkeiten in Voice, Bild und Video. Dadurch steigen Automationssignale auch in Medien- und Web-Berufen.
-- Die wichtige Frage lautet: Welche Aufgaben werden automatisiert, welche werden erweitert, und welche neuen Pruef- oder Koordinationsaufgaben entstehen?
+- Die ILO verweist auf wachsende Fähigkeiten in Voice, Bild und Video. Dadurch steigen Automationssignale auch in Medien- und Web-Berufen.
+- Die wichtige Frage lautet: Welche Aufgaben werden automatisiert, welche werden erweitert, und welche neuen Prüf- oder Koordinationsaufgaben entstehen?
 
 ## Was die Quelle traegt
 
-Sie stuetzt die Unterscheidung zwischen Job-Ersatz und Task-Rebundling. Sie ist stark fuer Expositionslogik, aber nicht fuer lokale Jobchancen einzelner Absolvent:innen.
+Sie stützt die Unterscheidung zwischen Job-Ersatz und Task-Rebundling. Sie ist stark für Expositionslogik, aber nicht für lokale Jobchancen einzelner Absolvent:innen.
 
 ## Grenze
 

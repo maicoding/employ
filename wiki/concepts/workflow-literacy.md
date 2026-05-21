@@ -14,13 +14,13 @@ sources:
 
 ## Definition
 
-Workflow Literacy ist die Faehigkeit, Arbeit als Ablauf zu verstehen:
+Workflow Literacy ist die Fähigkeit, Arbeit als Ablauf zu verstehen:
 
 ```text
-Input -> Bearbeitung -> Pruefung -> Entscheidung -> Freigabe -> Wirkung
+Input -> Bearbeitung -> Prüfung -> Entscheidung -> Freigabe -> Wirkung
 ```
 
-Mit KI wird diese Faehigkeit wichtiger, weil einzelne Schritte automatisiert oder ausgelagert werden koennen.
+Mit KI wird diese Fähigkeit wichtiger, weil einzelne Schritte automatisiert oder ausgelagert werden können.
 
 ## Bausteine
 
@@ -44,4 +44,3 @@ Nicht jeder Workflow muss komplex sein. Zu viel Prozess kann gute Arbeit bremsen
 
 - [Agentic Workflow Literacy](agentic-workflow-literacy.md)
 - [Task Rebundling](task-rebundling.md)
-

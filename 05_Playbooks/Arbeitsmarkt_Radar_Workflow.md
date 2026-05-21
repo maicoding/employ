@@ -16,13 +16,13 @@ Der Radar macht aus Arbeitsmarktbeobachtung einen wiederholbaren Prozess.
 Er soll halbjaehrlich zeigen:
 
 - welche Aufgaben sich verschieben
-- welche Skills haeufiger auftauchen
+- welche Skills häufiger auftauchen
 - welche Gegenbelege sichtbar sind
 - welche Portfolio-Beweise daraus folgen
 
 ## Input
 
-- oeffentliche Jobanzeigen
+- öffentliche Jobanzeigen
 - offizielle Arbeitsmarktberichte
 - Branchenreports mit klarer Herkunft
 - Alumni- oder Praxisfeedback, wenn public-safe oder anonymisiert
@@ -62,5 +62,5 @@ Ein Radarbriefing hat maximal 8 Seiten:
 5. Junior- und Lernraumfragen
 6. Portfolio-Beweise
 7. Gegenchecks
-8. Naechste Quellen
+8. Nächste Quellen
 

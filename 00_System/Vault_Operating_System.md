@@ -13,14 +13,14 @@ tags: [system, workflow, public-safe]
 
 Der Vault ist kein Ablageordner und kein Chat-Protokoll.
 
-Er ist ein dauerhaftes Markdown-Wiki, das mit jeder Quelle besser sortiert wird. Quellen werden nicht nur wiedergefunden. Sie werden in kleine Seiten, Begriffe, Querverweise, offene Fragen und belastbare Ueberblicke eingearbeitet.
+Er ist ein dauerhaftes Markdown-Wiki, das mit jeder Quelle besser sortiert wird. Quellen werden nicht nur wiedergefunden. Sie werden in kleine Seiten, Begriffe, Querverweise, offene Fragen und belastbare Überblicke eingearbeitet.
 
 ## Drei Schichten
 
 | Schicht | Zweck | Was darf hinein? |
 |---|---|---|
-| `raw/` | Fundstellen und Rohmaterial | oeffentliche Links, eigene Kurznotizen, keine geschuetzten Volltexte |
-| `review/` | Pruefung | Quellenstatus, Gegenchecks, Claim-Register |
+| `raw/` | Fundstellen und Rohmaterial | öffentliche Links, eigene Kurznotizen, keine geschützten Volltexte |
+| `review/` | Prüfung | Quellenstatus, Gegenchecks, Claim-Register |
 | `wiki/` | kompilierte Wissensbasis | Source Cards, Concepts, Syntheses, Packets |
 
 ## Denkraum und Belegarchiv
@@ -30,39 +30,39 @@ Der Vault darf fruehe Gedanken halten. Er darf aber nicht so tun, als waeren sie
 | Status | Darf | Darf nicht |
 |---|---|---|
 | `inbox` | sammeln | als Befund auftreten |
-| `scoping` | Begriffe klaeren | oeffentlich behaupten |
+| `scoping` | Begriffe klären | öffentlich behaupten |
 | `signal` | Muster zeigen | harte Schluesse tragen |
 | `evidence-linked` | interne Synthesen stuetzen | allein als finale Aussage gelten |
-| `claim-ready` | oeffentlich genutzt werden | ohne Review stehen bleiben |
+| `claim-ready` | öffentlich genutzt werden | ohne Review stehen bleiben |
 
 ## Public-Safe-Gate
 
 Eine Aussage ist public-safe, wenn sie diese Fragen besteht:
 
-1. Ist die Quelle oeffentlich erreichbar?
-2. Ist die Quelle naeher am Gegenstand als ein Kommentar darueber?
+1. Ist die Quelle öffentlich erreichbar?
+2. Ist die Quelle näher am Gegenstand als ein Kommentar darüber?
 3. Ist die Zahl oder Beobachtung mit Datum und Kontext markiert?
 4. Gibt es einen Gegencheck oder eine Grenze?
-5. Wurde nichts Geschuetztes kopiert?
-6. Ist die Sprache sachlich genug fuer GitHub Pages?
+5. Wurde nichts Geschütztes kopiert?
+6. Ist die Sprache sachlich genug für GitHub Pages?
 
 ## Notiztypen
 
 - `source`: Quellenkarte
 - `concept`: Begriff oder Denkbaustein
-- `synthesis`: Ueberblick ueber mehrere Quellen
+- `synthesis`: Überblick über mehrere Quellen
 - `packet`: ein kurzer, wiederverwendbarer Gedanke
 - `operation`: Workflow, Suche, Wartung
 - `state`: Dashboard oder Entscheidung
 
-## Schreibregel fuer oeffentliche Seiten
+## Schreibregel für öffentliche Seiten
 
-Kein Satz soll groesser klingen als seine Quellenlage.
+Kein Satz soll größer klingen als seine Quellenlage.
 
 Gute Form:
 
 ```text
-Die Quelle zeigt X fuer Kontext Y. Fuer Z reicht sie nicht.
+Die Quelle zeigt X für Kontext Y. Für Z reicht sie nicht.
 ```
 
 Schlechte Form:
@@ -73,10 +73,10 @@ KI veraendert alles.
 
 ## Woechentlicher Wartungslauf
 
-- neue oeffentliche Quellen suchen
+- neue öffentliche Quellen suchen
 - veraltete Zahlen markieren
-- Links pruefen
+- Links prüfen
 - offene Fragen aktualisieren
-- geschuetzte oder interne Verweise entfernen
+- geschützte oder interne Verweise entfernen
 - Sprache kuerzen
 - Index und Log pflegen

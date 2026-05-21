@@ -15,29 +15,29 @@ sources:
 
 ## Definition
 
-AI Readiness ist die Faehigkeit, KI in echten Arbeitssituationen sinnvoll, pruefbar und verantwortlich einzusetzen.
+AI Readiness ist die Fähigkeit, KI in echten Arbeitssituationen sinnvoll, prüfbar und verantwortlich einzusetzen.
 
 Es ist mehr als Toolkenntnis.
 
 ## Warum es zaehlt
 
-Betriebe nutzen generative KI unterschiedlich schnell. Das IAB zeigt fuer Deutschland 2025 eine breite, aber nicht flaechendeckende Nutzung. Gleichzeitig verlangt der AI Act KI-Kompetenz im Nutzungskontext.
+Betriebe nutzen generative KI unterschiedlich schnell. Das IAB zeigt für Deutschland 2025 eine breite, aber nicht flaechendeckende Nutzung. Gleichzeitig verlangt der AI Act KI-Kompetenz im Nutzungskontext.
 
-Wer arbeitsfaehig sein will, muss deshalb nicht nur ein Tool kennen. Man muss erkennen:
+Wer arbeitsfähig sein will, muss deshalb nicht nur ein Tool kennen. Man muss erkennen:
 
 - Wann KI passt.
 - Welche Daten, Rechte und Risiken betroffen sind.
-- Wie Ergebnisse geprueft werden.
+- Wie Ergebnisse geprüft werden.
 - Wann menschliche Entscheidung noetig bleibt.
 
 ## Bausteine
 
 - Aufgabenanalyse
-- Kontext und Ziel klaeren
-- Quellen und Daten pruefen
+- Kontext und Ziel klären
+- Quellen und Daten prüfen
 - Output bewerten
 - Fehler und Grenzen dokumentieren
-- Verantwortung uebernehmen
+- Verantwortung übernehmen
 
 ## Grenze
 

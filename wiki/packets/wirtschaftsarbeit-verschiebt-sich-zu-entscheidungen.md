@@ -15,11 +15,11 @@ sources:
 
 ## Kernaussage
 
-KI beschleunigt Analyse und Reporting. Arbeitsmarktwert entsteht staerker dort, wo daraus Entscheidung, Risikoabwaegung und Umsetzung werden.
+KI beschleunigt Analyse und Reporting. Arbeitsmarktwert entsteht stärker dort, wo daraus Entscheidung, Risikoabwaegung und Umsetzung werden.
 
 ## Mechanismus
 
-Mehr Daten und schnellere Entwuerfe erzeugen nicht automatisch bessere Entscheidungen. Jemand muss Annahmen, Kontext und Folgen pruefen.
+Mehr Daten und schnellere Entwürfe erzeugen nicht automatisch bessere Entscheidungen. Jemand muss Annahmen, Kontext und Folgen prüfen.
 
 ## Grenze
 
@@ -27,4 +27,4 @@ In datenarmen oder sehr regulierten Umgebungen bleibt manuelle Vorarbeit laenger
 
 ## Gegencheck
 
-Manche stark standardisierten Reports koennen fast voll automatisiert werden.
+Manche stark standardisierten Reports können fast voll automatisiert werden.

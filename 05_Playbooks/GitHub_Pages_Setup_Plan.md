@@ -12,7 +12,7 @@ tags: [github-pages, publishing]
 ## Reihenfolge
 
 1. Vault stabilisieren.
-2. Public-Safe-Lint ausfuehren.
+2. Public-Safe-Lint ausführen.
 3. Lizenz- und Quellenhinweis schreiben.
 4. Publish-Variante entscheiden.
 5. GitHub-Repo anlegen oder bestehendes Repo nutzen.
@@ -30,7 +30,7 @@ Vorteil:
 Nachteil:
 
 - Navigation ist begrenzt
-- Obsidian-Wikilinks muessen als Markdown-Links sauber sein
+- Obsidian-Wikilinks müssen als Markdown-Links sauber sein
 
 ## Variante B: MkDocs
 
@@ -45,9 +45,9 @@ Nachteil:
 - Build-Schritt
 - Konfiguration und Theme noetig
 
-## Empfehlung fuer diesen Vault
+## Empfehlung für diesen Vault
 
-Erst Variante A fuer schnelle Veroeffentlichung. Danach MkDocs, wenn die Struktur waechst.
+Erst Variante A für schnelle Veröffentlichung. Danach MkDocs, wenn die Struktur wächst.
 
 ## Automatisierungsideen
 

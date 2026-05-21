@@ -9,7 +9,7 @@ tags: [concepts]
 
 # Concepts
 
-Wiederverwendbare Denkbausteine fuer den Vault.
+Wiederverwendbare Denkbausteine für den Vault.
 
 ## Arbeitsmarkt
 

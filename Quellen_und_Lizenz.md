@@ -11,11 +11,11 @@ tags: [sources, license]
 
 ## Quellenprinzip
 
-Dieses Archiv nutzt nur oeffentlich verlinkbare Quellen in der veroeffentlichten Schicht.
+Dieses Archiv nutzt nur öffentlich verlinkbare Quellen in der veröffentlichten Schicht.
 
 Nicht enthalten:
 
-- geschuetzte Volltexte
+- geschützte Volltexte
 - Pressespiegel
 - Paywall-Zusammenfassungen als tragende Quelle
 - interne Dokumente
@@ -29,16 +29,16 @@ Alle Quellenkarten liegen unter:
 
 ## Lizenzhinweis
 
-Die eigenen Texte in diesem Repository koennen als Arbeitsnotizen und Archivstruktur weiterverwendet werden, solange Quelle und Kontext genannt werden.
+Die eigenen Texte in diesem Repository können als Arbeitsnotizen und Archivstruktur weiterverwendet werden, solange Quelle und Kontext genannt werden.
 
 Externe Quellen behalten ihre jeweiligen Rechte. Dieses Archiv ersetzt die Originalquellen nicht.
 
 ## Zitierweise
 
-Fuer jede belastbare Aussage:
+Für jede belastbare Aussage:
 
 1. Quellenkarte verlinken.
 2. Datum oder Projektion nennen.
 3. Grenze markieren.
-4. Keine langen Zitate uebernehmen.
+4. Keine langen Zitate übernehmen.
 

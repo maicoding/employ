@@ -19,7 +19,7 @@ Entry Level Compression beschreibt das Risiko, dass einfache Einstiegsaufgaben k
 Das betrifft Aufgaben wie:
 
 - Recherche
-- erste Entwuerfe
+- erste Entwürfe
 - Zusammenfassungen
 - Standardreports
 - einfache Layoutvarianten
@@ -29,18 +29,18 @@ Das betrifft Aufgaben wie:
 
 Diese Aufgaben waren nie nur billige Arbeit. Sie waren Lernraeume. Menschen haben dort Muster gesehen, Fehler gemacht, Feedback bekommen und Urteil aufgebaut.
 
-Wenn KI diese Aufgaben uebernimmt, muss Lernen anders organisiert werden.
+Wenn KI diese Aufgaben übernimmt, muss Lernen anders organisiert werden.
 
 ## Was daraus folgt
 
 - Junior-Rollen brauchen bewusstere Einarbeitung.
-- Portfolios muessen Prozess und Urteil zeigen.
+- Portfolios müssen Prozess und Urteil zeigen.
 - Ausbildung muss Grundaufgaben weiterhin trainieren, auch wenn KI sie beschleunigt.
-- Praktika und Projekte muessen echte Review-Situationen enthalten.
+- Praktika und Projekte müssen echte Review-Situationen enthalten.
 
 ## Grenze
 
-Compression ist noch keine vollstaendige Verdraengung. In vielen Betrieben bleiben klassische Einstiegsaufgaben erhalten, weil Organisationen langsam adaptieren.
+Compression ist noch keine vollständige Verdraengung. In vielen Betrieben bleiben klassische Einstiegsaufgaben erhalten, weil Organisationen langsam adaptieren.
 
 ## Links
 

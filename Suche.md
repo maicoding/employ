@@ -13,18 +13,13 @@ Durchsucht Titel, Pfade, Tags und Seiteninhalt dieses Archivs.
 
 <div class="search-panel">
   <label for="vault-search">Suchbegriff</label>
-  <input id="vault-search" class="search-input" type="search" autocomplete="off" aria-label="Archiv durchsuchen">
-  <p id="search-count" class="search-count">Suchbegriff eingeben.</p>
-  <div id="search-results" class="search-results"></div>
+  <input id="vault-search" class="search-input vault-search-input" type="search" autocomplete="off" aria-label="Archiv durchsuchen" placeholder="Rolle, Quelle, Trend">
+  <p class="search-count" data-search-count>Suchbegriff eingeben.</p>
+  <div class="search-results" data-search-results></div>
 </div>
 
 ## Suchhinweise
 
-- Fuer Begriffe siehe [Begriffsindex](Begriffsindex.md).
-- Fuer die Gesamtstruktur siehe [Strukturkarte](Strukturkarte.md).
-- Fuer belastbare Aussagen siehe [Belastbare Aussagen](Belastbare_Aussagen.md).
-
-<script>
-  window.VAULT_SEARCH_INDEX = "{{ '/search.json' | relative_url }}";
-</script>
-<script src="{{ '/assets/search.js' | relative_url }}" defer></script>
+- Für Begriffe siehe [Begriffsindex](Begriffsindex.md).
+- Für die Gesamtstruktur siehe [Strukturkarte](Strukturkarte.md).
+- Für belastbare Aussagen siehe [Belastbare Aussagen](Belastbare_Aussagen.md).

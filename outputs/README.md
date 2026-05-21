@@ -16,5 +16,5 @@ Abgeleitete Formate:
 - Slides
 - Radarberichte
 
-Outputs sind nicht Quelle der Wahrheit. Wenn ein Output dauerhaft nuetzlich ist, wird er in `wiki/` zurueckkompiliert.
+Outputs sind nicht Quelle der Wahrheit. Wenn ein Output dauerhaft nützlich ist, wird er in `wiki/` zurückkompiliert.
 

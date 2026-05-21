@@ -15,7 +15,7 @@ sources:
 
 Design Through Language meint: Sprache wird zu einem Entwurfsmaterial.
 
-In KI-gestuetzten Prozessen steuert Sprache:
+In KI-gestützten Prozessen steuert Sprache:
 
 - Briefing
 - Kontext
@@ -28,7 +28,7 @@ In KI-gestuetzten Prozessen steuert Sprache:
 
 ## Was daran arbeitsmarktrelevant ist
 
-Prompting ist nicht das Stapeln von Adjektiven. Es ist die Faehigkeit, Arbeit so zu beschreiben, dass Menschen und Systeme sinnvoll weiterarbeiten koennen.
+Prompting ist nicht das Stapeln von Adjektiven. Es ist die Fähigkeit, Arbeit so zu beschreiben, dass Menschen und Systeme sinnvoll weiterarbeiten können.
 
 Design Through Language verbindet:
 
@@ -45,7 +45,7 @@ Design Through Language verbindet:
 - nennt Kontext und Zielgruppe
 - setzt Grenzen
 - nennt Material und Referenzen
-- beschreibt Pruefkriterien
+- beschreibt Prüfkriterien
 - laesst bewusst Raum, wo Varianz gebraucht wird
 
 ## Grenze

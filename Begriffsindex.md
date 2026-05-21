@@ -9,18 +9,18 @@ tags: [glossar, index, search]
 
 # Begriffsindex
 
-Ein kontrolliertes Vokabular fuer Suche und Orientierung.
+Ein kontrolliertes Vokabular für Suche und Orientierung.
 
 ## A
 
 - Agentic Workflow Literacy: [Concept](wiki/concepts/agentic-workflow-literacy.md)
 - AI Readiness: [Concept](wiki/concepts/ai-readiness.md)
-- Arbeitsmarkt 2030: [Synthese](wiki/syntheses/arbeitsmarkt-2030.md), [Ueberblick](01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
-- Aufgabenbuendel: [Task Rebundling](wiki/concepts/task-rebundling.md)
+- Arbeitsmarkt 2030: [Synthese](wiki/syntheses/arbeitsmarkt-2030.md), [Überblick](01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
+- Aufgabenbündel: [Task Rebundling](wiki/concepts/task-rebundling.md)
 
 ## B
 
-- Belastbare Aussagen: [Uebersicht](Belastbare_Aussagen.md)
+- Belastbare Aussagen: [Übersicht](Belastbare_Aussagen.md)
 - Berufseinstieg: [Entry Level Compression](wiki/concepts/entry-level-compression.md)
 
 ## C
@@ -60,7 +60,7 @@ Ein kontrolliertes Vokabular fuer Suche und Orientierung.
 ## S
 
 - Signale: [Trends und Signale](Trends_und_Signale.md)
-- Skill Families: [Uebersicht](01_Arbeitsmarkt/Skill_Families.md)
+- Skill Families: [Übersicht](01_Arbeitsmarkt/Skill_Families.md)
 - Sources: [Quellenindex](wiki/sources/README.md)
 
 ## T

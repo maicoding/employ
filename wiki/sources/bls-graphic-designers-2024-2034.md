@@ -17,20 +17,20 @@ tags: [design, graphic-design, job-outlook]
 U.S. Bureau of Labor Statistics. *Graphic Designers*. Occupational Outlook Handbook, 2024-2034 projections.  
 URL: https://www.bls.gov/ooh/Arts-and-Design/Graphic-designers.htm
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
-- Die BLS projiziert 2 Prozent Wachstum fuer Graphic Designers von 2024 bis 2034, unter dem Durchschnitt aller Berufe.
+- Die BLS projiziert 2 Prozent Wachstum für Graphic Designers von 2024 bis 2034, unter dem Durchschnitt aller Berufe.
 - Gleichzeitig werden etwa 20.000 jaehrliche Openings erwartet, vor allem durch Ersatzbedarf.
-- Die BLS nennt digitale Praesenz als Nachfragefaktor, weist aber auch darauf hin, dass automatisierte Design-Tools und KI den Bedarf an externen Freelance-Leistungen reduzieren koennen.
-- Portfolio bleibt zentral: Die BLS betont, dass Bewerber:innen Kreativitaet und Originalitaet ueber professionelle Portfolios zeigen sollen.
+- Die BLS nennt digitale Präsenz als Nachfragefaktor, weist aber auch darauf hin, dass automatisierte Design-Tools und KI den Bedarf an externen Freelance-Leistungen reduzieren können.
+- Portfolio bleibt zentral: Die BLS betont, dass Bewerber:innen Kreativität und Originalität über professionelle Portfolios zeigen sollen.
 
 ## Was die Quelle traegt
 
-Sie stuetzt eine nuechterne Design-Lesart: klassische Grafikdesign-Aufgaben verschwinden nicht, aber die reine Ausfuehrungs- und Variantenarbeit steht unter Druck.
+Sie stützt eine nüchterne Design-Lesart: klassische Grafikdesign-Aufgaben verschwinden nicht, aber die reine Ausführungs- und Variantenarbeit steht unter Druck.
 
 ## Grenze
 
-US-Daten. Designsegmente wie UX, Motion, Creative Technology, Brand Systems und AI Production muessen einzeln betrachtet werden.
+US-Daten. Designsegmente wie UX, Motion, Creative Technology, Brand Systems und AI Production müssen einzeln betrachtet werden.
 
 ## Links
 

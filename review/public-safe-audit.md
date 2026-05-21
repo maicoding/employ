@@ -11,19 +11,19 @@ tags: [review, public-safe]
 
 ## 2026-05-21
 
-Geprueft:
+Geprüft:
 
 - keine Obsidian-Wikilinks in neuer Struktur
 - keine lokalen Dateipfade
 - keine Platzhalter
 - keine direkten institutionellen Alt-Bezuege
-- keine geschuetzten Volltexte
+- keine geschützten Volltexte
 - keine Pressespiegel-Inhalte
 - keine benannten Paywall-Artikel als Quellen
 
 Offen:
 
-- externe Links spaeter automatisch pruefen
-- Lizenzhinweis fuer GitHub Pages ergaenzen
+- externe Links spaeter automatisch prüfen
+- Lizenzhinweis für GitHub Pages ergänzen
 - Design-DACH-Quellen nachziehen
 

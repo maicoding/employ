@@ -19,17 +19,17 @@ URL: https://www.bundesnetzagentur.de/DE/Fachthemen/Digitales/KI/7_Kompetenz/sta
 
 ## Worum es geht
 
-Die Bundesnetzagentur fasst zusammen, dass Anbieter und Betreiber von KI-Systemen seit Anfang Februar 2025 Massnahmen fuer ein ausreichendes Mass an KI-Kompetenz sicherstellen muessen.
+Die Bundesnetzagentur fasst zusammen, dass Anbieter und Betreiber von KI-Systemen seit Anfang Februar 2025 Maßnahmen für ein ausreichendes Maß an KI-Kompetenz sicherstellen müssen.
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
 - KI-Kompetenz ist nicht nur persoenliche Weiterbildung, sondern Teil organisatorischer Verantwortung.
 - Der Kontext des KI-Einsatzes zaehlt: technische Kenntnisse, Erfahrung, Ausbildung, Nutzungskontext und betroffene Personengruppen.
-- Fuer Employability heisst das: AI Readiness umfasst Governance, Risiko, Rollen und Freigabeprozesse.
+- Für Employability heisst das: AI Readiness umfasst Governance, Risiko, Rollen und Freigabeprozesse.
 
 ## Was die Quelle traegt
 
-Sie stuetzt die Governance-Schicht im Skill-Modell. Sie ist besonders relevant fuer Wirtschaft, HR, Compliance, Design mit Kundendaten, Medienproduktion und KI-gestuetzte Entscheidungen.
+Sie stützt die Governance-Schicht im Skill-Modell. Sie ist besonders relevant für Wirtschaft, HR, Compliance, Design mit Kundendaten, Medienproduktion und KI-gestützte Entscheidungen.
 
 ## Grenze
 

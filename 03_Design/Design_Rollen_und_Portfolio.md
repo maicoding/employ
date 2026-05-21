@@ -13,7 +13,7 @@ tags: [design, roles, portfolio]
 
 ### AI Creative Producer
 
-Produziert und steuert KI-gestuetzte Bild-, Video- und Contentvarianten.
+Produziert und steuert KI-gestützte Bild-, Video- und Contentvarianten.
 
 Portfolio-Beweis:
 
@@ -41,7 +41,7 @@ Gestaltet Interfaces, in denen KI Teil des Nutzerflusses ist.
 
 Portfolio-Beweis:
 
-- Flow, Wireframes, Fehlerszenarien, Consent, Erklaerlogik und Testnotiz
+- Flow, Wireframes, Fehlerszenarien, Consent, Erklärlogik und Testnotiz
 
 ### Generative Video / Motion Designer
 
@@ -53,11 +53,11 @@ Portfolio-Beweis:
 
 ### AI QC / Provenance Reviewer
 
-Prueft KI-Outputs auf Fehler, Rechte, Konsistenz, Markenpassung und Freigabe.
+Prüft KI-Outputs auf Fehler, Rechte, Konsistenz, Markenpassung und Freigabe.
 
 Portfolio-Beweis:
 
-- Fehlerkatalog, Rechtecheck und Empfehlung fuer eine Produktion
+- Fehlerkatalog, Rechtecheck und Empfehlung für eine Produktion
 
 ## Gute Case-Struktur
 
@@ -66,14 +66,14 @@ Portfolio-Beweis:
 3. Referenzen
 4. KI- und Nicht-KI-Anteile
 5. Variantenmatrix
-6. Auswahlbegruendung
+6. Auswahlbegründung
 7. QA und Rechte
 8. Anwendung
 9. Reflexion
 
 ## Was nicht reicht
 
-- nur schoene Bilder
+- nur schöne Bilder
 - Prompts ohne Kriterien
 - Toolname statt Prozess
 - kein Hinweis auf Rechte oder Quellen
@@ -83,4 +83,3 @@ Portfolio-Beweis:
 
 - [Portfolio Evidence System](../04_Portfolio/Portfolio_Evidence_System.md)
 - [Design Through Language](../wiki/concepts/design-through-language.md)
-

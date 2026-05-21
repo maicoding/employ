@@ -11,7 +11,7 @@ tags: [skills, taxonomy]
 
 ## 1. Fachprozess
 
-Verstehen, wie Arbeit im jeweiligen Feld wirklich laeuft.
+Verstehen, wie Arbeit im jeweiligen Feld wirklich läuft.
 
 Beweise:
 
@@ -21,7 +21,7 @@ Beweise:
 
 ## 2. AI Readiness
 
-KI passend nutzen, begrenzen und pruefen.
+KI passend nutzen, begrenzen und prüfen.
 
 Beweise:
 
@@ -31,7 +31,7 @@ Beweise:
 
 ## 3. Daten und Quellen
 
-Daten, Quellen und Material auf Belastbarkeit pruefen.
+Daten, Quellen und Material auf Belastbarkeit prüfen.
 
 Beweise:
 
@@ -41,7 +41,7 @@ Beweise:
 
 ## 4. Workflow Literacy
 
-Aufgaben als Ablauf aus Input, Bearbeitung, Pruefung, Entscheidung und Freigabe denken.
+Aufgaben als Ablauf aus Input, Bearbeitung, Prüfung, Entscheidung und Freigabe denken.
 
 Beweise:
 
@@ -51,12 +51,12 @@ Beweise:
 
 ## 5. Validation
 
-Output fachlich, rechtlich und praktisch pruefen.
+Output fachlich, rechtlich und praktisch prüfen.
 
 Beweise:
 
 - QA-Log
-- Plausibilitaetscheck
+- Plausibilitätscheck
 - Testset
 - Review-Protokoll
 
@@ -72,7 +72,7 @@ Beweise:
 
 ## 7. Kommunikation und Entscheidung
 
-Ergebnisse so uebersetzen, dass andere handeln koennen.
+Ergebnisse so übersetzen, dass andere handeln können.
 
 Beweise:
 
@@ -93,7 +93,7 @@ Beweise:
 
 ## 9. Reserve Skills
 
-Grundlagen ohne KI koennen, um KI-Ergebnisse zu pruefen.
+Grundlagen ohne KI können, um KI-Ergebnisse zu prüfen.
 
 Beweise:
 

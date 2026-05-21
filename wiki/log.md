@@ -13,11 +13,11 @@ tags: [log, wiki]
 
 Initiale Wiki-Schicht angelegt:
 
-- 15 Source Cards mit oeffentlichen URLs
-- Concepts fuer AI Readiness, Task Rebundling, Reserve Skills, Workflow, Validation, Governance, Portfolio und Design Through Language
-- Synthesen fuer allgemeinen Arbeitsmarkt, Wirtschaft, Design und Entwicklung 2026-2030
+- 15 Source Cards mit öffentlichen URLs
+- Concepts für AI Readiness, Task Rebundling, Reserve Skills, Workflow, Validation, Governance, Portfolio und Design Through Language
+- Synthesen für allgemeinen Arbeitsmarkt, Wirtschaft, Design und Entwicklung 2026-2030
 - Packets als kurze wiederverwendbare Gedanken
-- Operations-Seiten fuer Public-Safe-Lint und Source Refresh
+- Operations-Seiten für Public-Safe-Lint und Source Refresh
 
-Die alten Vaults wurden nur als Struktur- und Begriffsinspiration genutzt. Keine geschuetzten Pressespiegel- oder Paywall-Inhalte wurden uebernommen.
+Die alten Vaults wurden nur als Struktur- und Begriffsinspiration genutzt. Keine geschützten Pressespiegel- oder Paywall-Inhalte wurden übernommen.
 

@@ -13,17 +13,17 @@ tags: [wirtschaft, roles, portfolio]
 
 ### AI Governance Translator
 
-Uebersetzt KI-Regeln in Arbeit:
+Übersetzt KI-Regeln in Arbeit:
 
 - Welche KI wird genutzt?
 - Welche Daten duerfen hinein?
-- Wer prueft?
+- Wer prüft?
 - Wer gibt frei?
 - Was wird dokumentiert?
 
 Portfolio-Beweis:
 
-- Governance-Notiz fuer einen konkreten Workflow
+- Governance-Notiz für einen konkreten Workflow
 
 ### Process Automation Analyst
 
@@ -35,7 +35,7 @@ Portfolio-Beweis:
 
 ### BI + AI Controller
 
-Verbindet Reporting, Datenqualitaet und KI-gestuetzte Analyse.
+Verbindet Reporting, Datenqualität und KI-gestützte Analyse.
 
 Portfolio-Beweis:
 
@@ -55,7 +55,7 @@ Begleitet Einfuehrung, Akzeptanz, Training und neue Rollen.
 
 Portfolio-Beweis:
 
-- Change-Plan fuer ein KI-gestuetztes Arbeitsformat
+- Change-Plan für ein KI-gestütztes Arbeitsformat
 
 ## Gute Case-Struktur
 
@@ -63,16 +63,16 @@ Portfolio-Beweis:
 2. Prozess
 3. KI-Anteil
 4. Daten und Annahmen
-5. Pruefung
+5. Prüfung
 6. Entscheidung
 7. Risiko
-8. Naechster Schritt
+8. Nächster Schritt
 
 ## Was nicht reicht
 
 - "Ich habe ChatGPT genutzt."
-- "Ich habe eine Praesentation erstellt."
-- "Ich habe Daten analysiert", ohne Datenqualitaet und Entscheidung zu zeigen.
+- "Ich habe eine Präsentation erstellt."
+- "Ich habe Daten analysiert", ohne Datenqualität und Entscheidung zu zeigen.
 
 ## Anschluss
 

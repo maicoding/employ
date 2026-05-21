@@ -19,9 +19,9 @@ URL: https://doku.iab.de/kurzber/2026/kb2026-08.pdf
 
 ## Worum es geht
 
-Der Kurzbericht nutzt Daten aus dem IAB-Betriebspanel 2025. Die Befragung ist repraesentativ fuer Betriebe in Deutschland.
+Der Kurzbericht nutzt Daten aus dem IAB-Betriebspanel 2025. Die Befragung ist repraesentativ für Betriebe in Deutschland.
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
 - 2025 nutzen 24 Prozent der Betriebe in Deutschland generative KI.
 - Weitere 9 Prozent planen die Nutzung.
@@ -30,11 +30,11 @@ Der Kurzbericht nutzt Daten aus dem IAB-Betriebspanel 2025. Die Befragung ist re
 
 ## Was die Quelle traegt
 
-Sie ist wichtig, weil sie den deutschen Arbeitsmarkt erdet: KI ist in Betrieben angekommen, aber nicht ueberall. Employability muss deshalb beides koennen: KI-faehige Arbeit und Arbeit in Organisationen, die noch im Uebergang sind.
+Sie ist wichtig, weil sie den deutschen Arbeitsmarkt erdet: KI ist in Betrieben angekommen, aber nicht überall. Employability muss deshalb beides können: KI-fähige Arbeit und Arbeit in Organisationen, die noch im Übergang sind.
 
 ## Grenze
 
-Die Quelle sagt mehr ueber betriebliche Nutzung als ueber einzelne Berufe oder Einstiegsjobs. Fuer Wirtschaft und Design braucht es weitere Differenzierung.
+Die Quelle sagt mehr über betriebliche Nutzung als über einzelne Berufe oder Einstiegsjobs. Für Wirtschaft und Design braucht es weitere Differenzierung.
 
 ## Links
 

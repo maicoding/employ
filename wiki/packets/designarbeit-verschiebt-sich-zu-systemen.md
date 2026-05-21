@@ -23,7 +23,7 @@ KI macht Varianten schneller. Dadurch steigt der Wert von Richtung, Konsistenz, 
 
 ## Grenze
 
-Ein starkes Einzelbild, Plakat oder Objekt bleibt wertvoll. Es muss nur besser begruenden koennen, warum es nicht beliebig ist.
+Ein starkes Einzelbild, Plakat oder Objekt bleibt wertvoll. Es muss nur besser begründden können, warum es nicht beliebig ist.
 
 ## Gegencheck
 

@@ -16,39 +16,39 @@ sources:
 
 ## Kurzfassung
 
-Der Arbeitsmarkt bis 2030 wird nicht nur durch KI veraendert. KI ist ein starker Faktor, aber sie trifft auf Demografie, Energie- und Nachhaltigkeitsfragen, globale Unsicherheit, Regulierung und neue Erwartungen an Daten.
+Der Arbeitsmarkt bis 2030 wird nicht nur durch KI verändert. KI ist ein starker Faktor, aber sie trifft auf Demografie, Energie- und Nachhaltigkeitsfragen, globale Unsicherheit, Regulierung und neue Erwartungen an Daten.
 
 Die robuste Lesart ist:
 
 ```text
 Berufe werden nicht eins zu eins ersetzt.
-Aufgaben werden neu gebuendelt.
-Wert wandert von Ausfuehrung zu Rahmung, Pruefung und Verantwortung.
+Aufgaben werden neu gebündelt.
+Wert wandert von Ausführung zu Rahmung, Prüfung und Verantwortung.
 ```
 
 ## Was sich verschiebt
 
 ### 1. Routine wird billiger
 
-Textentwuerfe, Bildvarianten, Standardanalysen, Tabellenentwuerfe, Rechercheauszuege und erste Reports werden schneller.
+Textentwürfe, Bildvarianten, Standardanalysen, Tabellenentwürfe, Rechercheauszüge und erste Reports werden schneller.
 
 Das senkt den Wert reiner Erstproduktion.
 
 ### 2. Review wird wichtiger
 
-Mehr Output erzeugt mehr Pruefung:
+Mehr Output erzeugt mehr Prüfung:
 
 - Quellencheck
 - Datencheck
 - Rechtscheck
 - Stilcheck
-- Plausibilitaet
+- Plausibilität
 - Risiko
 - Freigabe
 
 ### 3. Arbeit wird mehrteilig
 
-Viele Rollen muessen kuenftig drei Ebenen verbinden:
+Viele Rollen müssen kuenftig drei Ebenen verbinden:
 
 - Fachprozess verstehen
 - KI sinnvoll einbauen
@@ -78,19 +78,19 @@ Die wichtigsten Skill-Familien sind:
 
 ## Was bleibt stabil
 
-Einige Faehigkeiten werden nicht weniger wichtig, sondern bekommen eine neue Funktion:
+Einige Fähigkeiten werden nicht weniger wichtig, sondern bekommen eine neue Funktion:
 
-- Schreiben wird zu Briefing, Pruefung und Dokumentation.
+- Schreiben wird zu Briefing, Prüfung und Dokumentation.
 - Gestaltung wird zu System-, Auswahl- und Kontextarbeit.
 - Analyse wird zu Entscheidungsvorbereitung.
-- Grundlagen werden zu Prueffaehigkeit.
+- Grundlagen werden zu Prüffähigkeit.
 - Kommunikation wird zu Koordination zwischen Mensch, KI und Organisation.
 
 ## Grenzen dieser Synthese
 
 - Globale Reports zeigen Richtung, aber keine lokale Gewissheit.
 - US-Berufsdaten sind Vergleichsdaten, keine DACH-Prognose.
-- Jobposting-Daten fuer konkrete Rollen muessen nachgezogen werden.
+- Jobposting-Daten für konkrete Rollen müssen nachgezogen werden.
 - Design und Wirtschaft haben unterschiedliche Risiken und Chancen.
 
 ## Anschluss
@@ -99,4 +99,3 @@ Einige Faehigkeiten werden nicht weniger wichtig, sondern bekommen eine neue Fun
 - [Task Rebundling](../concepts/task-rebundling.md)
 - [Entry Level Compression](../concepts/entry-level-compression.md)
 - [Reserve Skills](../concepts/reserve-skills.md)
-

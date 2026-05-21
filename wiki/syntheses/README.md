@@ -9,7 +9,7 @@ tags: [syntheses]
 
 # Syntheses
 
-Ueberblicke, die mehrere Quellen und Concepts zusammenfuehren.
+Überblicke, die mehrere Quellen und Concepts zusammenfuehren.
 
 - [Arbeitsmarkt 2030](arbeitsmarkt-2030.md)
 - [Wirtschaft Arbeitsmarkt Synthese](wirtschaft-arbeitsmarkt-synthese.md)

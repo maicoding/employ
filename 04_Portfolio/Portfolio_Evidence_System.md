@@ -11,14 +11,14 @@ tags: [portfolio, evidence, employability]
 
 ## Warum Portfolio neu gelesen werden muss
 
-KI macht Oberflaeche leichter. Darum muss ein Portfolio mehr zeigen als Ergebnisqualitaet.
+KI macht Oberflaeche leichter. Darum muss ein Portfolio mehr zeigen als Ergebnisqualität.
 
 Ein gutes Portfolio beantwortet:
 
 ```text
 Was war die Aufgabe?
 Welche Entscheidungen wurden getroffen?
-Was wurde geprueft?
+Was wurde geprüft?
 Was kann die Person ohne KI beurteilen?
 Was ist wiederholbar?
 ```
@@ -49,10 +49,10 @@ Was ist wiederholbar?
 - menschliche Entscheidungen
 - verworfene Varianten
 
-### 4. Pruefung
+### 4. Prüfung
 
 - Quellencheck
-- Plausibilitaet
+- Plausibilität
 - Rechte
 - Bias
 - technische Fehler
@@ -63,7 +63,7 @@ Was ist wiederholbar?
 - finale Loesung
 - Anwendung
 - Wirkung
-- naechster Schritt
+- nächster Schritt
 
 ### 6. Reflexion
 
@@ -79,9 +79,9 @@ Was ist wiederholbar?
 | Aufgabe | unklar | Kontext und Ziel klar |
 | KI-Anteil | nur Tool genannt | Rolle der KI nachvollziehbar |
 | Urteil | Ergebnis behauptet | Auswahl und Kriterien sichtbar |
-| Pruefung | fehlt | Fehler, Rechte, Daten oder Risiko geprueft |
+| Prüfung | fehlt | Fehler, Rechte, Daten oder Risiko geprüft |
 | Grundlagen | nicht sichtbar | Reserve Skill erkennbar |
-| Handoff | nur Ergebnis | andere koennen weiterarbeiten |
+| Handoff | nur Ergebnis | andere können weiterarbeiten |
 
 ## Anschluss
 

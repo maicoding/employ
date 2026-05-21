@@ -19,14 +19,14 @@ URL: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
 ## Worum es geht
 
-Karpathy beschreibt ein Muster fuer persoenliche Wissensbasen: Ein LLM soll Quellen nicht nur abrufen, sondern dauerhaft in ein Markdown-Wiki einarbeiten. Das Wiki wird zu einer wachsenden Zwischenschicht zwischen Rohquellen und Antworten.
+Karpathy beschreibt ein Muster für persoenliche Wissensbasen: Ein LLM soll Quellen nicht nur abrufen, sondern dauerhaft in ein Markdown-Wiki einarbeiten. Das Wiki wird zu einer wachsenden Zwischenschicht zwischen Rohquellen und Antworten.
 
-## Was diese Quelle fuer den Vault traegt
+## Was diese Quelle für den Vault traegt
 
 - Raw Sources bleiben Quelle der Wahrheit.
 - Die Wiki-Schicht wird aktiv gepflegt.
 - Index und Log sind zentrale Navigationsdateien.
-- Gute Antworten duerfen wieder als neue Seiten in die Wissensbasis zurueck.
+- Gute Antworten duerfen wieder als neue Seiten in die Wissensbasis zurück.
 - Linting ist Teil des Systems: Widersprueche, veraltete Seiten und fehlende Links werden gesucht.
 
 ## Grenze

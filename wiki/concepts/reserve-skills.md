@@ -14,9 +14,9 @@ sources:
 
 ## Definition
 
-Reserve Skills sind Grundlagen, die man auch dann braucht, wenn KI einen Teil der Ausfuehrung uebernimmt.
+Reserve Skills sind Grundlagen, die man auch dann braucht, wenn KI einen Teil der Ausführung übernimmt.
 
-Sie sind die Faehigkeiten, mit denen man KI-Ergebnisse pruefen kann.
+Sie sind die Fähigkeiten, mit denen man KI-Ergebnisse prüfen kann.
 
 ## Beispiele
 
@@ -38,11 +38,11 @@ Design:
 
 ## Warum es zaehlt
 
-Ohne Reserve Skills wird KI zur Black Box. Output kann dann fluessig wirken, ohne tragfaehig zu sein.
+Ohne Reserve Skills wird KI zur Black Box. Output kann dann flüssig wirken, ohne tragfähig zu sein.
 
 ## Grenze
 
-Reserve Skills sind kein Argument gegen KI. Sie sind die Bedingung dafuer, KI nicht blind zu nutzen.
+Reserve Skills sind kein Argument gegen KI. Sie sind die Bedingung dafür, KI nicht blind zu nutzen.
 
 ## Links
 

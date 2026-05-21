@@ -14,7 +14,7 @@ sources:
 
 ## Kernaussage
 
-Arbeitsfaehigkeit unter KI-Bedingungen heisst nicht, viele Tools zu kennen. Sie heisst, KI in Arbeit einbauen, begrenzen, pruefen und verantworten zu koennen.
+Arbeitsfähigkeit unter KI-Bedingungen heisst nicht, viele Tools zu kennen. Sie heisst, KI in Arbeit einbauen, begrenzen, prüfen und verantworten zu können.
 
 ## Mechanismus
 

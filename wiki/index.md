@@ -65,6 +65,10 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [BLS Web Developers and Digital Designers 2024-2034](sources/bls-web-digital-designers-2024-2034.md)
 - [Design Council Design Economy](sources/design-council-design-economy.md)
 - [Autodesk State of Design and Make 2025](sources/autodesk-state-of-design-and-make-2025.md)
+- [BVDW/OVK Prognose Digitaler Werbemarkt 2026](sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md)
+- [BVDW Internet Agency Ranking 2026](sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)
+- [D&AD Awards 2026 Creative Work Shift](sources/dandad-pencils-germany-2026-creative-work-shift.md)
+- [AGF and Amazon Video Measurement](sources/agf-youtube-video-measurement-platform-metrics-2026.md)
 
 ## Packets
 
@@ -90,7 +94,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 
 ## Thematische Einstiege
 
-- [Arbeitsmarkt 2030 Ueberblick](../01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
+- [Arbeitsmarkt 2030 Überblick](../01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
 - [Skill Families](../01_Arbeitsmarkt/Skill_Families.md)
 - [Wirtschaft Arbeitsmarkt](../02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Design Arbeitsmarkt](../03_Design/Design_Arbeitsmarkt.md)

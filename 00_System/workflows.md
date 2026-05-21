@@ -12,7 +12,7 @@ tags: [workflow]
 ## Quelle aufnehmen
 
 1. Quelle oeffnen.
-2. Pruefen, ob sie public-safe ist.
+2. Prüfen, ob sie public-safe ist.
 3. Source Card in `wiki/sources/` anlegen.
 4. Evidenzstaerke notieren.
 5. Grenzen notieren.
@@ -23,15 +23,15 @@ tags: [workflow]
 
 1. Beobachtung als `signal` markieren.
 2. Betroffenen Bereich nennen: allgemein, Wirtschaft, Design.
-3. Mindestens eine oeffentliche Quelle suchen.
+3. Mindestens eine öffentliche Quelle suchen.
 4. Gegencheck suchen.
-5. Erst nach Quellenpruefung in Synthese uebernehmen.
+5. Erst nach Quellenprüfung in Synthese übernehmen.
 
 ## Synthese aktualisieren
 
 1. Bestehende Synthese lesen.
 2. Neue Quelle danebenlegen.
-3. Pruefen: staerkt, begrenzt oder verschiebt die Quelle eine Aussage?
+3. Prüfen: stärkt, begrenzt oder verschiebt die Quelle eine Aussage?
 4. Nur konkrete Saetze aendern.
 5. Quellenliste aktualisieren.
 6. `updated` setzen.
@@ -42,14 +42,14 @@ tags: [workflow]
 1. Suche nach institutionellen Alt-Bezuegen, Pressedatenbank-Hinweisen, Paywall-Quellen und internen Dateipfaden.
 2. Suche nach langen Zitaten.
 3. Suche nach Buzzwords.
-4. Pruefe externe Links.
-5. Pruefe, ob jede Zahl eine Quelle hat.
-6. Pruefe, ob oeffentliche Seiten keine internen Rohquellen brauchen.
+4. Prüfe externe Links.
+5. Prüfe, ob jede Zahl eine Quelle hat.
+6. Prüfe, ob öffentliche Seiten keine internen Rohquellen brauchen.
 
 ## GitHub-Pages-Vorbereitung
 
 1. Markdown-Links bevorzugen.
-2. Obsidian-Wikilinks nur intern nutzen, wenn sie nicht in public pages stehen muessen.
+2. Obsidian-Wikilinks nur intern nutzen, wenn sie nicht in public pages stehen müssen.
 3. `index.md` als Einstieg pflegen.
-4. Lizenz- und Quellenhinweis ergaenzen.
+4. Lizenz- und Quellenhinweis ergänzen.
 5. Build-System erst nach Vault-Stabilisierung entscheiden.

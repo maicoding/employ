@@ -12,21 +12,21 @@ tags: [start, navigation]
 Dieser Vault fragt:
 
 ```text
-Welche Faehigkeiten bleiben wertvoll, wenn KI viele Routineaufgaben billiger, schneller oder automatisierbar macht?
+Welche Fähigkeiten bleiben wertvoll, wenn KI viele Routineaufgaben billiger, schneller oder automatisierbar macht?
 ```
 
 Er antwortet nicht mit einer einzelnen Zukunftsprognose. Er baut eine Arbeitskarte:
 
-- Was veraendert sich im Arbeitsmarkt?
-- Welche Aufgaben werden verdichtet, verschoben oder neu gebuendelt?
-- Was heisst das fuer Wirtschaft?
-- Was heisst das fuer Design?
-- Welche Portfolio-Beweise zeigen echte Arbeitsfaehigkeit?
-- Welche Grundlagen duerfen nicht verschwinden?
+- Was verändert sich im Arbeitsmarkt?
+- Welche Aufgaben werden verdichtet, verschoben oder neu gebündelt?
+- Was heisst das für Wirtschaft?
+- Was heisst das für Design?
+- Welche Portfolio-Beweise zeigen echte Arbeitsfähigkeit?
+- Welche Grundlagen dürfen nicht verschwinden?
 
 ## Schnellpfade
 
-- [Arbeitsmarkt 2030 Ueberblick](../01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
+- [Arbeitsmarkt 2030 Überblick](../01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
 - [Wirtschaft Arbeitsmarkt](../02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Design Arbeitsmarkt](../03_Design/Design_Arbeitsmarkt.md)
 - [Portfolio Evidence System](../04_Portfolio/Portfolio_Evidence_System.md)
@@ -35,13 +35,13 @@ Er antwortet nicht mit einer einzelnen Zukunftsprognose. Er baut eine Arbeitskar
 
 ## Grundgedanke
 
-Employability heisst hier nicht: "Studierende koennen KI-Tools bedienen."
+Employability heisst hier nicht: "Studierende können KI-Tools bedienen."
 
 Employability heisst:
 
 - Aufgaben verstehen
 - den passenden Anteil an KI bestimmen
-- Output pruefen
+- Output prüfen
 - Verantwortung zeigen
 - Entscheidungen dokumentieren
 - Grundlagen behalten
@@ -51,5 +51,5 @@ Employability heisst:
 
 Initialer Vault-Aufbau: 2026-05-21.
 
-Die erste Version nutzt nur oeffentlich verlinkbare Quellen. Lokale Alt-Vaults wurden als Struktur- und Denkvorlage gelesen, nicht als geschuetzte Textquelle uebernommen.
+Die erste Version nutzt nur öffentlich verlinkbare Quellen. Lokale Alt-Vaults wurden als Struktur- und Denkvorlage gelesen, nicht als geschützte Textquelle übernommen.
 

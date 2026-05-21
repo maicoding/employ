@@ -17,11 +17,11 @@ tags: [design-economy, green-skills, design-skills]
 Design Council. *Design Economy*.  
 URL: https://www.designcouncil.org.uk/our-work/design-economy/
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
-- Der Design Council behandelt Design nicht nur als Berufsgruppe, sondern als Kompetenzfeld in Wirtschaft, oeffentlichem Sektor und Transformation.
-- Aktuelle Design-Economy-Arbeit verbindet Design mit gruener Transformation, Skills Gap und oeffentlicher Innovation.
-- Fuer diesen Vault ist daran wichtig: Design-Employability liegt nicht nur in Output-Produktion, sondern in Problemrahmung, Systemverstaendnis, Nachhaltigkeit, Zusammenarbeit und Umsetzung.
+- Der Design Council behandelt Design nicht nur als Berufsgruppe, sondern als Kompetenzfeld in Wirtschaft, öffentlichem Sektor und Transformation.
+- Aktuelle Design-Economy-Arbeit verbindet Design mit grüner Transformation, Skills Gap und öffentlicher Innovation.
+- Für diesen Vault ist daran wichtig: Design-Employability liegt nicht nur in Output-Produktion, sondern in Problemrahmung, Systemverständnis, Nachhaltigkeit, Zusammenarbeit und Umsetzung.
 
 ## Grenze
 

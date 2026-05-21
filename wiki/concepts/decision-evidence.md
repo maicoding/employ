@@ -29,14 +29,14 @@ Sie zeigt:
 
 ## Warum es zaehlt
 
-In Wirtschaft kann KI Analyse, Recherche und Reportentwuerfe beschleunigen. Der berufliche Wert liegt aber darin, aus Material eine brauchbare Entscheidung zu machen.
+In Wirtschaft kann KI Analyse, Recherche und Reportentwürfe beschleunigen. Der berufliche Wert liegt aber darin, aus Material eine brauchbare Entscheidung zu machen.
 
 ## Portfolio-Beweis
 
 Eine gute Entscheidungsvorlage zeigt:
 
 - welchen Teil KI geliefert hat
-- was geprueft wurde
+- was geprüft wurde
 - wo Daten fehlen
 - welche Option gewaehlt wurde
 - welche Konsequenzen erwartet werden

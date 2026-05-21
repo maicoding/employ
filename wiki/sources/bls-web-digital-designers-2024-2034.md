@@ -17,16 +17,16 @@ tags: [design, digital-design, web, ux, job-outlook]
 U.S. Bureau of Labor Statistics. *Web Developers and Digital Designers*. Occupational Outlook Handbook, 2024-2034 projections.  
 URL: https://www.bls.gov/ooh/computer-and-information-technology/web-developers.htm
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
-- Die BLS projiziert 7 Prozent Wachstum fuer Web Developers and Digital Designers von 2024 bis 2034.
-- Fuer Web and Digital Interface Designers nennt die BLS ebenfalls 7 Prozent in der Projektionstabelle.
+- Die BLS projiziert 7 Prozent Wachstum für Web Developers and Digital Designers von 2024 bis 2034.
+- Für Web and Digital Interface Designers nennt die BLS ebenfalls 7 Prozent in der Projektionstabelle.
 - Nachfrage entsteht durch E-Commerce, mobile Nutzung und digitale Interfaces.
-- Das stuetzt die Unterscheidung zwischen statischer Gestaltung und interaktiven, testbaren, nutzerbezogenen Designrollen.
+- Das stützt die Unterscheidung zwischen statischer Gestaltung und interaktiven, testbaren, nutzerbezogenen Designrollen.
 
 ## Grenze
 
-Die BLS-Seite fasst Web Development und Digital Design zusammen. Fuer Designausbildung muss die Rolle weiter in UX, UI, Frontend, Research, Content und Produktlogik aufgeteilt werden.
+Die BLS-Seite fasst Web Development und Digital Design zusammen. Für Designausbildung muss die Rolle weiter in UX, UI, Frontend, Research, Content und Produktlogik aufgeteilt werden.
 
 ## Links
 

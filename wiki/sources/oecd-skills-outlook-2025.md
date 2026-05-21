@@ -19,17 +19,17 @@ URL: https://www.oecd.org/en/publications/oecd-skills-outlook-2025_26163cd3-en/f
 
 ## Worum es geht
 
-Die OECD verbindet Skill-Anforderungen, Beschaeftigungsprognosen und Veraenderungen in Berufen. Fuer diesen Vault ist besonders wichtig: Skill-Wandel und Job-Wachstum laufen nicht immer in dieselbe Richtung.
+Die OECD verbindet Skill-Anforderungen, Beschäftigungsprognosen und Veränderungen in Berufen. Für diesen Vault ist besonders wichtig: Skill-Wandel und Job-Wachstum laufen nicht immer in dieselbe Richtung.
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
 - Manche Rollen veraendern ihre Skill-Anforderungen schnell und haben zugleich unsichere oder ruecklaeufige Perspektiven.
-- Die OECD nennt Application Programmers als Beispiel fuer Rollen, bei denen generative KI Nachfrage und Aufgabeninhalt gleichzeitig verschieben kann.
-- Skill-Wandel ist sozial ungleich verteilt. Wer Zugang zu Weiterbildung und lernfaehigen Arbeitsumgebungen hat, kann besser reagieren.
+- Die OECD nennt Application Programmers als Beispiel für Rollen, bei denen generative KI Nachfrage und Aufgabeninhalt gleichzeitig verschieben kann.
+- Skill-Wandel ist sozial ungleich verteilt. Wer Zugang zu Weiterbildung und lernfähigen Arbeitsumgebungen hat, kann besser reagieren.
 
 ## Was die Quelle traegt
 
-Sie stuetzt die Idee, Employability nicht nur als "welcher Job waechst" zu lesen, sondern als Kopplung aus Jobperspektive, Skill-Veraenderung und Lernzugang.
+Sie stützt die Idee, Employability nicht nur als "welcher Job waechst" zu lesen, sondern als Kopplung aus Jobperspektive, Skill-Veränderung und Lernzugang.
 
 ## Grenze
 

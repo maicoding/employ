@@ -11,9 +11,9 @@ tags: [design, creative-work, arbeitsmarkt]
 
 ## Kerngedanke
 
-Design verliert nicht seine Bedeutung. Aber reine Produktion von Varianten wird weniger tragfaehig.
+Design verliert nicht seine Bedeutung. Aber reine Produktion von Varianten wird weniger tragfähig.
 
-Arbeitsmarktwert entsteht staerker durch:
+Arbeitsmarktwert entsteht stärker durch:
 
 - Kontext
 - Creative Direction
@@ -50,7 +50,7 @@ Arbeitsmarktwert entsteht staerker durch:
 
 ### 1. AI Creative Production
 
-Schnelle, aber kontrollierte Produktion von Assets fuer Kampagnen, Social, Brand und E-Commerce.
+Schnelle, aber kontrollierte Produktion von Assets für Kampagnen, Social, Brand und E-Commerce.
 
 ### 2. UX / Digital Product Design
 
@@ -62,7 +62,7 @@ Prototyping, kleine Tools, KI-Workflows, Automation, Daten, Handoff.
 
 ### 4. Design Systems / Brand Systems
 
-Konsistente Gestaltung ueber Touchpoints, Formate, Assets und Teams.
+Konsistente Gestaltung über Touchpoints, Formate, Assets und Teams.
 
 ## Was Designstudierende zeigen sollten
 

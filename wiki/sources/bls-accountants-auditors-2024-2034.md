@@ -17,19 +17,19 @@ tags: [wirtschaft, accounting, audit, job-outlook]
 U.S. Bureau of Labor Statistics. *Accountants and Auditors*. Occupational Outlook Handbook, 2024-2034 projections.  
 URL: https://www.bls.gov/ooh/business-and-financial/accountants-and-auditors.htm
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
 - Die BLS projiziert 5 Prozent Wachstum von 2024 bis 2034.
 - Komplexe Regulierung, Wirtschaftswachstum und Globalisierung bleiben Nachfragefaktoren.
-- KI verschiebt hier vor allem Routinen: Belege, Abstimmungen, Entwuerfe, Vorpruefungen und Standardreports.
+- KI verschiebt hier vor allem Routinen: Belege, Abstimmungen, Entwürfe, Vorprüfungen und Standardreports.
 
 ## Was die Quelle traegt
 
-Sie passt zur Wirtschaft-Vertiefung: Accounting und Audit bleiben relevante Felder, aber Berufswert wandert Richtung Pruefung, Interpretation, Governance und Verantwortung.
+Sie passt zur Wirtschaft-Vertiefung: Accounting und Audit bleiben relevante Felder, aber Berufswert wandert Richtung Prüfung, Interpretation, Governance und Verantwortung.
 
 ## Grenze
 
-Die BLS-Seite bewertet KI nicht im Detail. Die KI-Ableitungen muessen mit weiteren Quellen gegengeprueft werden.
+Die BLS-Seite bewertet KI nicht im Detail. Die KI-Ableitungen müssen mit weiteren Quellen gegengeprüft werden.
 
 ## Links
 

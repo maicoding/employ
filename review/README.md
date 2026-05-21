@@ -9,7 +9,7 @@ tags: [review]
 
 # Review Layer
 
-Hier werden Quellen, Claims und Grenzen geprueft.
+Hier werden Quellen, Claims und Grenzen geprüft.
 
 ## Dateien
 
@@ -17,11 +17,11 @@ Hier werden Quellen, Claims und Grenzen geprueft.
 - [Claim Register](claim-register.md)
 - [Public Safe Audit](public-safe-audit.md)
 
-## Dateien, die spaeter ergaenzt werden sollten
+## Dateien, die spaeter ergänzt werden sollten
 
 - `jobposting-coding.md`
 - `contradiction-scan.md`
 
 ## Regel
 
-Keine oeffentliche Synthese ohne Quellenkarte und Grenze.
+Keine öffentliche Synthese ohne Quellenkarte und Grenze.

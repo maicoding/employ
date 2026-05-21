@@ -11,7 +11,7 @@ tags: [dashboard]
 
 ## Coverage
 
-| Bereich | Status | Naechster Schritt |
+| Bereich | Status | Nächster Schritt |
 |---|---|---|
 | Allgemeiner Arbeitsmarkt | erste Synthese | DACH-Jobposting-Daten suchen |
 | Wirtschaft | erste Synthese | Rollen nach Subfeldern splitten |

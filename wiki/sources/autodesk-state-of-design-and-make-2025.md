@@ -17,11 +17,11 @@ tags: [design, make, ai-skills, talent]
 Autodesk. *State of Design and Make 2025*.  
 URL: https://www.autodesk.com/design-make/research/state-of-design-and-make-2025
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
 - Autodesk beschreibt Talent- und Skill-Fragen in Design-and-Make-Branchen.
 - Der Report setzt einen Schwerpunkt auf AI Skills und Investitionsunsicherheit.
-- Fuer diesen Vault ist die Quelle ein Branchenindikator: In Gestaltung, Architektur, Produktion und Medien werden technische und KI-bezogene Skills staerker Teil des Kompetenzprofils.
+- Für diesen Vault ist die Quelle ein Branchenindikator: In Gestaltung, Architektur, Produktion und Medien werden technische und KI-bezogene Skills stärker Teil des Kompetenzprofils.
 
 ## Grenze
 

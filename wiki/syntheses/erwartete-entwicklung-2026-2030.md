@@ -14,7 +14,7 @@ sources:
 
 # Erwartete Entwicklung 2026-2030
 
-## 2026: Uebergang wird normal
+## 2026: Übergang wird normal
 
 KI ist nicht mehr nur Experiment. Gleichzeitig nutzen viele Betriebe sie noch nicht oder nur punktuell.
 
@@ -31,7 +31,7 @@ Erwartung:
 Einzeltools wechseln schnell. Stabiler werden Workflows:
 
 - Recherche + Quellencheck
-- Reporting + Plausibilitaetspruefung
+- Reporting + Plausibilitätsprüfung
 - Designvarianten + Auswahl
 - Agenten + Freigabe
 - Datenanalyse + Entscheidung
@@ -39,22 +39,22 @@ Einzeltools wechseln schnell. Stabiler werden Workflows:
 Erwartung:
 
 - Arbeitgeber fragen weniger nach Prompting allein.
-- Sie fragen staerker nach Prozess, Qualitaet und Verantwortung.
+- Sie fragen stärker nach Prozess, Qualität und Verantwortung.
 
-## 2028: Juniorrollen muessen neu gebaut werden
+## 2028: Juniorrollen müssen neu gebaut werden
 
-Wenn KI Routinen uebernimmt, muessen Einstiegsrollen anderes Lernen bieten:
+Wenn KI Routinen übernimmt, müssen Einstiegsrollen anderes Lernen bieten:
 
 - kontrollierte Review-Aufgaben
 - Praxisprojekte mit echter Unsicherheit
 - Portfolio-Nachweise
 - Feedback auf Entscheidungswege
-- Grundlagenpruefung ohne KI
+- Grundlagenprüfung ohne KI
 
 Erwartung:
 
 - Gute Programme zeigen Lernkurven, nicht nur Ergebnisse.
-- Schlechte Programme erzeugen fluessige, aber duenne Portfolios.
+- Schlechte Programme erzeugen flüssige, aber duenne Portfolios.
 
 ## 2029: Portfolio wird mehr Belegsystem
 
@@ -65,7 +65,7 @@ Viele Ergebnisse werden gut aussehen. Der Unterschied liegt im Nachweis:
 - Welche KI?
 - Welche Daten?
 - Welche Entscheidung?
-- Welche Pruefung?
+- Welche Prüfung?
 - Welche Grenze?
 
 Erwartung:
@@ -73,15 +73,15 @@ Erwartung:
 - Portfolios werden technischer und reflektierter.
 - Reine Ergebnisgalerien verlieren Aussagekraft.
 
-## 2030: Arbeitsfaehigkeit heisst Orchestrierung
+## 2030: Arbeitsfähigkeit heisst Orchestrierung
 
-Arbeitsfaehig ist, wer Fachwissen, KI, Daten, Menschen und Verantwortung verbinden kann.
+Arbeitsfähig ist, wer Fachwissen, KI, Daten, Menschen und Verantwortung verbinden kann.
 
 Das betrifft Wirtschaft und Design unterschiedlich, aber die Grundbewegung ist aehnlich:
 
-- weniger reine Ausfuehrung
+- weniger reine Ausführung
 - mehr Kontextarbeit
-- mehr Pruefung
+- mehr Prüfung
 - mehr sichtbare Verantwortung
 - mehr Lernen im laufenden Wandel
 

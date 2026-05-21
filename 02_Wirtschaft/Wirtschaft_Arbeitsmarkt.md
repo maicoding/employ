@@ -11,7 +11,7 @@ tags: [wirtschaft, business, arbeitsmarkt]
 
 ## Kerngedanke
 
-In Wirtschaft wird KI viele Vorarbeiten beschleunigen. Dadurch wird nicht Denken ueberfluessig, sondern Entscheidung wichtiger.
+In Wirtschaft wird KI viele Vorarbeiten beschleunigen. Dadurch wird nicht Denken überflüssig, sondern Entscheidung wichtiger.
 
 Wert entsteht dort, wo Daten, Prozess, Risiko und Menschen zusammenkommen.
 
@@ -22,8 +22,8 @@ Wert entsteht dort, wo Daten, Prozess, Risiko und Menschen zusammenkommen.
 Verschiebung:
 
 - weniger Standardreport
-- mehr Plausibilitaet
-- mehr Annahmenpruefung
+- mehr Plausibilität
+- mehr Annahmenprüfung
 - mehr Risikokommunikation
 
 ### Marketing und Vertrieb
@@ -34,13 +34,16 @@ Verschiebung:
 - mehr Positionierung
 - mehr Variantenbewertung
 - mehr Kanal- und Wirkungslogik
+- mehr Plattformökonomie, Programmatic, Streaming-/Retail-Media und Brand Safety
+- mehr Verständnis für KI-Suche, Trafficverschiebung, Regulierungsrisiken und Marktspaltung
+- mehr Unterscheidung von Brutto-Werbedruck, Nettoerlösen und Plattformbudgets
 
 ### HR
 
 Verschiebung:
 
 - weniger Standardtexte
-- mehr Fairness, Transparenz und Passungspruefung
+- mehr Fairness, Transparenz und Passungsprüfung
 - mehr Umgang mit KI in Bewerbungsprozessen
 
 ### Operations
@@ -59,18 +62,21 @@ Verschiebung:
 - weniger Desk Research als Differenzierung
 - mehr Problemrahmung
 - mehr Entscheidungsvorlagen
-- mehr Umsetzungsfaehigkeit
+- mehr Umsetzungsfähigkeit
 
 ## Was Wirtschaftsstudierende zeigen sollten
 
 - Prozess verstehen
 - Daten lesen
 - KI sinnvoll einsetzen
-- Ergebnisse pruefen
+- Ergebnisse prüfen
 - Risiken benennen
 - Entscheidungen vorbereiten
 - Stakeholder adressieren
 - Umsetzung planen
+- Plattformabhängigkeiten und Media-Kosten einordnen
+- Wachstum und Spaltung im Werbemarkt gleichzeitig analysieren
+- Nielsen-, ZAW-, OVK- und Plattformdaten methodisch sauber auseinanderhalten
 
 ## Anschluss
 
@@ -78,4 +84,3 @@ Verschiebung:
 - [Wirtschaft Arbeitsmarkt Synthese](../wiki/syntheses/wirtschaft-arbeitsmarkt-synthese.md)
 - [Decision Evidence](../wiki/concepts/decision-evidence.md)
 - [Governance and Risk](../wiki/concepts/governance-and-risk.md)
-

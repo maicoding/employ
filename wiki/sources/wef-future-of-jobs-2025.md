@@ -19,22 +19,22 @@ URL: https://www.weforum.org/publications/the-future-of-jobs-report-2025/
 
 ## Worum es geht
 
-Der Report buendelt die Erwartungen von ueber 1.000 Arbeitgebern aus 22 Branchenclustern und 55 Volkswirtschaften. Der Zeitraum ist 2025 bis 2030.
+Der Report bündelt die Erwartungen von über 1.000 Arbeitgebern aus 22 Branchenclustern und 55 Volkswirtschaften. Der Zeitraum ist 2025 bis 2030.
 
-## Kernaussagen fuer diesen Vault
+## Kernaussagen für diesen Vault
 
-- Der Arbeitsmarkt veraendert sich nicht nur durch KI. WEF nennt auch gruene Transformation, Demografie, Geoekonomie und wirtschaftliche Unsicherheit.
+- Der Arbeitsmarkt verändert sich nicht nur durch KI. WEF nennt auch gruene Transformation, Demografie, Geökonomie und wirtschaftliche Unsicherheit.
 - WEF erwartet starke Nachfrage nach KI, Big Data, Cybersecurity und technologischer Grundkompetenz.
 - Gleichzeitig bleiben analytisches Denken, kreative Problembearbeitung, Resilienz, Fuehrung und Zusammenarbeit wichtig.
 - Die Skill-Frage ist nicht "Mensch oder Maschine", sondern "welche Kombination aus Technik, Urteil und Anpassung".
 
 ## Was die Quelle traegt
 
-Sie eignet sich fuer globale Trendrahmung und Skill-Familien. Sie traegt keine genaue Aussage zu einzelnen lokalen Studiengaengen, einzelnen Arbeitgebern oder DACH-Designjobs.
+Sie eignet sich für globale Trendrahmung und Skill-Familien. Sie traegt keine genaue Aussage zu einzelnen lokalen Studiengängen, einzelnen Arbeitgebern oder DACH-Designjobs.
 
 ## Grenze
 
-Arbeitgebererwartungen sind keine gemessenen Karriereverlaeufe. Branchen, Regionen und Einstiegssegmente muessen gesondert geprueft werden.
+Arbeitgebererwartungen sind keine gemessenen Karriereverlaeufe. Branchen, Regionen und Einstiegssegmente müssen gesondert geprüft werden.
 
 ## Links
 

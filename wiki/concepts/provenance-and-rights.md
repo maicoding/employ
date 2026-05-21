@@ -33,12 +33,12 @@ Ein guter Case zeigt:
 - welche Inputs genutzt wurden
 - welche KI-Systeme beteiligt waren
 - welche Teile menschlich entschieden wurden
-- welche Rechte geprueft wurden
+- welche Rechte geprüft wurden
 - was nicht verwendet wurde
 
 ## Grenze
 
-Provenance loest nicht alle Rechtsfragen. Sie macht aber Pruefung und Verantwortung sichtbar.
+Provenance loest nicht alle Rechtsfragen. Sie macht aber Prüfung und Verantwortung sichtbar.
 
 ## Links
 

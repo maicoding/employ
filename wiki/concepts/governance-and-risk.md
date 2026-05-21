@@ -14,7 +14,7 @@ sources:
 
 ## Definition
 
-Governance and Risk meint die Regeln, Rollen und Kontrollen, die KI-Nutzung arbeitsfaehig machen.
+Governance and Risk meint die Regeln, Rollen und Kontrollen, die KI-Nutzung arbeitsfähig machen.
 
 ## Warum es zaehlt
 
@@ -26,12 +26,12 @@ KI ist nicht nur ein Produktivitaetstool. In vielen Arbeitskontexten beruehrt si
 - Sicherheit
 - Haftung
 - Freigaben
-- Lieferantenabhaengigkeit
+- Lieferantenabhängigkeit
 - Dokumentationspflichten
 
 ## Arbeitsmarktwert
 
-Wer KI nicht nur nutzt, sondern Risiken in Arbeit uebersetzt, wird anschlussfaehig fuer:
+Wer KI nicht nur nutzt, sondern Risiken in Arbeit übersetzt, wird anschlussfähig für:
 
 - Compliance
 - Controlling
@@ -43,7 +43,7 @@ Wer KI nicht nur nutzt, sondern Risiken in Arbeit uebersetzt, wird anschlussfaeh
 
 ## Grenze
 
-Governance darf nicht zur Blockade werden. Gute Governance macht Experimente moeglich, weil Grenzen und Freigaben klar sind.
+Governance darf nicht zur Blockade werden. Gute Governance macht Experimente möglich, weil Grenzen und Freigaben klar sind.
 
 ## Links
 

@@ -13,7 +13,7 @@ Hier liegen nur public-safe Rohnotizen.
 
 Nicht ablegen:
 
-- geschuetzte Volltexte
+- geschützte Volltexte
 - Pressespiegel
 - Paywall-Artikel
 - interne Dokumente

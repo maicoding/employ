@@ -9,7 +9,7 @@ tags: [sources]
 
 # Sources
 
-Oeffentlich nutzbare Quellenkarten.
+Öffentlich nutzbare Quellenkarten.
 
 ## Arbeitsmarkt und Skills
 

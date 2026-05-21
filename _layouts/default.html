@@ -9,10 +9,10 @@
   <body>
     <a class="skip" href="#content">Zum Inhalt</a>
     <header class="site-header">
-      <div>
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        <p class="site-description">Archiv, Quellen, Trends, belastbare Aussagen.</p>
-      </div>
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="Startseite">
+        <span class="brand-mark" aria-hidden="true">EV</span>
+        <span><strong>{{ site.title }}</strong><small>Arbeitsmarkt · Wirtschaft · Design</small></span>
+      </a>
       <nav class="top-nav" aria-label="Hauptnavigation">
         <a href="{{ '/Suche/' | relative_url }}">Suche</a>
         <a href="{{ '/Belastbare_Aussagen/' | relative_url }}">Aussagen</a>
@@ -23,18 +23,52 @@
     </header>
     <div class="page-shell">
       <aside class="side-nav" aria-label="Archivbereiche">
-        <a href="{{ '/01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick/' | relative_url }}">Arbeitsmarkt</a>
-        <a href="{{ '/02_Wirtschaft/Wirtschaft_Arbeitsmarkt/' | relative_url }}">Wirtschaft</a>
-        <a href="{{ '/03_Design/Design_Arbeitsmarkt/' | relative_url }}">Design</a>
-        <a href="{{ '/04_Portfolio/Portfolio_Evidence_System/' | relative_url }}">Portfolio</a>
-        <a href="{{ '/05_Playbooks/Arbeitsmarkt_Radar_Workflow/' | relative_url }}">Radar</a>
-        <a href="{{ '/Begriffsindex/' | relative_url }}">Begriffe</a>
-        <a href="{{ '/Strukturkarte/' | relative_url }}">Struktur</a>
-        <a href="{{ '/Fehlstellen_und_Roadmap/' | relative_url }}">Fehlstellen</a>
+        <label class="search-box">
+          <span>Vault durchsuchen</span>
+          <input class="vault-search-input" type="search" autocomplete="off" aria-label="Vault durchsuchen" placeholder="Rolle, Quelle, Trend">
+        </label>
+        <p class="search-count" data-search-count>Suchbegriff eingeben.</p>
+        <div class="sidebar-results search-results" data-search-results aria-live="polite"></div>
+        <div class="nav-tree">
+          <details open>
+            <summary>Orientierung <span>5</span></summary>
+            <div class="nav-links">
+              <a href="{{ '/Suche/' | relative_url }}">Suche</a>
+              <a href="{{ '/Begriffsindex/' | relative_url }}">Begriffe</a>
+              <a href="{{ '/Strukturkarte/' | relative_url }}">Struktur</a>
+              <a href="{{ '/Belastbare_Aussagen/' | relative_url }}">Belastbare Aussagen</a>
+              <a href="{{ '/Trends_und_Signale/' | relative_url }}">Trends und Signale</a>
+            </div>
+          </details>
+          <details open>
+            <summary>Bereiche <span>5</span></summary>
+            <div class="nav-links">
+              <a href="{{ '/01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick/' | relative_url }}">Arbeitsmarkt</a>
+              <a href="{{ '/02_Wirtschaft/Wirtschaft_Arbeitsmarkt/' | relative_url }}">Wirtschaft</a>
+              <a href="{{ '/03_Design/Design_Arbeitsmarkt/' | relative_url }}">Design</a>
+              <a href="{{ '/04_Portfolio/Portfolio_Evidence_System/' | relative_url }}">Portfolio</a>
+              <a href="{{ '/05_Playbooks/Arbeitsmarkt_Radar_Workflow/' | relative_url }}">Radar</a>
+            </div>
+          </details>
+          <details>
+            <summary>Wissensschichten <span>5</span></summary>
+            <div class="nav-links">
+              <a href="{{ '/wiki/sources/' | relative_url }}">Quellenkarten</a>
+              <a href="{{ '/wiki/concepts/' | relative_url }}">Concepts</a>
+              <a href="{{ '/wiki/syntheses/' | relative_url }}">Synthesen</a>
+              <a href="{{ '/review/' | relative_url }}">Review Layer</a>
+              <a href="{{ '/Fehlstellen_und_Roadmap/' | relative_url }}">Fehlstellen</a>
+            </div>
+          </details>
+        </div>
       </aside>
       <main id="content" class="content">
         {{ content }}
       </main>
     </div>
+    <script>
+      window.VAULT_SEARCH_INDEX = "{{ '/search.json' | relative_url }}";
+    </script>
+    <script src="{{ '/assets/search.js' | relative_url }}" defer></script>
   </body>
 </html>

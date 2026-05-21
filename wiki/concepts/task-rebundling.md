@@ -16,16 +16,16 @@ sources:
 
 Task Rebundling meint: Ein Beruf bleibt, aber seine Aufgaben werden anders zusammengesetzt.
 
-KI kann einzelne Routinen uebernehmen, andere Aufgaben beschleunigen und neue Pruef-, Steuerungs- oder Koordinationsaufgaben erzeugen.
+KI kann einzelne Routinen übernehmen, andere Aufgaben beschleunigen und neue Prüf-, Steuerungs- oder Koordinationsaufgaben erzeugen.
 
 ## Beispiel
 
-Eine Rolle im Marketing verliert nicht automatisch an Bedeutung, weil KI Textentwuerfe erzeugt. Aber die Aufgabe verschiebt sich:
+Eine Rolle im Marketing verliert nicht automatisch an Bedeutung, weil KI Textentwürfe erzeugt. Aber die Aufgabe verschiebt sich:
 
 - weniger Erstentwurf
 - mehr Briefing
 - mehr Variantenvergleich
-- mehr Marken- und Rechtspruefung
+- mehr Marken- und Rechtsprüfung
 - mehr Freigabelogik
 
 ## Warum es zaehlt
@@ -42,7 +42,7 @@ Welche Aufgaben entstehen durch Kontrolle und Verantwortung?
 
 ## Grenze
 
-Nicht jede Aufgabe wird neu gebuendelt. Manche bleiben klassisch, weil Recht, Kontext, Koerper, Vertrauen oder Verantwortung schwer delegierbar sind.
+Nicht jede Aufgabe wird neu gebündelt. Manche bleiben klassisch, weil Recht, Kontext, Koerper, Vertrauen oder Verantwortung schwer delegierbar sind.
 
 ## Links
 

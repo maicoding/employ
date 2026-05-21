@@ -11,11 +11,11 @@ tags: [structure, navigation]
 
 ## Leseschicht
 
-Diese Seiten sind fuer schnelles Lesen gedacht:
+Diese Seiten sind für schnelles Lesen gedacht:
 
 - [Belastbare Aussagen](Belastbare_Aussagen.md)
 - [Trends und Signale](Trends_und_Signale.md)
-- [Arbeitsmarkt 2030 Ueberblick](01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
+- [Arbeitsmarkt 2030 Überblick](01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
 - [Wirtschaft Arbeitsmarkt](02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Design Arbeitsmarkt](03_Design/Design_Arbeitsmarkt.md)
 - [Portfolio Evidence System](04_Portfolio/Portfolio_Evidence_System.md)

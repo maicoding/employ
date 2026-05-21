@@ -25,13 +25,13 @@ Creative Technologist ist eine hybride Rolle zwischen Gestaltung, Technik, Proto
 - KI-Workflows dokumentieren
 - Teams beraten
 - Handoffs verbessern
-- Qualitaet pruefen
+- Qualität prüfen
 
 ## Warum es zaehlt
 
 Designarbeit wird nicht nur schneller. Sie wird systemischer. Bilder, Interfaces, Kampagnen, Assets und Daten haengen enger zusammen.
 
-Wer Gestaltung und technische Umsetzung verbinden kann, wird anschlussfaehig fuer Rollen in:
+Wer Gestaltung und technische Umsetzung verbinden kann, wird anschlussfähig für Rollen in:
 
 - UX/UI
 - Motion und generative Video
@@ -43,7 +43,7 @@ Wer Gestaltung und technische Umsetzung verbinden kann, wird anschlussfaehig fue
 
 ## Grenze
 
-Nicht jede Designer:in muss Creative Technologist werden. Aber viele Designrollen brauchen mehr technisches Verstaendnis als frueher.
+Nicht jede Designer:in muss Creative Technologist werden. Aber viele Designrollen brauchen mehr technisches Verständnis als frueher.
 
 ## Links
 

@@ -14,7 +14,7 @@ sources:
 
 ## Kernaussage
 
-Wenn KI einfache Erstentwuerfe uebernimmt, muessen Juniorrollen mehr Review, Kontext und Dokumentation lernen.
+Wenn KI einfache Erstentwürfe übernimmt, müssen Juniorrollen mehr Review, Kontext und Dokumentation lernen.
 
 ## Mechanismus
 

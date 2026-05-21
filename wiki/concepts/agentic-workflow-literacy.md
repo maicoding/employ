@@ -14,9 +14,9 @@ sources:
 
 ## Definition
 
-Agentic Workflow Literacy ist die Faehigkeit, KI-Agenten oder automatisierte Workflows zu planen, zu begrenzen, zu pruefen und zu stoppen.
+Agentic Workflow Literacy ist die Fähigkeit, KI-Agenten oder automatisierte Workflows zu planen, zu begrenzen, zu prüfen und zu stoppen.
 
-## Was sich gegenueber normaler KI-Nutzung aendert
+## Was sich gegenüber normaler KI-Nutzung ändert
 
 Ein Chatbot liefert Antwortvorschlaege.
 
@@ -31,11 +31,11 @@ Ein Agent kann Schritte ausfuehren:
 
 Damit steigen Nutzen und Risiko gleichzeitig.
 
-## Notwendige Faehigkeiten
+## Notwendige Fähigkeiten
 
 - Ziel und Grenzen setzen
-- Tools und Berechtigungen klaeren
-- Zwischenpruefungen planen
+- Tools und Berechtigungen klären
+- Zwischenprüfungen planen
 - Logs lesen
 - Fehlerketten erkennen
 - Eskalation definieren

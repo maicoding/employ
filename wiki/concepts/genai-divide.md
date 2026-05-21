@@ -14,7 +14,7 @@ sources:
 
 ## Definition
 
-GenAI Divide meint ungleichen Zugang zu KI-faehiger Arbeit.
+GenAI Divide meint ungleichen Zugang zu KI-fähiger Arbeit.
 
 Das betrifft:
 
@@ -42,7 +42,7 @@ Das IAB zeigt: Viele Betriebe nutzen generative KI noch nicht. Auch zwischen Org
 
 ## Grenze
 
-GenAI Divide erklaert nicht jede Kompetenzdifferenz. Es ist ein Zugangsfaktor, kein Ersatz fuer Uebung.
+GenAI Divide erklärt nicht jede Kompetenzdifferenz. Es ist ein Zugangsfaktor, kein Ersatz für Uebung.
 
 ## Links
 

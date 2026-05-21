@@ -13,9 +13,9 @@ tags: [roadmap, gaps]
 
 ### 1. DACH-Jobposting-Daten
 
-Der Vault hat globale und oeffentliche Quellen. Es fehlen eigene, public-safe codierte Jobanzeigen fuer Deutschland, Oesterreich und Schweiz.
+Der Vault hat globale und öffentliche Quellen. Es fehlen eigene, public-safe codierte Jobanzeigen für Deutschland, Österreich und Schweiz.
 
-Naechster Schritt:
+Nächster Schritt:
 
 - 30 Anzeigen Wirtschaft codieren
 - 30 Anzeigen Design codieren
@@ -24,18 +24,18 @@ Naechster Schritt:
 
 ### 2. Design-spezifische Arbeitgeberperspektive
 
-Die Designlage ist noch zu stark ueber BLS, Design Council und Branchenreports gerahmt.
+Die Designlage ist noch zu stark über BLS, Design Council und Branchenreports gerahmt.
 
-Naechster Schritt:
+Nächster Schritt:
 
 - Agenturen, Studios, Inhouse-Teams, Produktunternehmen getrennt betrachten
-- Creative Technology und AI Production als eigene Rolle pruefen
+- Creative Technology und AI Production als eigene Rolle prüfen
 
 ### 3. Wirtschaft nach Subfeldern aufteilen
 
 Wirtschaft ist zu breit.
 
-Naechster Schritt:
+Nächster Schritt:
 
 - Finance / Controlling
 - Marketing / Sales
@@ -48,7 +48,7 @@ Naechster Schritt:
 
 Der Vault beschreibt Portfolio Evidence. Es fehlen Muster-Cases.
 
-Naechster Schritt:
+Nächster Schritt:
 
 - ein Wirtschaft-Case
 - ein Design-Case
@@ -59,9 +59,9 @@ Naechster Schritt:
 
 Die ersten Checks liegen als Node-Skripte vor.
 
-Naechster Schritt:
+Nächster Schritt:
 
 - Linkcheck in GitHub Actions beobachten
-- halbjaehrlichen Source-Refresh als Issue oder Workflow ergaenzen
-- optional MkDocs pruefen, wenn Navigation groesser wird
+- halbjaehrlichen Source-Refresh als Issue oder Workflow ergänzen
+- optional MkDocs prüfen, wenn Navigation größer wird
 

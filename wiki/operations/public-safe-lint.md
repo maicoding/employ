@@ -11,7 +11,7 @@ tags: [lint, public-safe]
 
 ## Manuelle Suche
 
-Vor GitHub-Pages-Veroeffentlichung suchen nach:
+Vor GitHub-Pages-Veröffentlichung suchen nach:
 
 ```text
 institutionelle Alt-Bezuege
@@ -33,13 +33,13 @@ Streichen oder ersetzen:
 - disruptiv
 - holistisch
 - innovativ, wenn unklar
-- zukunftsfaehig, wenn unklar
+- zukunftsfähig, wenn unklar
 - revolutioniert, wenn kein Mechanismus folgt
 - kuenstliche Gegensatz-Schemata
 
 ## Quellencheck
 
-Jede oeffentliche Synthese braucht:
+Jede öffentliche Synthese braucht:
 
 - Quellenliste
 - Datum

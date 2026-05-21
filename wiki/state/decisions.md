@@ -14,7 +14,7 @@ tags: [decisions]
 - Neuer Vault wird allgemein gehalten.
 - Keine institutionellen Alt-Bezuege.
 - GitHub Pages kommt nach dem Vault-Aufbau.
-- Keine geschuetzten Quellen.
+- Keine geschützten Quellen.
 - Alte Vaults dienen als Struktur- und Denkinput, nicht als kopierter Textbestand.
 - Sprache: knapp, sachlich, wenig Adjektive.
-- Oeffentliche Synthesen nutzen nur public-safe Quellen.
+- Öffentliche Synthesen nutzen nur public-safe Quellen.

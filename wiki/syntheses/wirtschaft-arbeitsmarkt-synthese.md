@@ -11,6 +11,8 @@ sources:
   - "../sources/bls-data-scientists-2024-2034.md"
   - "../sources/oecd-ai-in-finance.md"
   - "../sources/bundesnetzagentur-ki-kompetenz-2025.md"
+  - "../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md"
+  - "../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md"
 ---
 
 # Wirtschaft Arbeitsmarkt Synthese
@@ -21,7 +23,7 @@ In Wirtschaft verschiebt KI vor allem Vorarbeit:
 
 - Recherche
 - Reporting
-- Praesentationsentwurf
+- Präsentationsentwurf
 - Forecast-Entwurf
 - Prozessdokumentation
 - Kund:innenkommunikation
@@ -31,41 +33,49 @@ Der Wert liegt zunehmend in Entscheidung, Risiko, Governance, Umsetzung und Komm
 
 ## Wo Wachstum sichtbar ist
 
-US-Daten der BLS zeigen fuer 2024-2034 Wachstum bei Rollen, die Analyse, Entscheidung und Daten verbinden:
+US-Daten der BLS zeigen für 2024-2034 Wachstum bei Rollen, die Analyse, Entscheidung und Daten verbinden:
 
 - Data Scientists: stark wachsendes Feld
-- Management Analysts: ueberdurchschnittliches Wachstum
+- Management Analysts: überdurchschnittliches Wachstum
 - Accountants and Auditors: moderates Wachstum
 
-Diese Daten sind nicht eins zu eins auf Deutschland uebertragbar. Sie helfen aber, die Richtung zu lesen: Daten und Analyse wachsen, aber sie muessen in Organisationen wirksam werden.
+Diese Daten sind nicht eins zu eins auf Deutschland übertragbar. Sie helfen aber, die Richtung zu lesen: Daten und Analyse wachsen, aber sie müssen in Organisationen wirksam werden.
 
-## Was KI veraendert
+## Was KI verändert
 
 ### Reporting
 
 KI kann Berichte schneller vorbereiten. Der Arbeitswert liegt dann in:
 
 - richtigen Annahmen
-- Datenqualitaet
+- Datenqualität
 - Interpretation
 - Management Summary
 - Entscheidungsvorlage
 
 ### Finance und Controlling
 
-KI kann Muster, Abweichungen und Entwuerfe liefern. Menschen muessen Kosten, Risiko, Compliance und Plausibilitaet pruefen.
+KI kann Muster, Abweichungen und Entwürfe liefern. Menschen müssen Kosten, Risiko, Compliance und Plausibilität prüfen.
 
 ### Marketing und Vertrieb
 
-KI beschleunigt Content, Segmentierung, Recherche und Kampagnenvarianten. Wert entsteht durch Positionierung, Kanalverstaendnis, Markenfuehrung und Wirkungsmessung.
+KI beschleunigt Content, Segmentierung, Recherche und Kampagnenvarianten. Wert entsteht durch Positionierung, Kanalverständnis, Markenführung und Wirkungsmessung.
+
+Die Plattformverschiebung im Werbemarkt verschärft das: Marketingarbeit braucht nicht nur Content, sondern Media Planning, Programmatic-Grundlagen, Streaming-/Retail-Media-Verständnis, Brand Safety, Datenzugang und ROI-Logik.
+
+Öffentliche Digitalwerbemarkt-Signale reichen für die Richtung: digitale Kanäle wachsen, Messlogiken werden komplexer, Plattformabhängigkeit bleibt ein Geschäftsrisiko. Exakte Aussagen zu einzelnen Monats- oder Jahresbilanzen brauchen im Vault noch öffentliche Primärquellen.
+
+Marketing- und Wirtschaftsstudierende müssen Brutto-Werbedruck, Nettoerlöse, Plattformbudgets und Attributionsdaten unterscheiden. Sonst lesen sie Mediamix-Daten falsch.
+
+Das BVDW-Internetagentur-Ranking 2026 zeigt zudem eine Produktivitaets- und Organisationsfrage: Digitalagenturen melden leicht steigende Honorarumsaetze bei sinkenden Mitarbeitendenzahlen und beschreiben KI-Skalierung, Custom Workflows und Agentic AI als Werttreiber. Wirtschaftliche Employability verschiebt sich damit zu Prozessanalyse, Automationsbewertung, Kostenmodell, Governance und Beratungsargumentation.
 
 ### HR
 
-KI kann Stellenanzeigen, Matching und Kommunikation unterstuetzen. Das erhoeht die Pflicht zu Fairness, Transparenz und Datenschutz.
+KI kann Stellenanzeigen, Matching und Kommunikation unterstützen. Das erhöht die Pflicht zu Fairness, Transparenz und Datenschutz.
 
 ### Operations
 
-KI und Automatisierung koennen Prozessschritte verbinden. Dafuer braucht es Menschen, die Prozess, Daten, Schnittstellen und Change verstehen.
+KI und Automatisierung können Prozessschritte verbinden. Dafür braucht es Menschen, die Prozess, Daten, Schnittstellen und Change verstehen.
 
 ## Neue Rollenlogik
 
@@ -75,10 +85,10 @@ Wirtschaft braucht mehr Schnittstellenrollen:
 - Process Automation Analyst
 - BI + AI Controller
 - AI Product or CX Manager
-- Risk and Compliance Analyst fuer KI-Prozesse
-- Change Consultant mit KI-Verstaendnis
+- Risk and Compliance Analyst für KI-Prozesse
+- Change Consultant mit KI-Verständnis
 
-Das sind keine festen Titel. Es sind Arbeitsbuendel.
+Das sind keine festen Titel. Es sind Arbeitsbündel.
 
 ## Portfolio-Beweise
 
@@ -101,4 +111,5 @@ Wirtschaft ist breit. Finance, Marketing, HR, Operations, Consulting und Entrepr
 - [Decision Evidence](../concepts/decision-evidence.md)
 - [Governance and Risk](../concepts/governance-and-risk.md)
 - [Wirtschaft Rollen und Portfolio](../../02_Wirtschaft/Wirtschaft_Rollen_und_Portfolio.md)
-
+- [BVDW/OVK Prognose Digitaler Werbemarkt](../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md)
+- [BVDW Internet Agency Ranking 2026](../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)

@@ -25,7 +25,7 @@ Portfolio Evidence ist der Nachweis, dass eine Person nicht nur ein Ergebnis zei
 - Varianten
 - verworfene Wege
 - Entscheidungskriterien
-- Pruefung
+- Prüfung
 - Rechte
 - Ergebnis
 - Reflexion
@@ -38,7 +38,7 @@ Ein arbeitsmarkttaugliches Portfolio zeigt Urteil.
 
 ## Grenze
 
-Nicht jeder Case muss alles zeigen. Ein kleiner, klarer Beweis ist besser als ein grosser Case ohne Entscheidung.
+Nicht jeder Case muss alles zeigen. Ein kleiner, klarer Beweis ist besser als ein großer Case ohne Entscheidung.
 
 ## Links
 
