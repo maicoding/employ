@@ -42,6 +42,8 @@ vault: "Employability_Arbeitsmarkt_Vault"
 
 # Jobposting und Arbeitgeberdaten Check 2026-05-21
 
+Codierte Datenseite: [Jobposting Corpus 2026-05-21](../datasets/jobposting-corpus-2026-05-21.md).
+
 ## Kurzfazit
 
 Dieser Check verbindet zwei Ebenen:

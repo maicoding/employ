@@ -13,11 +13,12 @@ tags: [dashboard]
 
 | Bereich | Status | Nächster Schritt |
 |---|---|---|
-| Allgemeiner Arbeitsmarkt | erste Synthese | DACH-Jobposting-Daten suchen |
-| Wirtschaft | erste Synthese | Rollen nach Subfeldern splitten |
-| Design | erste Synthese | DACH-/EU-Designquellen nachziehen |
-| Portfolio | erste Rubrik | Beispiele bauen |
-| GitHub Pages | vorbereitet | Publish-Setup entscheiden |
+| Allgemeiner Arbeitsmarkt | erste Synthese | DACH-Jobposting-Korpus erweitern |
+| Wirtschaft | erste Synthese + Governance-Sample | Rollen nach Finance, HR, Operations, Consulting splitten |
+| Design | erste Synthese + 9 codierte Rollenmarker | 30 Designrollen erreichen |
+| Media/Marketing | Programmatic-/Performance-Signal | 20 Rollen erreichen |
+| Portfolio | erste Rubrik | Muster-Cases bauen |
+| GitHub Pages | veröffentlicht | Checks beobachten |
 
 ## Quellenlage
 
@@ -26,6 +27,11 @@ tags: [dashboard]
 | Offizielle Reports | vorhanden |
 | Arbeitsmarktstatistik | vorhanden, teils US |
 | DACH-Betriebsdaten | IAB vorhanden |
-| Design-spezifische DACH-Daten | offen |
-| Jobpostings | offen |
+| Design-spezifische DACH-Daten | erstes Rollen-Sample vorhanden |
+| Jobpostings | [Jobposting Corpus 2026-05-21](../datasets/jobposting-corpus-2026-05-21.md) mit 22 Rollenmarkern |
 
+## Evidence
+
+- [Evidence Dashboard](../../review/evidence-dashboard.md)
+- [Claim Register](../../review/claim-register.md)
+- [Jobposting Corpus](../datasets/jobposting-corpus-2026-05-21.md)

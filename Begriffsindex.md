@@ -32,9 +32,11 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 - Decision Evidence: [Concept](wiki/concepts/decision-evidence.md)
 - Design: [Arbeitsmarkt](03_Design/Design_Arbeitsmarkt.md), [Rollen](03_Design/Design_Rollen_und_Portfolio.md), [Synthese](wiki/syntheses/design-arbeitsmarkt-synthese.md)
 - Design Through Language: [Concept](wiki/concepts/design-through-language.md)
+- DSP: [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md), [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md)
 
 ## E
 
+- Evidence Dashboard: [Review](review/evidence-dashboard.md)
 - Entry Level Compression: [Concept](wiki/concepts/entry-level-compression.md)
 - Employability: [Start](00_Start/Start_Hier.md), [Skill Families](01_Arbeitsmarkt/Skill_Families.md)
 
@@ -45,10 +47,20 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 
 ## J
 
+- Jobposting Corpus: [Dataset](wiki/datasets/jobposting-corpus-2026-05-21.md)
 - Juniorarbeit: [Packet](wiki/packets/juniorarbeit-verschiebt-sich-zu-review.md), [Entry Level Compression](wiki/concepts/entry-level-compression.md)
+
+## K
+
+- KPI: [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md), [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md)
+
+## M
+
+- Media/Marketing: [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md), [Trends und Signale](Trends_und_Signale.md)
 
 ## P
 
+- Plattformmetriken: [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md), [Evidence Dashboard](review/evidence-dashboard.md)
 - Portfolio Evidence: [Concept](wiki/concepts/portfolio-evidence.md), [System](04_Portfolio/Portfolio_Evidence_System.md)
 - Provenance and Rights: [Concept](wiki/concepts/provenance-and-rights.md)
 
@@ -76,4 +88,3 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 
 - Wirtschaft: [Arbeitsmarkt](02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md), [Rollen](02_Wirtschaft/Wirtschaft_Rollen_und_Portfolio.md), [Synthese](wiki/syntheses/wirtschaft-arbeitsmarkt-synthese.md)
 - Workflow Literacy: [Concept](wiki/concepts/workflow-literacy.md)
-

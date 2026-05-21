@@ -15,6 +15,7 @@ Hier werden Quellen, Claims und Grenzen geprüft.
 
 - [Source Register](source-register.md)
 - [Claim Register](claim-register.md)
+- [Evidence Dashboard](evidence-dashboard.md)
 - [Claim Hardening Map 2026-05-21](claim-hardening-map-2026-05-21.md)
 - [Jobposting Coding](jobposting-coding.md)
 - [Public Safe Audit](public-safe-audit.md)

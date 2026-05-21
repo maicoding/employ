@@ -15,6 +15,7 @@ Diese Seiten sind für schnelles Lesen gedacht:
 
 - [Belastbare Aussagen](Belastbare_Aussagen.md)
 - [Trends und Signale](Trends_und_Signale.md)
+- [Evidence Dashboard](review/evidence-dashboard.md)
 - [Arbeitsmarkt 2030 Überblick](01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
 - [Wirtschaft Arbeitsmarkt](02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Design Arbeitsmarkt](03_Design/Design_Arbeitsmarkt.md)
@@ -25,6 +26,7 @@ Diese Seiten sind für schnelles Lesen gedacht:
 Die Wiki-Schicht ist das zweite Gehirn:
 
 - [Sources](wiki/sources/README.md): Quellenkarten
+- [Datasets](wiki/datasets/README.md): codierte Arbeitsdaten
 - [Concepts](wiki/concepts/README.md): Begriffe
 - [Syntheses](wiki/syntheses/README.md): Verdichtungen
 - [Packets](wiki/packets/README.md): kurze Merksaetze
@@ -37,6 +39,8 @@ Die Review-Schicht trennt Aussage, Quelle und Grenze:
 
 - [Source Register](review/source-register.md)
 - [Claim Register](review/claim-register.md)
+- [Evidence Dashboard](review/evidence-dashboard.md)
+- [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md)
 - [Public Safe Audit](review/public-safe-audit.md)
 
 ## Arbeitsschicht
@@ -53,4 +57,3 @@ Diese Dateien steuern Pflege und Updates:
 
 - [Suche](Suche.md)
 - [Begriffsindex](Begriffsindex.md)
-

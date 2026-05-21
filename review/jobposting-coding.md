@@ -11,7 +11,7 @@ tags: [jobpostings, coding, dach, juniorrollen, creative-technology, ai-governan
 
 Ziel: öffentliche Stellenanzeigen so codieren, dass Claims im Vault nachziehbar bleiben. Keine langen Kopien aus Anzeigen. Nur Titel, Link, Abrufdatum und eigene Codierung.
 
-Aktueller Durchlauf: [Jobposting und Arbeitgeberdaten Check 2026-05-21](../wiki/sources/jobposting-employer-data-check-2026-05-21.md).
+Aktueller Durchlauf: [Jobposting und Arbeitgeberdaten Check 2026-05-21](../wiki/sources/jobposting-employer-data-check-2026-05-21.md). Codierte Datenseite: [Jobposting Corpus 2026-05-21](../wiki/datasets/jobposting-corpus-2026-05-21.md).
 
 ## Minimum Dataset
 

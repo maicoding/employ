@@ -23,3 +23,16 @@ Durchsucht Titel, Pfade, Tags und Seiteninhalt dieses Archivs.
 - Für Begriffe siehe [Begriffsindex](Begriffsindex.md).
 - Für die Gesamtstruktur siehe [Strukturkarte](Strukturkarte.md).
 - Für belastbare Aussagen siehe [Belastbare Aussagen](Belastbare_Aussagen.md).
+- Für Claim-Status siehe [Evidence Dashboard](review/evidence-dashboard.md).
+- Für Rollenmarker siehe [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md).
+
+## Suchfacetten
+
+Nützliche Einstiege:
+
+- `Junior`, `Einstieg`, `QA`, `Prototyping`
+- `Creative Technology`, `AI Coding`, `Scripting`, `Modelle`
+- `Governance`, `Compliance`, `Risk`, `Audit`
+- `Programmatic`, `DSP`, `DV360`, `The Trade Desk`
+- `Plattformmetriken`, `KPI`, `Tracking`, `Brand Safety`
+- `Portfolio`, `Prozess`, `Evidence`

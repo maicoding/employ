@@ -19,6 +19,8 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Belastbare Aussagen](../Belastbare_Aussagen.md)
 - [Trends und Signale](../Trends_und_Signale.md)
 - [Fehlstellen und Roadmap](../Fehlstellen_und_Roadmap.md)
+- [Evidence Dashboard](../review/evidence-dashboard.md)
+- [Jobposting Corpus](datasets/jobposting-corpus-2026-05-21.md)
 - [Start hier](../00_Start/Start_Hier.md)
 - [Vault Map](../00_Start/Vault_Map.md)
 - [Vault Operating System](../00_System/Vault_Operating_System.md)
@@ -76,6 +78,11 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Trends und Signale Next Checks 2026-05-21](sources/trends-signale-next-checks-2026-05-21.md)
 - [Jobposting und Arbeitgeberdaten Check 2026-05-21](sources/jobposting-employer-data-check-2026-05-21.md)
 
+## Datasets
+
+- [Datasets](datasets/README.md)
+- [Jobposting Corpus 2026-05-21](datasets/jobposting-corpus-2026-05-21.md)
+
 ## Packets
 
 - [Employability ist nicht Toolfluency](packets/employability-not-tool-fluency.md)
@@ -96,6 +103,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 
 - [Source Register](../review/source-register.md)
 - [Claim Register](../review/claim-register.md)
+- [Evidence Dashboard](../review/evidence-dashboard.md)
 - [Claim Hardening Map 2026-05-21](../review/claim-hardening-map-2026-05-21.md)
 - [Jobposting Coding](../review/jobposting-coding.md)
 - [Public Safe Audit](../review/public-safe-audit.md)

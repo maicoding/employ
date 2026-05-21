@@ -25,7 +25,7 @@ Nächster Schritt:
 
 ### 2. DACH-Jobposting-Daten
 
-Der Vault hat jetzt ein erstes public-safe Sample mit 22 Rollenmarkern. Es ist noch kein Korpus.
+Der Vault hat jetzt ein erstes public-safe Sample mit 22 Rollenmarkern und eine codierte Datenseite: [Jobposting Corpus 2026-05-21](wiki/datasets/jobposting-corpus-2026-05-21.md). Es ist noch kein repräsentatives Korpus.
 
 Nächster Schritt:
 
