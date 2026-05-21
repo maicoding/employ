@@ -87,5 +87,4 @@ Das betrifft Wirtschaft und Design unterschiedlich, aber die Grundbewegung ist a
 
 ## Grenze
 
-Dies ist eine Szenario-Synthese, keine Prognose mit Punktgenauigkeit. Sie sollte halbjaehrlich mit neuen Arbeitsmarktdaten, Jobpostings und Praxisfeedback aktualisiert werden.
-
+Dies ist eine Szenario-Synthese, keine Prognose mit Punktgenauigkeit. Sie sollte halbjährlich mit neuen Arbeitsmarktdaten, Jobpostings und Praxisfeedback aktualisiert werden.

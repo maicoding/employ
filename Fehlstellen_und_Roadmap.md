@@ -13,13 +13,15 @@ tags: [roadmap, gaps]
 
 ### 1. Drei offene Claims härten
 
-Die drei offenen Claims sind jetzt als [Claim Hardening Map](review/claim-hardening-map-2026-05-21.md), [Jobposting Coding](review/jobposting-coding.md) und [DACH Jobposting Spot Check](wiki/sources/dach-jobposting-spot-check-2026-05-21.md) geframt.
+Die drei offenen Claims sind jetzt als [Claim Hardening Map](review/claim-hardening-map-2026-05-21.md), [Jobposting Coding](review/jobposting-coding.md), [DACH Jobposting Spot Check](wiki/sources/dach-jobposting-spot-check-2026-05-21.md) und [Trends und Signale Next Checks](wiki/sources/trends-signale-next-checks-2026-05-21.md) geframt.
 
 Nächster Schritt:
 
 - `Juniorrollen`: nicht als pauschalen Verlust claimen; 60 Einstiegsrollen codieren und prüfen, ob Routineproduktion durch Review, Agentenaufsicht, Prototyping oder Lieferverantwortung ersetzt wird
 - `Creative Technology`: Sichtbarkeit von Wachstum trennen; Zeitvergleich oder Branchenquelle nachziehen
 - `AI-Governance`: Consulting/Security von Finance, HR und Operations trennen
+- `Plattformmetriken`: Designfreiheit, KPI-Logik und Brand Guardrails anhand von Portfolios und Rollen prüfen
+- `AI Search`: Sichtbarkeitsrisiko weiter beobachten, aber nicht in Jobverlust übersetzen
 
 ### 2. DACH-Jobposting-Daten
 
@@ -72,5 +74,5 @@ Die ersten Checks liegen als Node-Skripte vor.
 Nächster Schritt:
 
 - Linkcheck in GitHub Actions beobachten
-- halbjaehrlichen Source-Refresh als Issue oder Workflow ergänzen
+- halbjährlichen Source-Refresh als Issue oder Workflow ergänzen
 - optional MkDocs prüfen, wenn Navigation größer wird

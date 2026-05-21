@@ -9,6 +9,7 @@ sources:
   - "../sources/platform-creative-automation-2026.md"
   - "../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md"
   - "../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md"
+  - "../sources/trends-signale-next-checks-2026-05-21.md"
 ---
 
 # Platform-led Creative Automation
@@ -52,6 +53,8 @@ Wichtige Aufgaben:
 
 Reine Formatadaption wird schwächer als Nachweis. Wenn Plattformen Assets skalieren und optimieren, wird Wert dort sichtbar, wo jemand die Plattform mit guten Inputs, Grenzen, Freigaben und Bewertungen versorgt.
 
+Der Check vom 2026-05-21 macht die Freiheitsfrage präziser: Exploration kann am Anfang breiter werden, während Ausspielung, Format, Brand Safety, Compliance, Variantenbewertung und Performance-Auswahl enger an Plattformmetriken gekoppelt werden. Gestaltungsspielraum verschwindet nicht, aber er wandert zu Briefing, Guardrails, Messkritik und Entscheidung.
+
 Stärker werden:
 
 - Creative Systems
@@ -80,4 +83,3 @@ Nicht jede Designarbeit läuft über Werbeplattformen. Editorial, Kultur, Produk
 - [Workflow Literacy](workflow-literacy.md)
 - [Provenance and Rights](provenance-and-rights.md)
 - [Portfolio Evidence](portfolio-evidence.md)
-

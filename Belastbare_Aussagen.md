@@ -21,16 +21,24 @@ Diese Seite ist die knappe Lesefläche für Aussagen, die im Vault bereits Quell
 | Wirtschaftliche KI-Arbeit braucht Entscheidung, Risiko und Umsetzung. | [BLS Management Analysts](wiki/sources/bls-management-analysts-2024-2034.md), [OECD AI in Finance](wiki/sources/oecd-ai-in-finance.md) | Subfelder müssen einzeln betrachtet werden. |
 | Design-Portfolios müssen Prozess und Urteil zeigen. | [BLS Graphic Designers](wiki/sources/bls-graphic-designers-2024-2034.md), [BLS Web/Digital Designers](wiki/sources/bls-web-digital-designers-2024-2034.md) | Erwartungen unterscheiden sich je Studio, Agentur und Unternehmen. |
 | Plattformen automatisieren Teile von Asset-Erstellung, Variantenbildung und Optimierung. | [Platform Creative Automation 2026](wiki/sources/platform-creative-automation-2026.md), [Azerion AdMove.ai Hawk DSP 2026](wiki/sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md) | Vendor-Quellen zeigen Produktlogik, aber keine neutrale Qualitäts- oder Jobwirkung. |
+| KI-Suche wird zum Sichtbarkeits- und Monetarisierungsrisiko. | [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md) | Belegt sind Klick-, Quellen- und Publisher-Risiken, kein direkter Jobverlustclaim. |
 
 ## Noch nicht hart genug
 
-Diese drei Aussagen bleiben unterhalb von `Gut belegt`. Der [AI in Design Report 2026](wiki/sources/designer-fund-ai-in-design-report-2026.md) und der [DACH Jobposting Spot Check](wiki/sources/dach-jobposting-spot-check-2026-05-21.md) machen sie präziser, aber noch nicht statistisch hart.
+Diese drei Aussagen bleiben unterhalb von `Gut belegt`. Der [AI in Design Report 2026](wiki/sources/designer-fund-ai-in-design-report-2026.md), der [DACH Jobposting Spot Check](wiki/sources/dach-jobposting-spot-check-2026-05-21.md) und die [Trends und Signale Next Checks](wiki/sources/trends-signale-next-checks-2026-05-21.md) machen sie präziser, aber noch nicht statistisch hart.
 
 | Aussage | Was jetzt belastbar ist | Was fehlt | Nächster Check |
 |---|---|---|---|
 | Juniorrollen verlieren klassische Lernaufgaben. | Besserer Frame: Einstiegslernen wird fragiler, weil Routineproduktion, Erstentwurf und Recherche stärker durch KI überlagert werden. Einzelne Juniorrollen verlangen bereits Agentenaufsicht, Review, Prototyping, AI-Tools und schnelle Lieferung. | DACH-Zeitreihe und Arbeitgebercodierung; nicht belegt ist ein allgemeiner Verlust von Juniorarbeit. | 30 Junior-Designrollen und 30 Wirtschaftseinstiegsrollen codieren: Routineproduktion, Review, Mentoring, AI-Tools, Freigabegrenzen. |
 | Creative-Technology-Rollen wachsen im DACH-Designmarkt. | Sichtbar sind öffentliche Rollenprofile für Creative Technology, AI Creative Technology und Design Engineering im DACH-Kontext. Sie bündeln Gestaltung, technische Pipeline, Prompt-/Modellarbeit, visuelle Urteilskraft und Qualitätssicherung. | Wachstum ist nicht belegt. Dafür braucht es Zeitvergleich oder aggregierte Jobposting-Daten. | Öffentliche Stellenanzeigen aus Designstudios, Agenturen, Produktfirmen und AI-Content-Startups als kleines Korpus codieren. |
-| AI-Governance wird in Wirtschaftseinstiegsrollen sichtbar. | Sichtbar sind Junior-/Einstiegsprofile in AI Security, AI Governance und Consulting. Bundesnetzagentur, EU-AI-Act-Kontext und Plattformquellen erklären, warum Governance-Arbeit zunimmt. | Noch zu eng auf Consulting/Security; Finance, HR und Operations sind nicht breit genug abgedeckt. | Rollenprofile in Finance, HR, Operations und Consulting getrennt codieren: Governance, Risiko, Compliance, AI Literacy, Audit, Freigabe. |
+| AI-Governance wird in Wirtschaftseinstiegsrollen sichtbar. | Sichtbar sind Junior-/Einstiegsprofile in AI Security, AI Governance, Consulting und finance-naher Data-/AI-Governance. | Noch zu eng auf Consulting, Security und Finance; HR und Operations sind nicht breit genug abgedeckt. | Rollenprofile in Finance, HR, Operations und Consulting getrennt codieren: Governance, Risiko, Compliance, AI Literacy, Audit, Freigabe. |
+
+## Neue Signale nachgezogen
+
+| Aussage | Was jetzt belastbar ist | Was fehlt | Nächster Check |
+|---|---|---|---|
+| Plattformmetriken verschieben Gestaltungsspielräume. | Plattformen und Media-Rollen koppeln Creative-Arbeit stärker an KPI, Attribution, Testing, Brand Safety und automatische Variantenwahl. | Es fehlt ein Design-Corpus, das zeigt, wie Teams kreative Freiheit gegen Plattformziele absichern. | Portfolios und Rollen auf Seed Assets, Brand Invariants, Stop-Regeln, Creative Fatigue und Plattform-QA codieren. |
+| Media- und Marketingrollen werden mess- und plattformnäher. | Programmatic-/Paid-Media-Rollen zeigen DSPs, Reporting, Attribution, KPI-Analyse und Plattformvergleich. | Nielsen, ZAW, OVK, AGF, Retail Media und CTV müssen breiter codiert werden. | 20 DACH-Rollen aus Agentur, Inhouse, Retail Media und Publisher-Kontext prüfen. |
 
 ## Arbeitsregel
 

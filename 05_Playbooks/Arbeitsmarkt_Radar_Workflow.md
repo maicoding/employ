@@ -13,7 +13,7 @@ tags: [radar, workflow, arbeitsmarkt]
 
 Der Radar macht aus Arbeitsmarktbeobachtung einen wiederholbaren Prozess.
 
-Er soll halbjaehrlich zeigen:
+Er soll halbjährlich zeigen:
 
 - welche Aufgaben sich verschieben
 - welche Skills häufiger auftauchen

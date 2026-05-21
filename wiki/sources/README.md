@@ -40,6 +40,10 @@ tags: [sources]
 - [Designer Fund AI in Design Report 2026](designer-fund-ai-in-design-report-2026.md) - Quellenkarte zum AI in Design Report 2026: Tools, Craft, Teams, Methodik, Grenzen und Vault-spezifische Anschlussfragen.
 - [DACH Jobposting Spot Check 2026-05-21](dach-jobposting-spot-check-2026-05-21.md) - Öffentlicher Spot-Check zu Juniorrollen, Creative Technology und AI-Governance in DACH-Rollenprofilen.
 
+## Ingest 2026-05-21 - Trends und Signale Next Checks
+
+- [Trends und Signale Next Checks 2026-05-21](trends-signale-next-checks-2026-05-21.md) - Öffentlicher Gegencheck der offenen Signalprüfungen zu AI Search, Plattformmetriken, Media-Rollen, AI Design und Governance.
+
 ## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
 
 - [Agentic Workflow Guardrails und Media Buying 2026](agentic-workflow-guardrails-media-buying-2026-05-21.md) - Industry-Signal mit Quellenstatus, Extraktion, Critical Forecast Mode und Vault-Relevanz.

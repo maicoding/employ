@@ -73,6 +73,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Platform Creative Automation 2026](sources/platform-creative-automation-2026.md)
 - [D&AD Awards 2026 Creative Work Shift](sources/dandad-pencils-germany-2026-creative-work-shift.md)
 - [AGF and Amazon Video Measurement](sources/agf-youtube-video-measurement-platform-metrics-2026.md)
+- [Trends und Signale Next Checks 2026-05-21](sources/trends-signale-next-checks-2026-05-21.md)
 
 ## Packets
 
@@ -110,6 +111,10 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 
 - [Designer Fund AI in Design Report 2026](sources/designer-fund-ai-in-design-report-2026.md) - Quellenkarte zum AI in Design Report 2026: Tools, Craft, Teams, Methodik, Grenzen und Vault-spezifische Anschlussfragen.
 - [DACH Jobposting Spot Check 2026-05-21](sources/dach-jobposting-spot-check-2026-05-21.md) - Öffentlicher Spot-Check zu Juniorrollen, Creative Technology und AI-Governance in DACH-Rollenprofilen.
+
+## Ingest 2026-05-21 - Trends und Signale Next Checks
+
+- [Trends und Signale Next Checks 2026-05-21](sources/trends-signale-next-checks-2026-05-21.md) - Öffentlicher Gegencheck der offenen Signalprüfungen zu AI Search, Plattformmetriken, Media-Rollen, AI Design und Governance.
 
 ## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
 
