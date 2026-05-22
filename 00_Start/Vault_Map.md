@@ -39,6 +39,7 @@ tags: [navigation, map]
 
 - [Wiki Index](../wiki/index.md)
 - [Sources](../wiki/sources/README.md)
+- [Datasets](../wiki/datasets/README.md)
 - [Concepts](../wiki/concepts/README.md)
 - [Syntheses](../wiki/syntheses/README.md)
 - [Packets](../wiki/packets/README.md)

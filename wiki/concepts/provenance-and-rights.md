@@ -16,7 +16,7 @@ sources:
 
 Provenance and Rights meint: Herkunft, Rechte, Einwilligung, Modellnutzung und KI-Anteil von Materialien nachvollziehbar machen.
 
-## Warum es zaehlt
+## Warum es zählt
 
 In Design, Marketing, Medien und Produktkommunikation ist Output nicht nur "gut" oder "schnell". Er muss nutzbar sein:
 

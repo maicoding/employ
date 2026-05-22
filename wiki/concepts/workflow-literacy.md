@@ -32,7 +32,7 @@ Mit KI wird diese Fähigkeit wichtiger, weil einzelne Schritte automatisiert ode
 - Handoffs dokumentieren
 - Kosten und Risiken einschaetzen
 
-## Warum es zaehlt
+## Warum es zählt
 
 Toolkompetenz ohne Workflow führt zu Einzeloutputs. Arbeitsmarktwert entsteht, wenn Outputs in einen Prozess passen.
 

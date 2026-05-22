@@ -14,6 +14,7 @@ Diese Schicht enthält codierte Arbeitsdaten. Sie ist näher an Tabellen als an 
 ## Aktive Datensätze
 
 - [Jobposting Corpus 2026-05-21](jobposting-corpus-2026-05-21.md): 22 öffentliche Rollenmarker aus Design, Creative Technology, Governance und Media/Marketing.
+- [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](page-stellenmarkt-design-media-corpus-2026-05-22.md): 33 öffentliche Anzeigenmarker aus PAGE; Creative/Media-Sample, kein enger Designmarkt.
 
 ## Regel
 

@@ -14,7 +14,7 @@ tags: [lint, public-safe]
 Vor GitHub-Pages-Veröffentlichung suchen nach:
 
 ```text
-institutionelle Alt-Bezuege
+institutionelle Altbezüge
 Pressespiegel
 Paywall
 Pressedatenbank

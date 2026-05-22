@@ -27,7 +27,7 @@ Sie zeigt:
 - Entscheidung
 - offene Punkte
 
-## Warum es zaehlt
+## Warum es zählt
 
 In Wirtschaft kann KI Analyse, Recherche und Reportentwürfe beschleunigen. Der berufliche Wert liegt aber darin, aus Material eine brauchbare Entscheidung zu machen.
 
@@ -49,4 +49,3 @@ Evidence ersetzt nicht Entscheidung. Sie macht Entscheidung nachvollziehbar.
 
 - [Wirtschaft Rollen und Portfolio](../../02_Wirtschaft/Wirtschaft_Rollen_und_Portfolio.md)
 - [Validation Burden](validation-burden.md)
-

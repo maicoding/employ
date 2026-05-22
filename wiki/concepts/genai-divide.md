@@ -27,7 +27,7 @@ Das betrifft:
 - Datenschutz- und Freigaberegeln
 - Zeit zum Lernen
 
-## Warum es zaehlt
+## Warum es zählt
 
 Wenn Employability nur als individuelle Haltung beschrieben wird, wird sie unfair. Nicht alle starten mit gleichen Ressourcen.
 
@@ -48,4 +48,3 @@ GenAI Divide erklärt nicht jede Kompetenzdifferenz. Es ist ein Zugangsfaktor, k
 
 - [AI Readiness](ai-readiness.md)
 - [Public-Safe Publishing Checklist](../../05_Playbooks/Public_Safe_Publishing_Checklist.md)
-

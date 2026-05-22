@@ -28,7 +28,7 @@ Eine Rolle im Marketing verliert nicht automatisch an Bedeutung, weil KI Textent
 - mehr Marken- und Rechtsprüfung
 - mehr Freigabelogik
 
-## Warum es zaehlt
+## Warum es zählt
 
 Viele Arbeitsmarktdebatten fragen zu grob: "Welche Jobs verschwinden?"
 
@@ -49,4 +49,3 @@ Nicht jede Aufgabe wird neu gebündelt. Manche bleiben klassisch, weil Recht, Ko
 - [Entry Level Compression](entry-level-compression.md)
 - [Validation Burden](validation-burden.md)
 - [Arbeitsmarkt 2030](../syntheses/arbeitsmarkt-2030.md)
-

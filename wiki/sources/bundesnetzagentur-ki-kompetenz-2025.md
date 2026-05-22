@@ -24,8 +24,8 @@ Die Bundesnetzagentur fasst zusammen, dass Anbieter und Betreiber von KI-Systeme
 ## Kernaussagen für diesen Vault
 
 - KI-Kompetenz ist nicht nur persoenliche Weiterbildung, sondern Teil organisatorischer Verantwortung.
-- Der Kontext des KI-Einsatzes zaehlt: technische Kenntnisse, Erfahrung, Ausbildung, Nutzungskontext und betroffene Personengruppen.
-- Für Employability heisst das: AI Readiness umfasst Governance, Risiko, Rollen und Freigabeprozesse.
+- Der Kontext des KI-Einsatzes zählt: technische Kenntnisse, Erfahrung, Ausbildung, Nutzungskontext und betroffene Personengruppen.
+- Für Employability heißt das: AI Readiness umfasst Governance, Risiko, Rollen und Freigabeprozesse.
 
 ## Was die Quelle traegt
 
@@ -40,4 +40,3 @@ Die Quelle ist regulatorisch. Sie misst keine Arbeitsmarktnachfrage und ersetzt 
 - [Governance and Risk](../concepts/governance-and-risk.md)
 - [Wirtschaft Arbeitsmarkt](../../02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Provenance and Rights](../concepts/provenance-and-rights.md)
-

@@ -57,6 +57,8 @@ Nächster Check: DACH-Stellenprofile.
 
 Check 2026-05-21: DACH-Rollenprofile zeigen Creative Technology und AI-nahe Designarbeit als sichtbares Muster. Belegt ist Sichtbarkeit, nicht Wachstum. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md)
 
+Check 2026-05-22: Der [PAGE Stellenmarkt Spot Check](wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md) macht das Signal breiter, aber nicht härter. PAGE zeigt Senior Brand/System Design, UX/Research Leadership, E-Mail-Marketing-Automation, AI-Workflow-Lektorat und Agentic-AI-Product-Ownership. Das trägt System- und Workflowverschiebung. Es belegt kein Wachstum von Creative-Technology-Rollen.
+
 ### Wirtschaft braucht KI-Governance im Alltag
 
 Regulierung und betriebliche KI-Nutzung machen Governance praktischer. Offen ist, wie stark das bereits in Einstiegsrollen sichtbar ist.
@@ -72,6 +74,8 @@ BVDW/OVK und öffentliche Plattformsignale zeigen eine weitere Verschiebung von 
 Nächster Check: DACH-Stellenprofile für Media Planning, Performance Marketing, Creative Strategy, AdTech und Brand Safety.
 
 Check 2026-05-21: Programmatic-, Paid-Media- und Display-Rollen zeigen DV360, The Trade Desk, Amazon DSP, Meta/TikTok, KPI-Monitoring, Attribution, Reporting, Brand Safety und Tech-Stack als wiederkehrende Marker. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md)
+
+Check 2026-05-22: PAGE ergänzt Social, Redaktion, Content, E-Mail-Marketing, Kommunikation und Publishing. Damit wird der Creative/Media-Mix sichtbarer, aber Programmatic und Retail Media müssen weiter separat codiert werden.
 
 ### KI-Suche wird zum Reichweiten- und Monetarisierungsrisiko
 
@@ -136,3 +140,5 @@ Die neue Aufgabe ist nicht mehr nur "mehr Assets schneller herstellen". Wenn Pla
 Nächster Check: Jobprofile und Portfolios auf Seed Assets, Brand Invariants, Creative Fatigue, Plattform-QA, automatisch erzeugte Kombinationen und Performance-Interpretation prüfen.
 
 Check 2026-05-21: Die Aufgabenverschiebung ist tragfähiger: Inputs, Guardrails, Variantenlogik, Review, Rechte, KPI-Lesen und Stop-Regeln werden wichtiger. Nicht belegt ist, dass Plattformautomation Gestaltung freier oder besser macht. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md) und [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md)
+
+Check 2026-05-22: PAGE zeigt Rollen, in denen Gestaltung mit Automatisierung, Systemführung, Research, Social-Content, Publishing und Qualitätsprüfung zusammenliegt. Die saubere Lesart: Gestaltung wird häufiger an vorgelagerte Inputs und nachgelagerte Prüfung gekoppelt. Nicht belegt ist, dass Designer:innen dadurch automatisch mehr Freiheit oder weniger Arbeit haben.

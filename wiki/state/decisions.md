@@ -12,7 +12,7 @@ tags: [decisions]
 ## 2026-05-21
 
 - Neuer Vault wird allgemein gehalten.
-- Keine institutionellen Alt-Bezuege.
+- Keine institutionellen Altbezüge.
 - GitHub Pages kommt nach dem Vault-Aufbau.
 - Keine geschützten Quellen.
 - Alte Vaults dienen als Struktur- und Denkinput, nicht als kopierter Textbestand.

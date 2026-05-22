@@ -36,7 +36,7 @@ Design:
 - Briefing schaerfen
 - Material, Licht, Rhythmus und Kontext lesen
 
-## Warum es zaehlt
+## Warum es zählt
 
 Ohne Reserve Skills wird KI zur Black Box. Output kann dann flüssig wirken, ohne tragfähig zu sein.
 
@@ -48,4 +48,3 @@ Reserve Skills sind kein Argument gegen KI. Sie sind die Bedingung dafür, KI ni
 
 - [Validation Burden](validation-burden.md)
 - [Human Bottleneck Skills](human-bottleneck-skills.md)
-

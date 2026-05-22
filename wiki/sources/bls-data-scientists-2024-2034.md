@@ -21,7 +21,7 @@ URL: https://www.bls.gov/ooh/math/data-scientists.htm
 
 - Die BLS projiziert 34 Prozent Wachstum von 2024 bis 2034.
 - Wachstum wird mit wachsendem Bedarf an datengetriebenen Entscheidungen und größeren Datenmengen begründdet.
-- Für Employability heisst das: Datenkompetenz bleibt wertvoll, aber sie muss mit Fachkontext, Prozesswissen und Entscheidungskompetenz verbunden werden.
+- Für Employability heißt das: Datenkompetenz bleibt wertvoll, aber sie muss mit Fachkontext, Prozesswissen und Entscheidungskompetenz verbunden werden.
 
 ## Grenze
 
@@ -31,4 +31,3 @@ Die Rolle "Data Scientist" ist breit. Nicht jede Wirtschaftsstudierende Person m
 
 - [Wirtschaft Arbeitsmarkt](../../02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Decision Evidence](../concepts/decision-evidence.md)
-

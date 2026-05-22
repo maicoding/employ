@@ -16,7 +16,7 @@ Geprüft:
 - keine Obsidian-Wikilinks in neuer Struktur
 - keine lokalen Dateipfade
 - keine Platzhalter
-- keine direkten institutionellen Alt-Bezuege
+- keine direkten institutionellen Altbezüge
 - keine geschützten Volltexte
 - keine Pressespiegel-Inhalte
 - keine benannten Paywall-Artikel als Quellen

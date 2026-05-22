@@ -27,7 +27,7 @@ Creative Technologist ist eine hybride Rolle zwischen Gestaltung, Technik, Proto
 - Handoffs verbessern
 - Qualität prüfen
 
-## Warum es zaehlt
+## Warum es zählt
 
 Designarbeit wird nicht nur schneller. Sie wird systemischer. Bilder, Interfaces, Kampagnen, Assets und Daten haengen enger zusammen.
 

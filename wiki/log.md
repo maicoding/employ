@@ -3,7 +3,7 @@ title: "Wiki Log"
 type: log
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [log, wiki]
 ---
 
@@ -21,3 +21,15 @@ Initiale Wiki-Schicht angelegt:
 
 Die alten Vaults wurden nur als Struktur- und Begriffsinspiration genutzt. Keine geschützten Pressespiegel- oder Paywall-Inhalte wurden übernommen.
 
+## [2026-05-22] ingest | PAGE Stellenmarkt als Creative/Media-Korpus
+
+Ergänzt:
+
+- [PAGE Stellenmarkt Design/Media Spot Check](sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md)
+- [PAGE Stellenmarkt Design/Media Corpus](datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
+
+Entscheidung:
+
+- Die bisherigen 22 Jobpostings reichen nicht für harte Marktclaims.
+- PAGE wird als eigener Creative/Media-Spotcheck geführt, nicht in den engen Designmarkt eingerechnet.
+- Das neue Sample stützt System-, Workflow-, Research-, Kommunikations- und QA-Verschiebung, aber kein Wachstum und keinen Jobverlustclaim.

@@ -15,7 +15,7 @@ Neuer public-safe Vault angelegt. Ziel: allgemeiner Arbeitsmarkt mit Vertiefunge
 
 Entscheidungen:
 
-- keine institutionellen Alt-Bezuege
+- keine institutionellen Altbezüge
 - keine geschützten Quellen
 - keine Paywall- oder Pressespiegel-Inhalte
 - klare, knappe Sprache

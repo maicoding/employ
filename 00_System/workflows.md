@@ -11,10 +11,10 @@ tags: [workflow]
 
 ## Quelle aufnehmen
 
-1. Quelle oeffnen.
+1. Quelle öffnen.
 2. Prüfen, ob sie public-safe ist.
 3. Source Card in `wiki/sources/` anlegen.
-4. Evidenzstaerke notieren.
+4. Evidenzstärke notieren.
 5. Grenzen notieren.
 6. Verlinkte Concepts aktualisieren.
 7. Index und Log aktualisieren.
@@ -39,7 +39,7 @@ tags: [workflow]
 
 ## Public-Safe Lint
 
-1. Suche nach institutionellen Alt-Bezuegen, Pressedatenbank-Hinweisen, Paywall-Quellen und internen Dateipfaden.
+1. Suche nach institutionellen Altbezügen, Pressedatenbank-Hinweisen, Paywall-Quellen und internen Dateipfaden.
 2. Suche nach langen Zitaten.
 3. Suche nach Buzzwords.
 4. Prüfe externe Links.

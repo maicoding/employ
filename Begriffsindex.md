@@ -61,6 +61,7 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 
 ## P
 
+- PAGE Stellenmarkt: [Dataset](wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md), [Source](wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md)
 - Plattformmetriken: [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md), [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md), [Evidence Dashboard](review/evidence-dashboard.md)
 - Portfolio Evidence: [Concept](wiki/concepts/portfolio-evidence.md), [System](04_Portfolio/Portfolio_Evidence_System.md)
 - Provenance and Rights: [Concept](wiki/concepts/provenance-and-rights.md)

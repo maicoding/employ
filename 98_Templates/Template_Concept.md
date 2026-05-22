@@ -24,7 +24,7 @@ sources: []
 
 ## Definition
 
-## Warum es zaehlt
+## Warum es zählt
 
 ## Beispiele
 
@@ -34,4 +34,3 @@ sources: []
 
 ## Links
 ```
-

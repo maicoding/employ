@@ -19,7 +19,7 @@ AI Readiness ist die Fähigkeit, KI in echten Arbeitssituationen sinnvoll, prüf
 
 Es ist mehr als Toolkenntnis.
 
-## Warum es zaehlt
+## Warum es zählt
 
 Betriebe nutzen generative KI unterschiedlich schnell. Das IAB zeigt für Deutschland 2025 eine breite, aber nicht flaechendeckende Nutzung. Gleichzeitig verlangt der AI Act KI-Kompetenz im Nutzungskontext.
 

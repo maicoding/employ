@@ -73,7 +73,7 @@ Erwartung:
 - Portfolios werden technischer und reflektierter.
 - Reine Ergebnisgalerien verlieren Aussagekraft.
 
-## 2030: Arbeitsfähigkeit heisst Orchestrierung
+## 2030: Arbeitsfähigkeit heißt Orchestrierung
 
 Arbeitsfähig ist, wer Fachwissen, KI, Daten, Menschen und Verantwortung verbinden kann.
 

@@ -48,6 +48,10 @@ tags: [sources]
 
 - [Jobposting und Arbeitgeberdaten Check 2026-05-21](jobposting-employer-data-check-2026-05-21.md) - Öffentlicher Spot-Check mit Rollenmarkern und Arbeitgeberdaten zu Juniorarbeit, Governance, Media-Metriken und Plattformautomation.
 
+## Ingest 2026-05-22 - PAGE Stellenmarkt
+
+- [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](page-stellenmarkt-design-media-spot-check-2026-05-22.md) - Öffentlicher Creative/Media-Spotcheck mit 33 codierten PAGE-Anzeigen und klarer Grenze: kein repräsentativer Designmarkt.
+
 ## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
 
 - [Agentic Workflow Guardrails und Media Buying 2026](agentic-workflow-guardrails-media-buying-2026-05-21.md) - Industry-Signal mit Quellenstatus, Extraktion, Critical Forecast Mode und Vault-Relevanz.

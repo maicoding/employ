@@ -11,7 +11,7 @@ tags: [publishing, public-safe]
 
 ## Vor jeder Veröffentlichung
 
-- Keine institutionellen Alt-Bezuege.
+- Keine institutionellen Altbezüge.
 - Keine geschützten Quellen.
 - Keine Pressespiegel-Auswertung.
 - Keine kopierten Volltexte.

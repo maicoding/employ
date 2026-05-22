@@ -9,23 +9,23 @@ Dieser Vault sammelt und kompiliert Wissen zum Arbeitsmarkt unter KI-Bedingungen
 - Wirtschaft
 - Design
 
-Der Vault ist für eine spaetere GitHub-Pages-Veröffentlichung vorbereitet. Deshalb gelten strengere Quellenregeln als in einem rein privaten Recherchevault.
+Der Vault ist für eine spätere GitHub-Pages-Veröffentlichung vorbereitet. Deshalb gelten strengere Quellenregeln als in einem rein privaten Recherchevault.
 
 ## Nicht-Ziele
 
-- keine institutionellen Alt-Bezuege
+- keine institutionellen Altbezüge
 - keine Paywall-Zusammenfassungen als tragende Quelle
 - keine kopierten Pressespiegel
 - keine geschützten Volltexte
 - keine langen Zitate
-- keine KI-Sprache mit großen Gesten, Adjektivketten oder künstlichen Gegensaetzen
+- keine KI-Sprache mit großen Gesten, Adjektivketten oder künstlichen Gegensätzen
 - keine Toolhype-Seiten ohne Arbeitsmarktbezug
 
 ## Grundsatz
 
 Der Vault ist Denkraum und Belegarchiv.
 
-Fruehe Gedanken dürfen hinein. Sie müssen aber als frueh markiert bleiben. Öffentliche Aussagen brauchen öffentliche Quellen, klare Grenzen und eine nachvollziehbare Verbindung zu den Quellen.
+Frühe Gedanken dürfen hinein. Sie müssen aber als früh markiert bleiben. Öffentliche Aussagen brauchen öffentliche Quellen, klare Grenzen und eine nachvollziehbare Verbindung zu den Quellen.
 
 Arbeitsformel:
 
@@ -41,7 +41,7 @@ Nur saubere Aussagen veröffentlichen.
 
 ### Raw
 
-`raw/` enthaelt Fundstellen, Links, Notizen und Material, das noch nicht ausgewertet ist.
+`raw/` enthält Fundstellen, Links, Notizen und Material, das noch nicht ausgewertet ist.
 
 Regeln:
 
@@ -52,7 +52,7 @@ Regeln:
 
 ### Review
 
-`review/` enthaelt Quellenprüfung, Gegenchecks, Claim-Register und offene Fragen.
+`review/` enthält Quellenprüfung, Gegenchecks, Claim-Register und offene Fragen.
 
 Hier wird entschieden:
 
@@ -84,7 +84,7 @@ Diese Ordner sind lesbare Einstiege für Menschen. Sie dürfen auf Wiki-Seiten v
 
 ### Outputs
 
-`outputs/` enthaelt Briefings, Webseiten-Export, Slides oder spaetere GitHub-Pages-Artefakte. Outputs sind nicht Quelle der Wahrheit.
+`outputs/` enthält Briefings, Webseiten-Export, Slides oder spätere GitHub-Pages-Artefakte. Outputs sind nicht Quelle der Wahrheit.
 
 ## Statuswerte
 
@@ -95,7 +95,7 @@ Diese Ordner sind lesbare Einstiege für Menschen. Sie dürfen auf Wiki-Seiten v
 - `evidence-linked`: Aussage ist mit Quelle verbunden, aber noch nicht öffentlich hart
 - `claim-ready`: öffentlich nutzbar, wenn Quellenlage und Gegencheck passen
 - `contested`: plausibel, aber mit offenem Widerspruch
-- `rejected`: bewusst nicht als Stuetzung verwenden
+- `rejected`: bewusst nicht als Stützung verwenden
 
 ## Public-Safe-Regel
 
@@ -115,7 +115,7 @@ Deutsch, klar, knapp.
 Bevorzugt:
 
 - "Kernaussage" statt akademischer Schlagwortlogik
-- "Warum es zaehlt" statt "Relevanzdimension"
+- "Warum es zählt" statt "Relevanzdimension"
 - "Grenze" statt "Limitationsdiskurs"
 - "Gegencheck" statt künstlicher Gegensaetze
 - konkrete Tätigkeiten statt Buzzwords
@@ -125,7 +125,7 @@ Vermeiden:
 
 - "transformativ", wenn nicht genau gesagt wird, was sich verändert
 - "disruptiv", wenn kein Mechanismus genannt wird
-- "holistisch", "zukunftsfähig", "innovativ" als Fuellwoerter
+- "holistisch", "zukunftsfähig", "innovativ" als Füllwörter
 - Toollisten ohne Arbeitsprozess
 - allgemeine KI-Formeln ohne Branchenbezug
 
@@ -142,14 +142,14 @@ Vermeiden:
 ## Query Workflow
 
 1. Zuerst `wiki/index.md` lesen.
-2. Relevante Source-, Concept- und Synthesis-Seiten oeffnen.
+2. Relevante Source-, Concept- und Synthesis-Seiten öffnen.
 3. Antwort mit Quellenbezug und Grenzen formulieren.
 4. Wenn die Antwort dauerhaft nützlich ist, als neue Seite ablegen.
 5. Index und Log aktualisieren.
 
 ## Lint Workflow
 
-Regelmaessig prüfen:
+Regelmäßig prüfen:
 
 - Quellen ohne URL
 - Seiten ohne Status

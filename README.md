@@ -11,7 +11,7 @@ tags: [employability, arbeitsmarkt, wirtschaft, design, public-safe]
 
 Ein Karpathy-Style Second-Brain-Wiki zum Arbeitsmarkt unter KI-Bedingungen.
 
-Der Vault ist allgemein gehalten. Er enthaelt keine institutionellen Alt-Bezuege und keine geschützten Quellen. Er ist für spaetere GitHub-Pages-Veröffentlichung vorbereitet, bleibt aber zuerst ein wartbarer Arbeitsvault.
+Der Vault ist allgemein gehalten. Er enthält keine institutionellen Altbezüge und keine geschützten Quellen. Er ist für spätere GitHub-Pages-Veröffentlichung vorbereitet, bleibt aber zuerst ein wartbarer Arbeitsvault.
 
 ## Einstieg
 
@@ -38,10 +38,10 @@ Kurze Regel:
 ```text
 Breit sammeln.
 Klar markieren.
-Langsam haerten.
+Langsam härten.
 Öffentlich nur sauber belegt.
 ```
 
 ## GitHub Pages
 
-Dieser Vault ist Markdown-first. Für die spaetere Veröffentlichung können die Inhalte aus dem Vault heraus als GitHub Pages gebaut werden. Der nächste Schritt ist nicht Deployment, sondern ein kleines Publish-Setup mit Navigation, Lizenz-/Quellenhinweis und Update-Workflow.
+Dieser Vault ist Markdown-first. Für die spätere Veröffentlichung können die Inhalte aus dem Vault heraus als GitHub Pages gebaut werden. Der nächste Schritt ist nicht Deployment, sondern ein kleines Publish-Setup mit Navigation, Lizenz-/Quellenhinweis und Update-Workflow.

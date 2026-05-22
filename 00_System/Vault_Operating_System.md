@@ -9,7 +9,7 @@ tags: [system, workflow, public-safe]
 
 # Vault Operating System
 
-## Was hier Karpathy Style heisst
+## Was hier Karpathy Style heißt
 
 Der Vault ist kein Ablageordner und kein Chat-Protokoll.
 
@@ -31,8 +31,8 @@ Der Vault darf frühe Gedanken halten. Er darf aber nicht so tun, als wären sie
 |---|---|---|
 | `inbox` | sammeln | als Befund auftreten |
 | `scoping` | Begriffe klären | öffentlich behaupten |
-| `signal` | Muster zeigen | harte Schluesse tragen |
-| `evidence-linked` | interne Synthesen stuetzen | allein als finale Aussage gelten |
+| `signal` | Muster zeigen | harte Schlüsse tragen |
+| `evidence-linked` | interne Synthesen stützen | allein als finale Aussage gelten |
 | `claim-ready` | öffentlich genutzt werden | ohne Review stehen bleiben |
 
 ## Public-Safe-Gate
@@ -68,15 +68,15 @@ Die Quelle zeigt X für Kontext Y. Für Z reicht sie nicht.
 Schlechte Form:
 
 ```text
-KI veraendert alles.
+KI verändert alles.
 ```
 
-## Woechentlicher Wartungslauf
+## Wöchentlicher Wartungslauf
 
 - neue öffentliche Quellen suchen
 - veraltete Zahlen markieren
 - Links prüfen
 - offene Fragen aktualisieren
 - geschützte oder interne Verweise entfernen
-- Sprache kuerzen
+- Sprache kürzen
 - Index und Log pflegen

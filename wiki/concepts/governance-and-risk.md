@@ -16,7 +16,7 @@ sources:
 
 Governance and Risk meint die Regeln, Rollen und Kontrollen, die KI-Nutzung arbeitsfähig machen.
 
-## Warum es zaehlt
+## Warum es zählt
 
 KI ist nicht nur ein Produktivitaetstool. In vielen Arbeitskontexten beruehrt sie:
 
@@ -49,4 +49,3 @@ Governance darf nicht zur Blockade werden. Gute Governance macht Experimente mö
 
 - [AI Readiness](ai-readiness.md)
 - [Provenance and Rights](provenance-and-rights.md)
-

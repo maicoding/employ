@@ -88,6 +88,17 @@ Gestaltung von Seed Assets, Guardrails, Variantenlogik und Review für Plattform
 
 Der [Jobposting und Arbeitgeberdaten Check](../wiki/sources/jobposting-employer-data-check-2026-05-21.md) stützt die Richtung: Junior- und Product-Design-Rollen verlangen häufiger Prototyping, Designsystemarbeit, QA, AI-Toolumgang, Code-/Toolnähe und Portfolio-Belege. Gleichzeitig bleiben klassische UX-Grundlagen sichtbar. Der saubere Claim ist deshalb Aufgabenumbau, nicht Ersatz.
 
+## PAGE Stellenmarkt-Check 2026-05-22
+
+Der [PAGE Stellenmarkt Spot Check](../wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md) ergänzt 33 Anzeigen, aber als Creative/Media-Sample. Die Kategorie mischt Design, UX, Social, Redaktion, Kommunikation, Bibliothek, Publishing, E-Commerce und Produktarbeit. Für Design ist deshalb nicht die Anzahl der Anzeigen entscheidend, sondern das Muster:
+
+- enge Designrollen liegen näher an System, Research, Storyline, Konsistenz und QA
+- Marketing- und Kommunikationsrollen rücken an Plattformformate, Daten und Automatisierung
+- AI taucht sichtbar in Plattformprodukt, Workflow-Lektorat und Senior-Designmarkern auf
+- klassische Produktion, Redaktion, Informationsdienste und Handwerk bleiben als Gegenmarker bestehen
+
+Die belastbare Aussage bleibt: Designarbeit verschiebt sich. PAGE belegt nicht, dass der Designmarkt insgesamt wächst, schrumpft oder von KI ersetzt wird.
+
 ## Plattformmetriken und Gestaltungsspielraum
 
 Die Synthese [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md) präzisiert den KPI-Teil: Plattformen nehmen Gestaltung nicht einfach weg. Sie verschieben Gestaltung an Regeln, Inputs, Guardrails, Variantenlogik, Review und Stop-Entscheidungen.
@@ -95,6 +106,7 @@ Die Synthese [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformm
 ## Anschluss
 
 - [Design Rollen und Portfolio](Design_Rollen_und_Portfolio.md)
+- [PAGE Stellenmarkt Design/Media Corpus](../wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
 - [Design Arbeitsmarkt Synthese](../wiki/syntheses/design-arbeitsmarkt-synthese.md)
 - [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 - [Design Through Language](../wiki/concepts/design-through-language.md)

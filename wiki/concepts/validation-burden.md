@@ -16,7 +16,7 @@ sources:
 
 Validation Burden beschreibt die zusaetzliche Prüfarbeit, die entsteht, wenn KI schneller Output erzeugt.
 
-## Warum es zaehlt
+## Warum es zählt
 
 KI kann Entwürfe, Analysen, Bilder, Reports oder Code beschleunigen. Aber jemand muss prüfen:
 
@@ -52,4 +52,3 @@ Nicht jeder KI-Output braucht gleich viel Prüfung. Risiko, Kontext und Einsatz 
 
 - [Reserve Skills](reserve-skills.md)
 - [Provenance and Rights](provenance-and-rights.md)
-

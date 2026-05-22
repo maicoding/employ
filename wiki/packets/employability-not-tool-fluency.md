@@ -14,7 +14,7 @@ sources:
 
 ## Kernaussage
 
-Arbeitsfähigkeit unter KI-Bedingungen heisst nicht, viele Tools zu kennen. Sie heisst, KI in Arbeit einbauen, begrenzen, prüfen und verantworten zu können.
+Arbeitsfähigkeit unter KI-Bedingungen heißt nicht, viele Tools zu kennen. Sie heißt, KI in Arbeit einbauen, begrenzen, prüfen und verantworten zu können.
 
 ## Mechanismus
 

@@ -13,7 +13,7 @@ tags: [health-check, maintenance]
 
 - Neuer Vault angelegt: 2026-05-21
 - Public-safe-Regeln aktiv
-- Keine institutionellen Alt-Bezuege in der neuen Struktur
+- Keine institutionellen Altbezüge in der neuen Struktur
 - Erste Quellenkarten und Synthesen werden angelegt
 
 ## Offene Punkte

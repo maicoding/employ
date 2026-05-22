@@ -25,7 +25,7 @@ Das betrifft Aufgaben wie:
 - einfache Layoutvarianten
 - einfache Code- oder Datenaufbereitung
 
-## Warum es zaehlt
+## Warum es zählt
 
 Diese Aufgaben waren nie nur billige Arbeit. Sie waren Lernräume. Menschen haben dort Muster gesehen, Fehler gemacht, Feedback bekommen und Urteil aufgebaut.
 

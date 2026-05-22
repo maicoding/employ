@@ -3,7 +3,7 @@ title: "Source Register"
 type: review
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [review, sources]
 ---
 
@@ -37,6 +37,7 @@ tags: [review, sources]
 | S24 | [DACH Jobposting Spot Check 2026-05-21](../wiki/sources/dach-jobposting-spot-check-2026-05-21.md) | public jobposting spot-check | low-directional | junior task shift, creative technology visibility, AI governance entry signal |
 | S25 | [Trends und Signale Next Checks 2026-05-21](../wiki/sources/trends-signale-next-checks-2026-05-21.md) | public spot-check / study and jobposting scan | low-to-medium directional | open signal checks, AI search, platform metrics, media roles, AI design trust, governance subfields |
 | S26 | [Jobposting und Arbeitgeberdaten Check 2026-05-21](../wiki/sources/jobposting-employer-data-check-2026-05-21.md) | public jobposting and employer-data spot-check | directional | coded role markers plus employer data for junior work, governance, media metrics, platform automation |
+| S27 | [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](../wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md) | public job-board spot-check | low-directional | PAGE Creative/Media mix, design system markers, AI workflow examples, category boundary |
 
 ## Ingest 2026-05-21 - Jobposting und Arbeitgeberdaten
 
@@ -45,6 +46,10 @@ tags: [review, sources]
 ## Ingest 2026-05-21 - Trends und Signale Next Checks
 
 - [Trends und Signale Next Checks 2026-05-21](../wiki/sources/trends-signale-next-checks-2026-05-21.md) - Öffentlicher Gegencheck der offenen `Nächster Check`-Zeilen mit Quellenstatus, Grenzen und nächster Codierung.
+
+## Ingest 2026-05-22 - PAGE Stellenmarkt
+
+- [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](../wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md) - Öffentlicher Spot-Check mit 33 PAGE-Anzeigen. Nützlich für Creative/Media-Verschiebung, nicht als repräsentativer enger Designmarkt.
 
 ## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
 

@@ -3,7 +3,7 @@ title: "Jobposting Coding"
 type: review
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [jobpostings, coding, dach, juniorrollen, creative-technology, ai-governance]
 ---
 
@@ -11,7 +11,10 @@ tags: [jobpostings, coding, dach, juniorrollen, creative-technology, ai-governan
 
 Ziel: öffentliche Stellenanzeigen so codieren, dass Claims im Vault nachziehbar bleiben. Keine langen Kopien aus Anzeigen. Nur Titel, Link, Abrufdatum und eigene Codierung.
 
-Aktueller Durchlauf: [Jobposting und Arbeitgeberdaten Check 2026-05-21](../wiki/sources/jobposting-employer-data-check-2026-05-21.md). Codierte Datenseite: [Jobposting Corpus 2026-05-21](../wiki/datasets/jobposting-corpus-2026-05-21.md).
+Aktuelle Durchläufe:
+
+- [Jobposting und Arbeitgeberdaten Check 2026-05-21](../wiki/sources/jobposting-employer-data-check-2026-05-21.md), codiert als [Jobposting Corpus 2026-05-21](../wiki/datasets/jobposting-corpus-2026-05-21.md).
+- [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](../wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md), codiert als [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](../wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md).
 
 ## Minimum Dataset
 
@@ -29,6 +32,17 @@ Aktueller Durchlauf: [Jobposting und Arbeitgeberdaten Check 2026-05-21](../wiki/
 | `junior_learning_markers` | Mentoring, Review, Ownership, Prototyping, echte Lieferung, Feedback |
 | `counter_markers` | klassische Toolbedienung, reine Ausführung, keine AI-Nennung, keine Governance |
 | `claim_note` | ein Satz: was trägt diese Anzeige, was nicht |
+
+## PAGE-Regel
+
+PAGE wird getrennt geführt. Die Kategorie ist wertvoll für Creative/Media-Signale, aber zu breit für enge Designmarkt-Zählungen.
+
+Codierung:
+
+- `narrow design`: UX, UI, Brand, Communication Design, Exhibition Design, Design Systems, Mediengestaltung
+- `creative/media adjacent`: Redaktion, Content, Social, Publishing, Kommunikation, Marketing Automation
+- `non-design Gegenmarker`: Bibliothek, Archiv, Sales, AV-Betrieb, Kulturhandwerk, reine Sachbearbeitung
+- `AI/system marker`: Agentic AI, AI Workflow, Automatisierung, Research, Daten, QA, Plattformprodukt
 
 ## Claim-Fragen
 

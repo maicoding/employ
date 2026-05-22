@@ -15,4 +15,4 @@ tags: [lessons]
 - Portfolio muss Entscheidung und Prüfung zeigen.
 - Design braucht Sprache, System und Rechte.
 - Wirtschaft braucht Daten, Entscheidung und Governance.
-- Public-safe heisst: lieber weniger Quellen, aber sauber.
+- Public-safe heißt: lieber weniger Quellen, aber sauber.

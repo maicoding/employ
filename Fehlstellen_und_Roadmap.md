@@ -25,14 +25,15 @@ Nächster Schritt:
 
 ### 2. DACH-Jobposting-Daten
 
-Der Vault hat jetzt ein erstes public-safe Sample mit 22 Rollenmarkern und eine codierte Datenseite: [Jobposting Corpus 2026-05-21](wiki/datasets/jobposting-corpus-2026-05-21.md). Es ist noch kein repräsentatives Korpus.
+Der Vault hat jetzt ein erstes public-safe Sample mit 22 Rollenmarkern und eine codierte Datenseite: [Jobposting Corpus 2026-05-21](wiki/datasets/jobposting-corpus-2026-05-21.md). Dazu kommt ein getrenntes PAGE-Sample mit 33 Creative/Media-Anzeigen: [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md). Zusammen sind das mehr Ankerpunkte, aber noch kein repräsentatives Korpus.
 
 Nächster Schritt:
 
 - 30 Anzeigen Wirtschaft codieren
-- 30 Anzeigen Design codieren
+- 50 enge Designanzeigen codieren und von Creative/Media-Adjacent trennen
 - Junior/Mid/Senior trennen
 - KI-, Daten-, Governance- und Portfolio-Signale erfassen
+- PAGE als eigene Zeitreihe weiterführen, weil die Kategorie Design, Medien und Kommunikation sichtbar mischt
 
 ### 3. Design-spezifische Arbeitgeberperspektive
 

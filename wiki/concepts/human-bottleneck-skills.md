@@ -19,14 +19,14 @@ Human Bottleneck Skills sind Fähigkeiten, bei denen der Engpass nicht reine Pro
 ## Beispiele
 
 - Problem richtig rahmen
-- mit Kund:innen oder Stakeholdern klären, was zaehlt
+- mit Kund:innen oder Stakeholdern klären, was zählt
 - aus mehreren Varianten entscheiden
 - Verantwortung für Fehler übernehmen
 - soziale Folgen einschaetzen
 - Konflikte moderieren
 - Stil und Qualität begründden
 
-## Warum es zaehlt
+## Warum es zählt
 
 Wenn KI Produktion beschleunigt, wird der Engpass oft nicht kleiner. Er wandert.
 
