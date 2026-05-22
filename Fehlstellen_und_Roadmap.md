@@ -29,8 +29,12 @@ Der Vault hat jetzt ein erstes public-safe Sample mit 22 Rollenmarkern und eine 
 
 Nächster Schritt:
 
+- Suchorte nach [Job Board Watchlist 2026-05-22](wiki/datasets/job-board-watchlist-2026-05-22.md) abarbeiten
+- 50 enge Designanzeigen codieren und von Creative/Media-Adjacent trennen: dasauge, DESIGNERDOCK, Games-Career
+- 50 Media-/Marketing-/Plattformanzeigen codieren: W&V, kress, turi2, PAGE adjacent
+- 50 Product-/AI-/UX-Anzeigen codieren: Tech in Berlin, WoodyJobs, Hisignal, heise Jobs, Firmenkarrieren
+- 30 Informations-/Kultur-/Gegenmarker codieren: BiblioJobs, PAGE countermarker, Games-Career
 - 30 Anzeigen Wirtschaft codieren
-- 50 enge Designanzeigen codieren und von Creative/Media-Adjacent trennen
 - Junior/Mid/Senior trennen
 - KI-, Daten-, Governance- und Portfolio-Signale erfassen
 - PAGE als eigene Zeitreihe weiterführen, weil die Kategorie Design, Medien und Kommunikation sichtbar mischt

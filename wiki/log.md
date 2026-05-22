@@ -33,3 +33,17 @@ Entscheidung:
 - Die bisherigen 22 Jobpostings reichen nicht für harte Marktclaims.
 - PAGE wird als eigener Creative/Media-Spotcheck geführt, nicht in den engen Designmarkt eingerechnet.
 - Das neue Sample stützt System-, Workflow-, Research-, Kommunikations- und QA-Verschiebung, aber kein Wachstum und keinen Jobverlustclaim.
+
+## [2026-05-22] method | Jobboard-Watchlist und Korpusspuren
+
+Ergänzt:
+
+- [Job Board Search Expansion](sources/job-board-search-expansion-2026-05-22.md)
+- [Job Board Watchlist](datasets/job-board-watchlist-2026-05-22.md)
+
+Entscheidung:
+
+- PAGE-Vielfalt bleibt erhalten und wird als Boundary-Korpus gelesen.
+- Enge Designclaims brauchen eigene Design-Samples.
+- Media/Marketing/Plattform und Product/AI/UX werden getrennt codiert.
+- Bibliothek, Games, VFX, Archiv und Kulturarbeit bleiben als Gegenmarker sichtbar.

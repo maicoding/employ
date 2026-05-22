@@ -22,6 +22,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Evidence Dashboard](../review/evidence-dashboard.md)
 - [Jobposting Corpus](datasets/jobposting-corpus-2026-05-21.md)
 - [PAGE Stellenmarkt Corpus](datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
+- [Job Board Watchlist](datasets/job-board-watchlist-2026-05-22.md)
 - [Start hier](../00_Start/Start_Hier.md)
 - [Vault Map](../00_Start/Vault_Map.md)
 - [Vault Operating System](../00_System/Vault_Operating_System.md)
@@ -80,12 +81,14 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Trends und Signale Next Checks 2026-05-21](sources/trends-signale-next-checks-2026-05-21.md)
 - [Jobposting und Arbeitgeberdaten Check 2026-05-21](sources/jobposting-employer-data-check-2026-05-21.md)
 - [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md)
+- [Job Board Search Expansion 2026-05-22](sources/job-board-search-expansion-2026-05-22.md)
 
 ## Datasets
 
 - [Datasets](datasets/README.md)
 - [Jobposting Corpus 2026-05-21](datasets/jobposting-corpus-2026-05-21.md)
 - [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
+- [Job Board Watchlist 2026-05-22](datasets/job-board-watchlist-2026-05-22.md)
 
 ## Packets
 
@@ -137,6 +140,8 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 
 - [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md) - Öffentlicher Creative/Media-Spotcheck mit 33 codierten PAGE-Anzeigen und klarer Grenze: kein repräsentativer Designmarkt.
 - [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md) - Codierte Arbeitsdaten zu PAGE-Rollen, Feldern, Levels, Markern und Grenzen.
+- [Job Board Search Expansion 2026-05-22](sources/job-board-search-expansion-2026-05-22.md) - Suchortkarte für enges Design, Media/Marketing/Plattform, Product/AI/UX und Gegenmarker.
+- [Job Board Watchlist 2026-05-22](datasets/job-board-watchlist-2026-05-22.md) - Sampling-Regeln und Korpusspuren für die nächste Erhebung.
 
 ## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
 

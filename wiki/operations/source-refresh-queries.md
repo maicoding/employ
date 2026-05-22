@@ -3,7 +3,7 @@ title: "Source Refresh Queries"
 type: operation
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [search, refresh]
 ---
 
@@ -36,3 +36,34 @@ site:designcouncil.org.uk design economy skills AI
 creative technologist job market 2026 design AI public report
 ```
 
+## Jobposting-Korpora
+
+Direkte Quellen:
+
+```text
+https://stellenmarkt.page-online.de/jobs/ux-und-ui-design
+https://dasauge.de/jobs/
+https://designerdock.com/fuer-bewerber/stellenangebote/
+https://stellenmarkt.wuv.de/
+https://kress.de/jobs
+https://www.turi2.de/aktuell/turi2-jobs/
+https://bibliojobs.eu/
+https://www.techinberlin.com/product/jobs
+https://www.woodyjobs.com/berlin
+https://hisignal.io/de/jobs/product-ux-design-jobs-in-berlin/
+https://jobs.heise.de/marketing-design/jobs/ui-ux-designer-in-berlin
+https://www.games-career.com/
+```
+
+Suchabfragen:
+
+```text
+site:dasauge.de/jobs UX Designer Figma Designsystem 2026
+site:dasauge.de/jobs Art Director Motion Packaging Mediengestalter 2026
+site:designerdock.com Stellenangebote Designer Art Director UX 2026
+site:stellenmarkt.wuv.de Social Performance Creative CRM Marketing 2026
+site:kress.de/jobs Volontariat Redaktion PR Social Media Grafik Design 2026
+site:bibliojobs.eu Datenmanagement Informationskompetenz Bibliothek Archiv 2026
+site:techinberlin.com/product/jobs AI Product Designer UX Research Berlin 2026
+site:games-career.com Game Artist Game Design Art Layout Illustration 2026
+```

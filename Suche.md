@@ -26,6 +26,7 @@ Durchsucht Titel, Pfade, Tags und Seiteninhalt dieses Archivs.
 - Für Claim-Status siehe [Evidence Dashboard](review/evidence-dashboard.md).
 - Für Rollenmarker siehe [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md).
 - Für PAGE-Rollenmarker siehe [PAGE Stellenmarkt Design/Media Corpus](wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md).
+- Für Suchorte siehe [Job Board Watchlist](wiki/datasets/job-board-watchlist-2026-05-22.md).
 - Für die KPI-Frage in Design siehe [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md).
 
 ## Suchfacetten
@@ -34,6 +35,7 @@ Nützliche Einstiege:
 
 - `Junior`, `Einstieg`, `QA`, `Prototyping`
 - `PAGE`, `Stellenmarkt`, `Creative Media`, `Communication Design`
+- `dasauge`, `DESIGNERDOCK`, `W&V`, `kress`, `turi2`, `BiblioJobs`, `Games-Career`
 - `Creative Technology`, `AI Coding`, `Scripting`, `Modelle`
 - `Governance`, `Compliance`, `Risk`, `Audit`
 - `Programmatic`, `DSP`, `DV360`, `The Trade Desk`

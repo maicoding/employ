@@ -48,6 +48,7 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 
 ## J
 
+- Job Board Watchlist: [Dataset](wiki/datasets/job-board-watchlist-2026-05-22.md), [Source](wiki/sources/job-board-search-expansion-2026-05-22.md)
 - Jobposting Corpus: [Dataset](wiki/datasets/jobposting-corpus-2026-05-21.md)
 - Juniorarbeit: [Packet](wiki/packets/juniorarbeit-verschiebt-sich-zu-review.md), [Entry Level Compression](wiki/concepts/entry-level-compression.md)
 

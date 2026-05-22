@@ -43,6 +43,7 @@ Die Review-Schicht trennt Aussage, Quelle und Grenze:
 - [Evidence Dashboard](review/evidence-dashboard.md)
 - [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md)
 - [PAGE Stellenmarkt Corpus](wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
+- [Job Board Watchlist](wiki/datasets/job-board-watchlist-2026-05-22.md)
 - [Public Safe Audit](review/public-safe-audit.md)
 
 ## Arbeitsschicht

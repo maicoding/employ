@@ -51,6 +51,7 @@ tags: [sources]
 ## Ingest 2026-05-22 - PAGE Stellenmarkt
 
 - [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](page-stellenmarkt-design-media-spot-check-2026-05-22.md) - Öffentlicher Creative/Media-Spotcheck mit 33 codierten PAGE-Anzeigen und klarer Grenze: kein repräsentativer Designmarkt.
+- [Job Board Search Expansion 2026-05-22](job-board-search-expansion-2026-05-22.md) - Öffentliche Jobbörsenkarte für PAGE, dasauge, DESIGNERDOCK, W&V, kress, turi2, BiblioJobs, Product/UX- und Games-Suchorte.
 
 ## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
 

@@ -82,6 +82,10 @@ Dieser PAGE-Check ergänzt 33 öffentlich sichtbare Anzeigen aus dem PAGE-Stelle
 - AI ist sichtbar, aber nicht flächendeckend: stark in Agentic-AI-Produktarbeit, AI-Workflow-Lektorat und einzelnen Senior-Designmarkern; schwächer in klassischen Produktions-, Redaktions- und Bibliotheksrollen.
 - Junior/Einstieg bleibt ein schwaches Signal. PAGE zeigt Volontariat, Trainee und Junior Account, aber keine ausreichende Grundlage für den Claim, dass Junior-Designarbeit allgemein klassische Lernaufgaben verliert.
 
+## Warum die Vielfalt bleibt
+
+Die PAGE-Vielfalt wird nicht bereinigt. Sie zeigt eine reale Such- und Ausschreibungslogik: Design wird im öffentlichen Stellenmarkt oft zusammen mit Medien, Kommunikation, Publishing, Informationsdiensten, E-Commerce und Produktarbeit gerahmt. Für harte Designclaims werden nur enge Designrollen gezählt. Für Creative/Media-Claims bleibt der komplette Mix relevant.
+
 ## Was nicht belastbar ist
 
 - Kein Marktanteil.
