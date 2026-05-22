@@ -43,10 +43,9 @@ Wer Gestaltung und technische Umsetzung verbinden kann, wird anschlussfähig fü
 
 ## Grenze
 
-Nicht jede Designer:in muss Creative Technologist werden. Aber viele Designrollen brauchen mehr technisches Verständnis als frueher.
+Nicht jede Designer:in muss Creative Technologist werden. Aber viele Designrollen brauchen mehr technisches Verständnis als früher.
 
 ## Links
 
 - [Design Rollen und Portfolio](../../03_Design/Design_Rollen_und_Portfolio.md)
 - [Workflow Literacy](workflow-literacy.md)
-

@@ -3,7 +3,7 @@ title: "Fehlstellen und Roadmap"
 type: operation
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [roadmap, gaps]
 ---
 
@@ -20,7 +20,7 @@ Nächster Schritt:
 - `Juniorrollen`: nicht als pauschalen Verlust claimen; 60 Einstiegsrollen codieren und prüfen, ob Routineproduktion durch Review, Agentenaufsicht, Prototyping oder Lieferverantwortung ersetzt wird
 - `Creative Technology`: Sichtbarkeit von Wachstum trennen; Zeitvergleich oder Branchenquelle nachziehen
 - `AI-Governance`: Consulting/Security von Finance, HR und Operations trennen
-- `Plattformmetriken`: Designfreiheit, KPI-Logik und Brand Guardrails anhand von Portfolios und Rollen prüfen
+- `Plattformmetriken`: Synthese liegt vor; als Nächstes Portfolios und Rollen auf Designfreiheit, KPI-Logik, Brand Guardrails, Stop-Regeln und Plattform-QA prüfen
 - `AI Search`: Sichtbarkeitsrisiko weiter beobachten, aber nicht in Jobverlust übersetzen
 
 ### 2. DACH-Jobposting-Daten

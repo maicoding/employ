@@ -30,6 +30,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Arbeitsmarkt 2030](syntheses/arbeitsmarkt-2030.md)
 - [Wirtschaft Arbeitsmarkt Synthese](syntheses/wirtschaft-arbeitsmarkt-synthese.md)
 - [Design Arbeitsmarkt Synthese](syntheses/design-arbeitsmarkt-synthese.md)
+- [Plattformmetriken und Designfreiheit](syntheses/plattformmetriken-und-designfreiheit.md)
 - [Erwartete Entwicklung 2026-2030](syntheses/erwartete-entwicklung-2026-2030.md)
 
 ## Concepts

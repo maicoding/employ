@@ -3,7 +3,7 @@ title: "Design Arbeitsmarkt Synthese"
 type: synthesis
 status: reviewed
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [design, creative-work, employability]
 sources:
   - "../sources/bls-graphic-designers-2024-2034.md"
@@ -162,6 +162,7 @@ Nicht jede Designpraxis wird technisch. Handwerk, Konzept, Kritik, Kultur, Typog
 - [Design Through Language](../concepts/design-through-language.md)
 - [Creative Technologist](../concepts/creative-technologist.md)
 - [Portfolio Evidence](../concepts/portfolio-evidence.md)
+- [Plattformmetriken und Designfreiheit](plattformmetriken-und-designfreiheit.md)
 - [BVDW/OVK Prognose Digitaler Werbemarkt](../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md)
 - [D&AD Awards 2026 Creative Work Shift](../sources/dandad-pencils-germany-2026-creative-work-shift.md)
 - [AGF, YouTube and Video Measurement 2026](../sources/agf-youtube-video-measurement-platform-metrics-2026.md)

@@ -35,7 +35,7 @@ Diese Seite ist die Kontrollfläche für Claims. Sie zeigt nicht, was plausibel 
 | Agenturwachstum kann sich teilweise von Headcount entkoppeln. | evidence-linked | [BVDW Internetagentur-Ranking](../wiki/sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md) | Keine monokausale KI-Erklärung. | Agenturrollen und Umsatz-/Teamdaten getrennt lesen. |
 | Creative Production rückt in Media-Buying-Infrastruktur. | evidence-linked | [Azerion/Hawk DSP](../wiki/sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md), [Jobposting Corpus](../wiki/datasets/jobposting-corpus-2026-05-21.md) | Keine unabhängige Wirkungsmessung. | Creative-Ops- und Programmatic-Rollen erweitern. |
 | KI-Suche wird zum Sichtbarkeits- und Monetarisierungsrisiko. | evidence-linked | [Trends Checks](../wiki/sources/trends-signale-next-checks-2026-05-21.md) | Kein direkter Arbeitsmarktclaim. | Search-/Publisher-Daten halbjährlich prüfen. |
-| Plattformmetriken verengen und verschieben Gestaltungsspielräume. | directional signal | [Jobposting Corpus](../wiki/datasets/jobposting-corpus-2026-05-21.md), [AGF/Amazon](../wiki/sources/agf-youtube-video-measurement-platform-metrics-2026.md), [Platform Creative Automation](../wiki/sources/platform-creative-automation-2026.md) | Optimierung ist keine Designqualität. | Eigene Synthese zu Designfreiheit unter KPIs schreiben. |
+| Plattformmetriken verengen und verschieben Gestaltungsspielräume. | directional signal | [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md), [Jobposting Corpus](../wiki/datasets/jobposting-corpus-2026-05-21.md), [AGF/Amazon](../wiki/sources/agf-youtube-video-measurement-platform-metrics-2026.md), [Platform Creative Automation](../wiki/sources/platform-creative-automation-2026.md) | Optimierung ist keine Designqualität. | Portfolios und Rollen auf Stop-Regeln, Brand Invariants und Plattform-QA codieren. |
 | Media- und Marketingrollen verlangen stärkere Plattform- und Messkompetenz. | directional signal | [Jobposting Corpus](../wiki/datasets/jobposting-corpus-2026-05-21.md), [BVDW/OVK](../wiki/sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md) | Mini-Sample. | 20 Media-/Marketingrollen erreichen. |
 | Creative-Technology-Rollen werden im DACH-Designmarkt sichtbar. | spot-check signal | [Jobposting Corpus](../wiki/datasets/jobposting-corpus-2026-05-21.md), [DACH Jobposting Spot Check](../wiki/sources/dach-jobposting-spot-check-2026-05-21.md) | Sichtbarkeit ist kein Wachstum. | Zeitvergleich oder aggregierte Jobdaten nachziehen. |
 | AI-Governance taucht in einzelnen Einstiegsprofilen auf. | spot-check signal | [Jobposting Corpus](../wiki/datasets/jobposting-corpus-2026-05-21.md), [Bundesnetzagentur](../wiki/sources/bundesnetzagentur-ki-kompetenz-2025.md) | HR und Operations fehlen. | Finance, HR, Operations und Consulting getrennt codieren. |
@@ -54,6 +54,6 @@ Diese Seite ist die Kontrollfläche für Claims. Sie zeigt nicht, was plausibel 
 ## Nächste Arbeitsreihenfolge
 
 1. Jobposting Corpus auf 50 Rollen erweitern.
-2. Eigene Synthese zu Plattformmetriken und Designfreiheit schreiben.
-3. Portfolio Evidence mit drei Muster-Cases belegen.
+2. Portfolio Evidence mit drei Muster-Cases belegen.
+3. Design- und Media-Rollen auf Plattform-QA, Stop-Regeln und Guardrails codieren.
 4. Source-Refresh halbjährlich automatisieren.

@@ -3,7 +3,7 @@ title: "Suche"
 type: index
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [search, index]
 ---
 
@@ -25,6 +25,7 @@ Durchsucht Titel, Pfade, Tags und Seiteninhalt dieses Archivs.
 - Für belastbare Aussagen siehe [Belastbare Aussagen](Belastbare_Aussagen.md).
 - Für Claim-Status siehe [Evidence Dashboard](review/evidence-dashboard.md).
 - Für Rollenmarker siehe [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md).
+- Für die KPI-Frage in Design siehe [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md).
 
 ## Suchfacetten
 
@@ -34,5 +35,6 @@ Nützliche Einstiege:
 - `Creative Technology`, `AI Coding`, `Scripting`, `Modelle`
 - `Governance`, `Compliance`, `Risk`, `Audit`
 - `Programmatic`, `DSP`, `DV360`, `The Trade Desk`
-- `Plattformmetriken`, `KPI`, `Tracking`, `Brand Safety`
+- `Plattformmetriken`, `Designfreiheit`, `KPI`, `Tracking`, `Brand Safety`
+- `Guardrails`, `Stop-Regeln`, `Brand Invariants`, `Creative Fatigue`
 - `Portfolio`, `Prozess`, `Evidence`

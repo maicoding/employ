@@ -3,7 +3,7 @@ title: "Vault Map"
 type: start
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [navigation, map]
 ---
 
@@ -30,6 +30,7 @@ tags: [navigation, map]
 - [Wirtschaft Rollen und Portfolio](../02_Wirtschaft/Wirtschaft_Rollen_und_Portfolio.md)
 - [Design Arbeitsmarkt](../03_Design/Design_Arbeitsmarkt.md)
 - [Design Rollen und Portfolio](../03_Design/Design_Rollen_und_Portfolio.md)
+- [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 - [Portfolio Evidence System](../04_Portfolio/Portfolio_Evidence_System.md)
 - [Fehlstellen und Roadmap](../Fehlstellen_und_Roadmap.md)
 - [Quellen und Lizenz](../Quellen_und_Lizenz.md)

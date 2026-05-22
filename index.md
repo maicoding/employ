@@ -20,6 +20,7 @@ Der Vault sammelt Quellen, trennt Signale von belastbaren Aussagen und baut dara
 - [Trends und Signale](Trends_und_Signale.md)
 - [Evidence Dashboard](review/evidence-dashboard.md)
 - [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md)
+- [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 - [Arbeitsmarkt 2030 Überblick](01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
 - [Wirtschaft](02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Design](03_Design/Design_Arbeitsmarkt.md)
@@ -47,6 +48,6 @@ Quelle braucht Grenze.
 
 ## Stand
 
-Stand: 2026-05-21.
+Stand: 2026-05-22.
 
 Die Quellen sind öffentlich verlinkt. Geschützte Volltexte gehören nicht in die veröffentlichte Schicht.

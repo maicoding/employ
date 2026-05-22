@@ -25,10 +25,9 @@ URL: https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-skill-partne
 
 ## Grenze
 
-Consulting-Reports sind hilfreich für fruehe Marktlogik, aber sie ersetzen keine offiziellen Arbeitsmarktdaten. Aussagen daraus bleiben `supporting`, nicht allein `claim-ready`.
+Consulting-Reports sind hilfreich für frühe Marktlogik, aber sie ersetzen keine offiziellen Arbeitsmarktdaten. Aussagen daraus bleiben `supporting`, nicht allein `claim-ready`.
 
 ## Links
 
 - [Agentic Workflow Literacy](../concepts/agentic-workflow-literacy.md)
 - [Task Rebundling](../concepts/task-rebundling.md)
-

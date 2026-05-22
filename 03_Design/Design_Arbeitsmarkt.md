@@ -3,7 +3,7 @@ title: "Design Arbeitsmarkt"
 type: entry
 status: reviewed
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [design, creative-work, arbeitsmarkt]
 ---
 
@@ -88,10 +88,15 @@ Gestaltung von Seed Assets, Guardrails, Variantenlogik und Review für Plattform
 
 Der [Jobposting und Arbeitgeberdaten Check](../wiki/sources/jobposting-employer-data-check-2026-05-21.md) stützt die Richtung: Junior- und Product-Design-Rollen verlangen häufiger Prototyping, Designsystemarbeit, QA, AI-Toolumgang, Code-/Toolnähe und Portfolio-Belege. Gleichzeitig bleiben klassische UX-Grundlagen sichtbar. Der saubere Claim ist deshalb Aufgabenumbau, nicht Ersatz.
 
+## Plattformmetriken und Gestaltungsspielraum
+
+Die Synthese [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md) präzisiert den KPI-Teil: Plattformen nehmen Gestaltung nicht einfach weg. Sie verschieben Gestaltung an Regeln, Inputs, Guardrails, Variantenlogik, Review und Stop-Entscheidungen.
+
 ## Anschluss
 
 - [Design Rollen und Portfolio](Design_Rollen_und_Portfolio.md)
 - [Design Arbeitsmarkt Synthese](../wiki/syntheses/design-arbeitsmarkt-synthese.md)
+- [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 - [Design Through Language](../wiki/concepts/design-through-language.md)
 - [Creative Technologist](../wiki/concepts/creative-technologist.md)
 - [Platform-led Creative Automation](../wiki/concepts/platform-led-creative-automation.md)

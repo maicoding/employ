@@ -25,7 +25,7 @@ Er ist ein dauerhaftes Markdown-Wiki, das mit jeder Quelle besser sortiert wird.
 
 ## Denkraum und Belegarchiv
 
-Der Vault darf fruehe Gedanken halten. Er darf aber nicht so tun, als waeren sie schon Wissen.
+Der Vault darf frühe Gedanken halten. Er darf aber nicht so tun, als wären sie schon Wissen.
 
 | Status | Darf | Darf nicht |
 |---|---|---|

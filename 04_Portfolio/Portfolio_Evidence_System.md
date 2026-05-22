@@ -3,7 +3,7 @@ title: "Portfolio Evidence System"
 type: entry
 status: reviewed
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [portfolio, evidence, employability]
 ---
 
@@ -11,7 +11,7 @@ tags: [portfolio, evidence, employability]
 
 ## Warum Portfolio neu gelesen werden muss
 
-KI macht Oberflaeche leichter. Darum muss ein Portfolio mehr zeigen als Ergebnisqualität.
+KI macht Oberfläche leichter. Darum muss ein Portfolio mehr zeigen als Ergebnisqualität.
 
 Ein gutes Portfolio beantwortet:
 
@@ -60,7 +60,7 @@ Was ist wiederholbar?
 
 ### 5. Ergebnis
 
-- finale Loesung
+- finale Lösung
 - Anwendung
 - Wirkung
 - nächster Schritt
@@ -70,7 +70,16 @@ Was ist wiederholbar?
 - Was hat KI verbessert?
 - Wo war KI falsch?
 - Welche Grundlage war nötig?
-- Was wuerde ich wiederholen?
+- Was würde ich wiederholen?
+
+### 7. Plattformentscheidung
+
+- Seed Assets
+- Brand Invariants
+- Variantenlogik
+- Plattform-Preview
+- Stop-Regeln
+- Performance-Lesart mit Grenze
 
 ## Rubrik
 
@@ -82,9 +91,11 @@ Was ist wiederholbar?
 | Prüfung | fehlt | Fehler, Rechte, Daten oder Risiko geprüft |
 | Grundlagen | nicht sichtbar | Reserve Skill erkennbar |
 | Handoff | nur Ergebnis | andere können weiterarbeiten |
+| Plattformlogik | nur KPI genannt | Ziel, Metrik, Grenze und Stop-Regel sichtbar |
 
 ## Anschluss
 
 - [Portfolio Evidence](../wiki/concepts/portfolio-evidence.md)
 - [Decision Evidence](../wiki/concepts/decision-evidence.md)
 - [Provenance and Rights](../wiki/concepts/provenance-and-rights.md)
+- [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md)

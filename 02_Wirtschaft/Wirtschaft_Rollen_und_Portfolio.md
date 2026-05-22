@@ -3,7 +3,7 @@ title: "Wirtschaft Rollen und Portfolio"
 type: entry
 status: reviewed
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [wirtschaft, roles, portfolio]
 ---
 
@@ -88,3 +88,4 @@ Portfolio-Beweis:
 - [Decision Evidence](../wiki/concepts/decision-evidence.md)
 - [Portfolio Evidence System](../04_Portfolio/Portfolio_Evidence_System.md)
 - [Platform-led Creative Automation](../wiki/concepts/platform-led-creative-automation.md)
+- [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md)

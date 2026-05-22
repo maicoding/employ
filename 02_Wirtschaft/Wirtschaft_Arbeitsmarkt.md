@@ -3,7 +3,7 @@ title: "Wirtschaft Arbeitsmarkt"
 type: entry
 status: reviewed
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [wirtschaft, business, arbeitsmarkt]
 ---
 
@@ -84,6 +84,10 @@ Verschiebung:
 
 Der [Jobposting und Arbeitgeberdaten Check](../wiki/sources/jobposting-employer-data-check-2026-05-21.md) zeigt: AI-Governance ist in Einstiegs- und Juniorprofilen vor allem dort sichtbar, wo Regulierung, Security, Finance und Consulting zusammenkommen. Arbeitgeberdaten stützen KI-Adoption und Aufgabenanpassung, aber keine einfache Erzählung von flächigem Stellenabbau. Für HR und Operations bleibt die Evidenz noch zu dünn.
 
+## Plattformmetriken und Steuerung
+
+Die Synthese [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md) ist auch für Wirtschaft relevant: Plattformen optimieren auf Kampagnenziele, Auktionen, Attribution und kurzfristige Signale. Wirtschaftliche Kompetenz heißt deshalb, Plattformziel, Geschäftsziel, Markenrisiko, Budgetlogik und Langfristwirkung auseinanderzuhalten.
+
 ## Anschluss
 
 - [Wirtschaft Rollen und Portfolio](Wirtschaft_Rollen_und_Portfolio.md)
@@ -91,3 +95,4 @@ Der [Jobposting und Arbeitgeberdaten Check](../wiki/sources/jobposting-employer-
 - [Decision Evidence](../wiki/concepts/decision-evidence.md)
 - [Governance and Risk](../wiki/concepts/governance-and-risk.md)
 - [Platform-led Creative Automation](../wiki/concepts/platform-led-creative-automation.md)
+- [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md)

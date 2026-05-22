@@ -3,7 +3,7 @@ title: "Wirtschaft Arbeitsmarkt Synthese"
 type: synthesis
 status: reviewed
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [wirtschaft, business, employability]
 sources:
   - "../sources/bls-management-analysts-2024-2034.md"
@@ -126,6 +126,7 @@ Wirtschaft ist breit. Finance, Marketing, HR, Operations, Consulting und Entrepr
 - [Decision Evidence](../concepts/decision-evidence.md)
 - [Governance and Risk](../concepts/governance-and-risk.md)
 - [Wirtschaft Rollen und Portfolio](../../02_Wirtschaft/Wirtschaft_Rollen_und_Portfolio.md)
+- [Plattformmetriken und Designfreiheit](plattformmetriken-und-designfreiheit.md)
 - [BVDW/OVK Prognose Digitaler Werbemarkt](../sources/bvdw-ovk-prognose-digitaler-werbemarkt-2026.md)
 - [BVDW Internet Agency Ranking 2026](../sources/bvdw-internet-agency-ranking-2026-ai-value-driver.md)
 - [Azerion AdMove.ai Hawk DSP 2026](../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md)

@@ -68,7 +68,7 @@ Hier wird entschieden:
 - `wiki/sources/`: eine Seite pro öffentlich nutzbarer Quelle
 - `wiki/concepts/`: Begriffe und wiederverwendbare Denkbausteine
 - `wiki/syntheses/`: Überblicke und Verdichtungen
-- `wiki/packets/`: kurze Merksaetze mit Grenze und Gegencheck
+- `wiki/packets/`: kurze Merksätze mit Grenze und Gegencheck
 - `wiki/operations/`: Suchlogik, Wartung, offene Fragen
 - `wiki/state/`: Dashboard, Entscheidungen, Lessons
 

@@ -3,7 +3,7 @@ title: "Belastbare Aussagen"
 type: index
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [claims, review]
 ---
 
@@ -37,7 +37,7 @@ Diese drei Aussagen bleiben unterhalb von `Gut belegt`. Der [AI in Design Report
 
 | Aussage | Was jetzt belastbar ist | Was fehlt | Nächster Check |
 |---|---|---|---|
-| Plattformmetriken verschieben Gestaltungsspielräume. | Plattformen und Media-Rollen koppeln Creative-Arbeit stärker an KPI, Attribution, Testing, Brand Safety, Growth und automatische Variantenwahl. | Es fehlt ein Design-Corpus, das zeigt, wie Teams kreative Freiheit gegen Plattformziele absichern. | Portfolios und Rollen auf Seed Assets, Brand Invariants, Stop-Regeln, Creative Fatigue und Plattform-QA codieren. |
+| Plattformmetriken verschieben Gestaltungsspielräume. | Die Synthese [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md) ordnet ein: Plattformen und Media-Rollen koppeln Creative-Arbeit stärker an KPI, Attribution, Testing, Brand Safety, Growth und automatische Variantenwahl. | Es fehlt ein Design-Corpus, das zeigt, wie Teams kreative Freiheit gegen Plattformziele absichern. | Portfolios und Rollen auf Seed Assets, Brand Invariants, Stop-Regeln, Creative Fatigue und Plattform-QA codieren. |
 | Media- und Marketingrollen werden mess- und plattformnäher. | Programmatic-/Paid-Media-Rollen zeigen DSPs, Reporting, Attribution, KPI-Analyse, Ad Verification, Tracking und Plattformvergleich. | Nielsen, ZAW, OVK, AGF, Retail Media und CTV müssen breiter codiert werden. | 20 DACH-Rollen aus Agentur, Inhouse, Retail Media und Publisher-Kontext prüfen. |
 
 ## Arbeitsregel

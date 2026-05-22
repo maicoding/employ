@@ -3,7 +3,7 @@ title: "Begriffsindex"
 type: index
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [glossar, index, search]
 ---
 
@@ -31,6 +31,7 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 
 - Decision Evidence: [Concept](wiki/concepts/decision-evidence.md)
 - Design: [Arbeitsmarkt](03_Design/Design_Arbeitsmarkt.md), [Rollen](03_Design/Design_Rollen_und_Portfolio.md), [Synthese](wiki/syntheses/design-arbeitsmarkt-synthese.md)
+- Designfreiheit: [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 - Design Through Language: [Concept](wiki/concepts/design-through-language.md)
 - DSP: [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md), [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md)
 
@@ -60,7 +61,7 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 
 ## P
 
-- Plattformmetriken: [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md), [Evidence Dashboard](review/evidence-dashboard.md)
+- Plattformmetriken: [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md), [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md), [Evidence Dashboard](review/evidence-dashboard.md)
 - Portfolio Evidence: [Concept](wiki/concepts/portfolio-evidence.md), [System](04_Portfolio/Portfolio_Evidence_System.md)
 - Provenance and Rights: [Concept](wiki/concepts/provenance-and-rights.md)
 

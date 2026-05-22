@@ -3,7 +3,7 @@ title: "Trends und Signale"
 type: index
 status: ready
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [trends, signals]
 ---
 
@@ -35,7 +35,7 @@ Siehe: [Portfolio Evidence](wiki/concepts/portfolio-evidence.md)
 
 Google Ads, Meta Advantage+ Creative, TikTok Smart+, Amazon Ads und Adobe GenStudio zeigen öffentlich, dass Asset-Erstellung, Variantenbildung, Formatadaption und Optimierung in Plattformen wandern. Das ist belastbarer als ein einzelnes Hype-Signal: Designer:innen arbeiten nicht nur mit Tools, sondern gegen und mit Plattformlogiken.
 
-Siehe: [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md)
+Siehe: [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md) und [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 
 ## Frühe Signale
 
@@ -127,7 +127,7 @@ Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt, dass KI-gestützte Werbemittelprodu
 
 Nächster Check: Stellenprofile für Performance Creative, Media Buying, Creative Operations, AdTech und Marketing Automation auf DSP, Agentic AI, Brand Governance, Testing und Human Review prüfen.
 
-Check 2026-05-21: Programmatic- und Paid-Media-Rollen bestätigen die Nähe von Creative, Kampagnen-Setup, Tracking, Plattformen, KPI und Optimierung. Ergebnisqualität bleibt offen. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md)
+Check 2026-05-21: Programmatic- und Paid-Media-Rollen bestätigen die Nähe von Creative, Kampagnen-Setup, Tracking, Plattformen, KPI und Optimierung. Ergebnisqualität bleibt offen. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md) und [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 
 ### Plattformautomation verändert Designaufgaben
 
@@ -135,4 +135,4 @@ Die neue Aufgabe ist nicht mehr nur "mehr Assets schneller herstellen". Wenn Pla
 
 Nächster Check: Jobprofile und Portfolios auf Seed Assets, Brand Invariants, Creative Fatigue, Plattform-QA, automatisch erzeugte Kombinationen und Performance-Interpretation prüfen.
 
-Check 2026-05-21: Die Aufgabenverschiebung ist tragfähiger: Inputs, Guardrails, Variantenlogik, Review, Rechte, KPI-Lesen und Stop-Regeln werden wichtiger. Nicht belegt ist, dass Plattformautomation Gestaltung freier oder besser macht. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md)
+Check 2026-05-21: Die Aufgabenverschiebung ist tragfähiger: Inputs, Guardrails, Variantenlogik, Review, Rechte, KPI-Lesen und Stop-Regeln werden wichtiger. Nicht belegt ist, dass Plattformautomation Gestaltung freier oder besser macht. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md) und [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md)

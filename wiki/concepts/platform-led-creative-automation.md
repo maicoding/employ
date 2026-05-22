@@ -3,7 +3,7 @@ title: "Platform-led Creative Automation"
 type: concept
 status: evidence-linked
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-22
 tags: [platforms, creative-automation, advertising, design, marketing]
 sources:
   - "../sources/platform-creative-automation-2026.md"
@@ -86,3 +86,4 @@ Nicht jede Designarbeit läuft über Werbeplattformen. Editorial, Kultur, Produk
 - [Workflow Literacy](workflow-literacy.md)
 - [Provenance and Rights](provenance-and-rights.md)
 - [Portfolio Evidence](portfolio-evidence.md)
+- [Plattformmetriken und Designfreiheit](../syntheses/plattformmetriken-und-designfreiheit.md)

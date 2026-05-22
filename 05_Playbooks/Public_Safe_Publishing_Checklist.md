@@ -27,7 +27,7 @@ tags: [publishing, public-safe]
 - Keine Adjektivketten.
 - Keine großen KI-Behauptungen ohne Mechanismus.
 - Künstliche Gegensatz-Schemata vermeiden.
-- Kurze Saetze bevorzugen.
+- Kurze Sätze bevorzugen.
 - Konkrete Arbeitsaufgaben nennen.
 
 ## GitHub-Check

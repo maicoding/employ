@@ -32,7 +32,7 @@ tags: [workflow]
 1. Bestehende Synthese lesen.
 2. Neue Quelle danebenlegen.
 3. Prüfen: stärkt, begrenzt oder verschiebt die Quelle eine Aussage?
-4. Nur konkrete Saetze aendern.
+4. Nur konkrete Sätze ändern.
 5. Quellenliste aktualisieren.
 6. `updated` setzen.
 7. Logeintrag schreiben.
