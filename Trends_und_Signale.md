@@ -61,6 +61,8 @@ Check 2026-05-22: Der [PAGE Stellenmarkt Spot Check](wiki/sources/page-stellenma
 
 Check 2026-05-22, Round 1: Der [Job Board Sample Round 1](wiki/sources/job-board-sample-round-1-2026-05-22.md) zeigt Creative Technologist, 3D/AI Generalist, Design Engineer, Technical Artist, Conversational UX und AI Product Design als sichtbare Titelmarker. Das stärkt Sichtbarkeit, nicht Wachstum. Der nächste harte Schritt ist Detailcodierung: Welche Aufgaben verlangen wirklich Scripting, Pipelinearbeit, Modell-/Workflowkompetenz und Designurteil?
 
+Detailcheck 2026-05-22: Der [Job Detail Coding Round 1](wiki/sources/job-detail-coding-round-1-2026-05-22.md) stärkt das Signal. Creative-Technology-nahe Rollen enthalten nicht nur neue Titel, sondern Aufgaben zu AI-Workflows, 3D/Engine-Pipeline, Evaluation, Qualitätsprüfung, Briefing, Teamübersetzung und Brand Safety. Wachstum bleibt offen.
+
 ### Wirtschaft braucht KI-Governance im Alltag
 
 Regulierung und betriebliche KI-Nutzung machen Governance praktischer. Offen ist, wie stark das bereits in Einstiegsrollen sichtbar ist.
@@ -80,6 +82,8 @@ Check 2026-05-21: Programmatic-, Paid-Media- und Display-Rollen zeigen DV360, Th
 Check 2026-05-22: PAGE ergänzt Social, Redaktion, Content, E-Mail-Marketing, Kommunikation und Publishing. Damit wird der Creative/Media-Mix sichtbarer, aber Programmatic und Retail Media müssen weiter separat codiert werden.
 
 Check 2026-05-22, Round 1: W&V, kress, turi2, Tech in Berlin und WoodyJobs ergänzen Social/Performance, CRM, Digital Campaigns, Product Marketing, International Marketing und AI-/SaaS-nahe Produktmärkte. Das verschiebt die Lesart: Media- und Marketingarbeit ist nicht nur Kanalumsetzung, sondern Steuerung von Plattformen, Messlogik, Produktpositionierung und Freigabegrenzen.
+
+Detailcheck 2026-05-22: Paid Social, ROI, Measurement, Tracking, A/B-Tests, CRM, skalierbare Creative Frameworks und Social-First-Asset-Systeme sind in Detailrollen sichtbar. Das macht die Plattformthese härter: Gestaltung wird stärker an Mess- und Freigabelogik angeschlossen. Nicht belegt ist, dass diese Logik bessere Gestaltung produziert.
 
 ### KI-Suche wird zum Reichweiten- und Monetarisierungsrisiko
 
@@ -131,6 +135,8 @@ Check 2026-05-21: Rollenprofile für AI Product Design stützen die Richtung: Ve
 
 Check 2026-05-22, Round 1: Hisignal, heise Jobs, Tech in Berlin und WoodyJobs zeigen AI Product Designer, Conversational UX Designer, Design Engineer, UI/UX für Conversational AI und UI/UX für AI Agents. Die belastbare Lesart bleibt eng: Es gibt sichtbare Rollenmarker für AI-nahe UX. Nicht belegt ist, wie viele Stellen das im Gesamtmarkt sind.
 
+Detailcheck 2026-05-22: Die Staff-AI-Designer-Rolle bei Fin/Intercom ist der härteste Einzelbeleg in diesem Lauf. Design wird dort als Verhalten, Orchestrierung, Human Control, Evaluation und Failure Handling beschrieben. Das stützt die These, dass AI Product Design stärker Systemverhalten als Interfacepolitur ist.
+
 ### Creative Production wandert in Media-Buying-Infrastruktur
 
 Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt, dass KI-gestützte Werbemittelproduktion direkt in DSP- und Aktivierungsumgebungen integriert wird. Damit verschmelzen Kreation, Brand Governance, Freigabe, Publishing, Testing und Media Buying.
@@ -150,3 +156,5 @@ Check 2026-05-21: Die Aufgabenverschiebung ist tragfähiger: Inputs, Guardrails,
 Check 2026-05-22: PAGE zeigt Rollen, in denen Gestaltung mit Automatisierung, Systemführung, Research, Social-Content, Publishing und Qualitätsprüfung zusammenliegt. Die saubere Lesart: Gestaltung wird häufiger an vorgelagerte Inputs und nachgelagerte Prüfung gekoppelt. Nicht belegt ist, dass Designer:innen dadurch automatisch mehr Freiheit oder weniger Arbeit haben.
 
 Check 2026-05-22, Round 1: Games-Career ergänzt eine nützliche Vertiefung: Game Designer Live Ops, Product Manager/Game Designer und Big Data Engineering zeigen Gestaltung als Betrieb unter Metriken. Das passt zur Plattformthese, ohne sie zu überziehen: KPI-Logik erzeugt Entscheidungslast, aber nicht automatisch bessere Gestaltung.
+
+Detailcheck 2026-05-22: Games/VFX/3D zeigt besonders klar, wie Craft, Engine, Portfolio, Community-Feedback, Analytics und Live Ops zusammenlaufen. Diese Spur bleibt eine Vertiefung, kein Ersatz für den engen Designmarkt.

@@ -27,6 +27,7 @@ Durchsucht Titel, Pfade, Tags und Seiteninhalt dieses Archivs.
 - Für Rollenmarker siehe [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md).
 - Für PAGE-Rollenmarker siehe [PAGE Stellenmarkt Design/Media Corpus](wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md).
 - Für breite Jobboard-Rollenmarker siehe [Job Board Sample Round 1](wiki/datasets/job-board-sample-round-1-2026-05-22.md).
+- Für Detailcodierung pro Spur siehe [Job Detail Coding Round 1](wiki/datasets/job-detail-coding-round-1-2026-05-22.md) und [Spurcodierung Round 1](wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md).
 - Für Suchorte siehe [Job Board Watchlist](wiki/datasets/job-board-watchlist-2026-05-22.md).
 - Für die KPI-Frage in Design siehe [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md).
 
@@ -39,6 +40,8 @@ Nützliche Einstiege:
 - `dasauge`, `DESIGNERDOCK`, `W&V`, `kress`, `turi2`, `BiblioJobs`, `Games-Career`
 - `Tech in Berlin`, `Hisignal`, `heise Jobs`, `WoodyJobs`, `Job Board Sample Round 1`
 - `Design Engineer`, `AI Product Designer`, `Conversational UX`, `Technical Artist`, `Live Ops`
+- `Job Detail Coding Round 1`, `Spurcodierung`, `direct-detail`, `listing-detail`, `snippet-detail`
+- `Junior`, `Creative Technology`, `Media/Marketing/Plattform`, `Product/AI/UX`, `Games/VFX/3D`, `Informationsarbeit`
 - `Creative Technology`, `AI Coding`, `Scripting`, `Modelle`
 - `Governance`, `Compliance`, `Risk`, `Audit`
 - `Programmatic`, `DSP`, `DV360`, `The Trade Desk`

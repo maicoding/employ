@@ -18,3 +18,10 @@ tags: [decisions]
 - Alte Vaults dienen als Struktur- und Denkinput, nicht als kopierter Textbestand.
 - Sprache: knapp, sachlich, wenig Adjektive.
 - Öffentliche Synthesen nutzen nur public-safe Quellen.
+
+## 2026-05-22
+
+- Jobboards werden in Spuren codiert, nicht zu einem Marktbrei vermischt.
+- Titelmarker und Detailcodierung bleiben getrennt.
+- `snippet-detail` zählt nur als Suchhinweis, nicht als harter Beleg.
+- Wachstum, Gehalt und Jobverlust brauchen andere Daten als einzelne Stellenanzeigen.

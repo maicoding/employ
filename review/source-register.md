@@ -40,6 +40,7 @@ tags: [review, sources]
 | S27 | [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](../wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md) | public job-board spot-check | low-directional | PAGE Creative/Media mix, design system markers, AI workflow examples, category boundary |
 | S28 | [Job Board Search Expansion 2026-05-22](../wiki/sources/job-board-search-expansion-2026-05-22.md) | public job-board map | method | search matrix for narrow design, media/platform, product/AI/UX and countermarker corpora |
 | S29 | [Job Board Sample Round 1 2026-05-22](../wiki/sources/job-board-sample-round-1-2026-05-22.md) | public job-board listing sample | low-directional | 101 title-level role markers across design, media, product/AI/UX, games and information work |
+| S30 | [Job Detail Coding Round 1 2026-05-22](../wiki/sources/job-detail-coding-round-1-2026-05-22.md) | public jobposting detail sample | directional | 30 role-level detail codings across junior, creative technology, media/platform, product/AI/UX, games/VFX/3D and information work |
 
 ## Ingest 2026-05-21 - Jobposting und Arbeitgeberdaten
 
@@ -54,6 +55,7 @@ tags: [review, sources]
 - [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](../wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md) - Öffentlicher Spot-Check mit 33 PAGE-Anzeigen. Nützlich für Creative/Media-Verschiebung, nicht als repräsentativer enger Designmarkt.
 - [Job Board Search Expansion 2026-05-22](../wiki/sources/job-board-search-expansion-2026-05-22.md) - Öffentliche Suchmatrix für weitere Jobposting-Erhebungen.
 - [Job Board Sample Round 1 2026-05-22](../wiki/sources/job-board-sample-round-1-2026-05-22.md) - Öffentlicher Titel-/Listing-Sample mit 101 Rollenmarkern aus elf Jobboards. Nützlich für Suchraum und Claim-Grenzen, nicht für Wachstum.
+- [Job Detail Coding Round 1 2026-05-22](../wiki/sources/job-detail-coding-round-1-2026-05-22.md) - Öffentliche Detailcodierung mit 30 Rollen und explizitem Detailstatus.
 
 ## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
 

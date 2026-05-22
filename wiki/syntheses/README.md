@@ -15,4 +15,5 @@ tags: [syntheses]
 - [Wirtschaft Arbeitsmarkt Synthese](wirtschaft-arbeitsmarkt-synthese.md)
 - [Design Arbeitsmarkt Synthese](design-arbeitsmarkt-synthese.md)
 - [Plattformmetriken und Designfreiheit](plattformmetriken-und-designfreiheit.md)
+- [Spurcodierung Round 1](spur-detailcoding-round-1-2026-05-22.md)
 - [Erwartete Entwicklung 2026-2030](erwartete-entwicklung-2026-2030.md)

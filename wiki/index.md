@@ -23,6 +23,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Jobposting Corpus](datasets/jobposting-corpus-2026-05-21.md)
 - [PAGE Stellenmarkt Corpus](datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
 - [Job Board Sample Round 1](datasets/job-board-sample-round-1-2026-05-22.md)
+- [Job Detail Coding Round 1](datasets/job-detail-coding-round-1-2026-05-22.md)
 - [Job Board Watchlist](datasets/job-board-watchlist-2026-05-22.md)
 - [Start hier](../00_Start/Start_Hier.md)
 - [Vault Map](../00_Start/Vault_Map.md)
@@ -34,6 +35,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Wirtschaft Arbeitsmarkt Synthese](syntheses/wirtschaft-arbeitsmarkt-synthese.md)
 - [Design Arbeitsmarkt Synthese](syntheses/design-arbeitsmarkt-synthese.md)
 - [Plattformmetriken und Designfreiheit](syntheses/plattformmetriken-und-designfreiheit.md)
+- [Spurcodierung Round 1](syntheses/spur-detailcoding-round-1-2026-05-22.md)
 - [Erwartete Entwicklung 2026-2030](syntheses/erwartete-entwicklung-2026-2030.md)
 
 ## Concepts
@@ -84,6 +86,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md)
 - [Job Board Search Expansion 2026-05-22](sources/job-board-search-expansion-2026-05-22.md)
 - [Job Board Sample Round 1 2026-05-22](sources/job-board-sample-round-1-2026-05-22.md)
+- [Job Detail Coding Round 1 2026-05-22](sources/job-detail-coding-round-1-2026-05-22.md)
 
 ## Datasets
 
@@ -91,6 +94,7 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Jobposting Corpus 2026-05-21](datasets/jobposting-corpus-2026-05-21.md)
 - [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
 - [Job Board Sample Round 1 2026-05-22](datasets/job-board-sample-round-1-2026-05-22.md)
+- [Job Detail Coding Round 1 2026-05-22](datasets/job-detail-coding-round-1-2026-05-22.md)
 - [Job Board Watchlist 2026-05-22](datasets/job-board-watchlist-2026-05-22.md)
 
 ## Packets
@@ -147,6 +151,9 @@ Dieses Wiki ist die kompilierte Wissensschicht des Employability Arbeitsmarkt Va
 - [Job Board Watchlist 2026-05-22](datasets/job-board-watchlist-2026-05-22.md) - Sampling-Regeln und Korpusspuren für die nächste Erhebung.
 - [Job Board Sample Round 1 2026-05-22](sources/job-board-sample-round-1-2026-05-22.md) - Öffentlicher Titel-/Listing-Sample aus elf Jobboards.
 - [Job Board Sample Round 1 Dataset](datasets/job-board-sample-round-1-2026-05-22.md) - 101 Rollenmarker für Design, Media, Product/AI/UX, Games und Informationsarbeit.
+- [Job Detail Coding Round 1 2026-05-22](sources/job-detail-coding-round-1-2026-05-22.md) - Öffentlicher Detailcoding-Durchlauf mit 30 Rollen aus sechs Spuren.
+- [Job Detail Coding Round 1 Dataset](datasets/job-detail-coding-round-1-2026-05-22.md) - Aufgaben-, Tool-, Review-, Lernraum- und Grenzcodierung für Junior, Creative Technology, Media/Marketing/Plattform, Product/AI/UX, Games/VFX/3D und Informationsarbeit.
+- [Spurcodierung Round 1](syntheses/spur-detailcoding-round-1-2026-05-22.md) - Verdichtung der Detailcodierung pro Spur.
 
 ## Ingest 2026-05-21 - Agentic Workflow Guardrails und Media Buying 2026
 

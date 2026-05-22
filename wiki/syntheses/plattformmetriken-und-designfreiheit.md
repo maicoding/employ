@@ -14,6 +14,7 @@ sources:
   - "../sources/jobposting-employer-data-check-2026-05-21.md"
   - "../datasets/jobposting-corpus-2026-05-21.md"
   - "../datasets/job-board-sample-round-1-2026-05-22.md"
+  - "../datasets/job-detail-coding-round-1-2026-05-22.md"
 ---
 
 # Plattformmetriken und Designfreiheit
@@ -113,6 +114,8 @@ Das [Jobposting Corpus](../datasets/jobposting-corpus-2026-05-21.md) zeigt diese
 Das ist kein Beleg für flächigen Stellenumbau. Es ist ein Arbeitsmarker: Designarbeit wird in Marketing-, Social-, E-Commerce- und Performance-Kontexten stärker an Messsysteme angeschlossen.
 
 Der [Job Board Sample Round 1](../datasets/job-board-sample-round-1-2026-05-22.md) ergänzt diese Linie listingnah: Social/Performance, CRM, Digital Campaigns, Product Marketing, AI Product, Design Engineering, Live Ops und Big Data erscheinen als Nachbarschaften. Das ist kein Wirkungsnachweis. Es zeigt aber, wo der nächste Detailcheck ansetzen muss: Welche Entscheidungen werden an Plattformmetriken delegiert, und welche bleiben Designurteil?
+
+Die [Job Detail Coding Round 1](../datasets/job-detail-coding-round-1-2026-05-22.md) zeigt auf Aufgabenebene, wo diese Delegation praktisch wird: Performance Marketing codiert ROI, Measurement und Tracking; E-Mail/CRM codiert Segmentierung, A/B-Tests und Reporting; Live Ops codiert Balance, Community und Daten; Product/AI/UX codiert Evaluation, Feedback Loops und Human-in-the-loop. Das ist noch kein Marktanteil, aber ein klarerer Mechanismus.
 
 ## Was dadurch wichtiger wird
 
@@ -237,6 +240,7 @@ Auch dort können Metriken wichtig werden. Aber die Plattformmechanik ist anders
 - [Platform-led Creative Automation](../concepts/platform-led-creative-automation.md)
 - [Jobposting Corpus 2026-05-21](../datasets/jobposting-corpus-2026-05-21.md)
 - [Job Board Sample Round 1](../datasets/job-board-sample-round-1-2026-05-22.md)
+- [Job Detail Coding Round 1](../datasets/job-detail-coding-round-1-2026-05-22.md)
 - [Evidence Dashboard](../../review/evidence-dashboard.md)
 - [Design Arbeitsmarkt Synthese](design-arbeitsmarkt-synthese.md)
 - [Wirtschaft Arbeitsmarkt Synthese](wirtschaft-arbeitsmarkt-synthese.md)

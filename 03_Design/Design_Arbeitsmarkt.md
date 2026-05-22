@@ -111,6 +111,19 @@ Der [Job Board Sample Round 1](../wiki/sources/job-board-sample-round-1-2026-05-
 
 Nicht belastbar ist daraus Wachstum. Für harte Designclaims zählen erst Detailseiten: Aufgaben, Tools, Review, Portfolio, Mentoring, AI-/Datenmarker und Freigabegrenzen.
 
+## Detailcodierung pro Spur 2026-05-22
+
+Die [Job Detail Coding Round 1](../wiki/datasets/job-detail-coding-round-1-2026-05-22.md) macht den nächsten Schritt: 30 Rollen wurden nach Aufgaben, Tools, Review/Lernraum und Grenze codiert. Die Lesart steht als [Spurcodierung Round 1](../wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md).
+
+Für Design ist daran wichtig:
+
+- Juniorrollen bleiben sichtbar, wirken aber weniger wie reine Übungsräume.
+- Creative Technology koppelt Konzeption, Entwicklung, 3D/AI, Pipeline und Übersetzung zwischen Teams.
+- Plattformrollen verlagern Gestaltung an Kampagnenziele, Measurement, CRM, A/B-Tests und Qualitätssicherung.
+- Product/AI/UX verschiebt Design Richtung Systemverhalten, Grenzen, Evaluation und Human Control.
+- Games/VFX/3D ist ein harter Vertiefungsstrang, weil Craft, Engine, Community, Analytics und Portfolio eng zusammenliegen.
+- Informationsarbeit bleibt als Gegenmarker im Archiv, damit Design nicht zu eng als Oberflächenproduktion gelesen wird.
+
 ## Plattformmetriken und Gestaltungsspielraum
 
 Die Synthese [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md) präzisiert den KPI-Teil: Plattformen nehmen Gestaltung nicht einfach weg. Sie verschieben Gestaltung an Regeln, Inputs, Guardrails, Variantenlogik, Review und Stop-Entscheidungen.
@@ -120,6 +133,8 @@ Die Synthese [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformm
 - [Design Rollen und Portfolio](Design_Rollen_und_Portfolio.md)
 - [PAGE Stellenmarkt Design/Media Corpus](../wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
 - [Job Board Sample Round 1](../wiki/datasets/job-board-sample-round-1-2026-05-22.md)
+- [Job Detail Coding Round 1](../wiki/datasets/job-detail-coding-round-1-2026-05-22.md)
+- [Spurcodierung Round 1](../wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md)
 - [Design Arbeitsmarkt Synthese](../wiki/syntheses/design-arbeitsmarkt-synthese.md)
 - [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 - [Design Through Language](../wiki/concepts/design-through-language.md)

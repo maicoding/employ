@@ -70,5 +70,7 @@ Siehe [Skill Families](Skill_Families.md).
 - [Wirtschaft](../02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
 - [Design](../03_Design/Design_Arbeitsmarkt.md)
 - [Job Board Sample Round 1](../wiki/datasets/job-board-sample-round-1-2026-05-22.md)
+- [Job Detail Coding Round 1](../wiki/datasets/job-detail-coding-round-1-2026-05-22.md)
+- [Spurcodierung Round 1](../wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md)
 - [Arbeitsmarkt 2030 Synthese](../wiki/syntheses/arbeitsmarkt-2030.md)
 - [Erwartete Entwicklung 2026-2030](../wiki/syntheses/erwartete-entwicklung-2026-2030.md)

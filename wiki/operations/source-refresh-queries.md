@@ -67,3 +67,14 @@ site:bibliojobs.eu Datenmanagement Informationskompetenz Bibliothek Archiv 2026
 site:techinberlin.com/product/jobs AI Product Designer UX Research Berlin 2026
 site:games-career.com Game Artist Game Design Art Layout Illustration 2026
 ```
+
+## Detailcodierung pro Spur
+
+```text
+site:designerdock.com/fuer-bewerber/stellenangebote/detail Junior Designer KI Figma 2026
+site:designerdock.com/fuer-bewerber/stellenangebote/detail Creative Technologist AI 3D 2026
+site:stellenmarkt.wuv.de Performance Creative Social Platform KPI 2026
+site:techinberlin.com/product/jobs AI Product UX Human in the loop 2026
+site:games-career.com Technical Artist Live Operations Product Designer 2026
+site:bibliojobs.eu Informationskompetenz Datenmanagement MLOps 2026
+```

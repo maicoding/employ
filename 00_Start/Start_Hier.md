@@ -31,6 +31,8 @@ Er antwortet nicht mit einer einzelnen Zukunftsprognose. Er baut eine Arbeitskar
 - [Design Arbeitsmarkt](../03_Design/Design_Arbeitsmarkt.md)
 - [Portfolio Evidence System](../04_Portfolio/Portfolio_Evidence_System.md)
 - [PAGE Stellenmarkt Corpus](../wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
+- [Job Detail Coding Round 1](../wiki/datasets/job-detail-coding-round-1-2026-05-22.md)
+- [Spurcodierung Round 1](../wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md)
 - [Arbeitsmarkt Radar Workflow](../05_Playbooks/Arbeitsmarkt_Radar_Workflow.md)
 - [Wiki Index](../wiki/index.md)
 
@@ -50,6 +52,6 @@ Employability heißt:
 
 ## Stand
 
-Initialer Vault-Aufbau: 2026-05-21. PAGE-Spotcheck ergänzt: 2026-05-22.
+Initialer Vault-Aufbau: 2026-05-21. PAGE-Spotcheck, Jobboard Round 1 und erste Spurcodierung ergänzt: 2026-05-22.
 
 Die erste Version nutzt nur öffentlich verlinkbare Quellen. Lokale Alt-Vaults wurden als Struktur- und Denkvorlage gelesen, nicht als geschützte Textquelle übernommen.

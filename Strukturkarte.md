@@ -44,6 +44,8 @@ Die Review-Schicht trennt Aussage, Quelle und Grenze:
 - [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md)
 - [PAGE Stellenmarkt Corpus](wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
 - [Job Board Sample Round 1](wiki/datasets/job-board-sample-round-1-2026-05-22.md)
+- [Job Detail Coding Round 1](wiki/datasets/job-detail-coding-round-1-2026-05-22.md)
+- [Spurcodierung Round 1](wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md)
 - [Job Board Watchlist](wiki/datasets/job-board-watchlist-2026-05-22.md)
 - [Public Safe Audit](review/public-safe-audit.md)
 

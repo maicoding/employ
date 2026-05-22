@@ -19,6 +19,8 @@ sources:
   - "../sources/platform-creative-automation-2026.md"
   - "../sources/job-board-sample-round-1-2026-05-22.md"
   - "../datasets/job-board-sample-round-1-2026-05-22.md"
+  - "../sources/job-detail-coding-round-1-2026-05-22.md"
+  - "../datasets/job-detail-coding-round-1-2026-05-22.md"
   - "../sources/ilo-generative-ai-jobs-2025.md"
 ---
 
@@ -126,6 +128,8 @@ Das Platform-Creative-Automation-Signal schärft das: Die Plattformen übernehme
 
 Der Job Board Sample Round 1 ergänzt die Rollenebene: In elf öffentlichen Jobboards tauchen enge Designrollen, Creative/Media-Rollen, Product/AI/UX, Games/VFX/3D und Informationsarbeit nebeneinander auf. Das bestätigt keine Wachstumsstory. Es bestätigt aber die Suchlogik des Vaults: Designarbeitsmarkt muss als Nachbarschaft von Craft, System, Plattform, Produkt, Daten und Kulturarbeit gelesen werden.
 
+Die Job Detail Coding Round 1 macht diese Suchlogik konkreter. Dort werden 30 Rollen nach Aufgaben, Tools, Review/Lernraum und Grenze codiert. Die stärkere Lesart: Junior, Creative Technology, Media/Marketing/Plattform, Product/AI/UX, Games/VFX/3D und Informationsarbeit sind keine austauschbaren Titelgruppen. Sie verschieben Arbeit an unterschiedliche Orte: Einstieg, Pipeline, Messsystem, Produktverhalten, Engine/Community und Informationsordnung.
+
 ## Rollen, die wichtiger werden
 
 - AI Creative Producer
@@ -175,3 +179,5 @@ Nicht jede Designpraxis wird technisch. Handwerk, Konzept, Kritik, Kultur, Typog
 - [Azerion AdMove.ai Hawk DSP 2026](../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md)
 - [Platform Creative Automation 2026](../sources/platform-creative-automation-2026.md)
 - [Job Board Sample Round 1](../sources/job-board-sample-round-1-2026-05-22.md)
+- [Job Detail Coding Round 1](../datasets/job-detail-coding-round-1-2026-05-22.md)
+- [Spurcodierung Round 1](spur-detailcoding-round-1-2026-05-22.md)

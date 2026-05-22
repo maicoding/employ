@@ -21,6 +21,8 @@ Der Vault sammelt Quellen, trennt Signale von belastbaren Aussagen und baut dara
 - [Evidence Dashboard](review/evidence-dashboard.md)
 - [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md)
 - [PAGE Stellenmarkt Corpus](wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
+- [Job Detail Coding Round 1](wiki/datasets/job-detail-coding-round-1-2026-05-22.md)
+- [Spurcodierung Round 1](wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md)
 - [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 - [Arbeitsmarkt 2030 Überblick](01_Arbeitsmarkt/Arbeitsmarkt_2030_Ueberblick.md)
 - [Wirtschaft](02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)

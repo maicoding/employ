@@ -17,6 +17,7 @@ Diese Schicht enthält codierte Arbeitsdaten. Sie ist näher an Tabellen als an 
 - [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](page-stellenmarkt-design-media-corpus-2026-05-22.md): 33 öffentliche Anzeigenmarker aus PAGE; Creative/Media-Sample, kein enger Designmarkt.
 - [Job Board Watchlist 2026-05-22](job-board-watchlist-2026-05-22.md): Suchorte und Sampling-Regeln für PAGE, enges Design, Media/Marketing/Plattform, Product/AI/UX und Gegenmarker.
 - [Job Board Sample Round 1 2026-05-22](job-board-sample-round-1-2026-05-22.md): 101 Titel-/Listing-Marker aus elf öffentlichen Jobboards; Suchraum, kein Marktanteil.
+- [Job Detail Coding Round 1 2026-05-22](job-detail-coding-round-1-2026-05-22.md): 30 detailcodierte Rollen pro Spur: Junior, Creative Technology, Media/Marketing/Plattform, Product/AI/UX, Games/VFX/3D und Informationsarbeit.
 
 ## Regel
 

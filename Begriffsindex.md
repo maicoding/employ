@@ -33,6 +33,7 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 - Design: [Arbeitsmarkt](03_Design/Design_Arbeitsmarkt.md), [Rollen](03_Design/Design_Rollen_und_Portfolio.md), [Synthese](wiki/syntheses/design-arbeitsmarkt-synthese.md)
 - Designfreiheit: [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 - Design Through Language: [Concept](wiki/concepts/design-through-language.md)
+- Detailcodierung: [Job Detail Coding Round 1](wiki/datasets/job-detail-coding-round-1-2026-05-22.md), [Spurcodierung Round 1](wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md)
 - DSP: [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md), [Platform-led Creative Automation](wiki/concepts/platform-led-creative-automation.md)
 
 ## E
@@ -44,12 +45,18 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 ## G
 
 - GenAI Divide: [Concept](wiki/concepts/genai-divide.md)
+- Games/VFX/3D: [Job Detail Coding Round 1](wiki/datasets/job-detail-coding-round-1-2026-05-22.md), [Design Arbeitsmarkt](03_Design/Design_Arbeitsmarkt.md)
 - Governance: [Concept](wiki/concepts/governance-and-risk.md), [Wirtschaft](02_Wirtschaft/Wirtschaft_Arbeitsmarkt.md)
+
+## I
+
+- Informationsarbeit: [Job Detail Coding Round 1](wiki/datasets/job-detail-coding-round-1-2026-05-22.md), [Spurcodierung Round 1](wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md)
 
 ## J
 
 - Job Board Watchlist: [Dataset](wiki/datasets/job-board-watchlist-2026-05-22.md), [Source](wiki/sources/job-board-search-expansion-2026-05-22.md)
 - Job Board Sample Round 1: [Dataset](wiki/datasets/job-board-sample-round-1-2026-05-22.md), [Source](wiki/sources/job-board-sample-round-1-2026-05-22.md)
+- Job Detail Coding Round 1: [Dataset](wiki/datasets/job-detail-coding-round-1-2026-05-22.md), [Source](wiki/sources/job-detail-coding-round-1-2026-05-22.md), [Synthese](wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md)
 - Jobposting Corpus: [Dataset](wiki/datasets/jobposting-corpus-2026-05-21.md)
 - Juniorarbeit: [Packet](wiki/packets/juniorarbeit-verschiebt-sich-zu-review.md), [Entry Level Compression](wiki/concepts/entry-level-compression.md)
 
@@ -81,6 +88,7 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 
 - Signale: [Trends und Signale](Trends_und_Signale.md)
 - Skill Families: [Übersicht](01_Arbeitsmarkt/Skill_Families.md)
+- Spurcodierung: [Spurcodierung Round 1](wiki/syntheses/spur-detailcoding-round-1-2026-05-22.md), [Job Detail Coding Round 1](wiki/datasets/job-detail-coding-round-1-2026-05-22.md)
 - Sources: [Quellenindex](wiki/sources/README.md)
 
 ## T

@@ -60,3 +60,17 @@ Entscheidung:
 - 101 Titel-/Listing-Marker aus elf öffentlichen Jobboards sind jetzt als Suchraum-Sample erfasst.
 - Die Spuren bleiben getrennt: enges Design, Creative/Media, Media/Marketing/Plattform, Product/AI/UX, Games/VFX/3D und Informationsarbeit.
 - Der Sample stärkt Sichtbarkeit und Suchlogik, aber keinen Wachstums-, Gehalts- oder Jobverlustclaim.
+
+## [2026-05-22] ingest | Job Detail Coding Round 1
+
+Ergänzt:
+
+- [Job Detail Coding Round 1](sources/job-detail-coding-round-1-2026-05-22.md)
+- [Job Detail Coding Round 1 Dataset](datasets/job-detail-coding-round-1-2026-05-22.md)
+- [Spurcodierung Round 1](syntheses/spur-detailcoding-round-1-2026-05-22.md)
+
+Entscheidung:
+
+- 30 Rollen wurden nach Spur, Aufgaben, Tools, Review/Lernraum, Lesart und Grenze codiert.
+- Die Detailcodierung stärkt die Aussagen zu Aufgabenumbau, Creative Technology, Plattformarbeit, Product/AI/UX und Games/VFX/3D.
+- Wachstum, Juniorverlust und Gehälter bleiben offen.
