@@ -17,6 +17,8 @@ sources:
   - "../sources/atlassian-ai-design-nondeterminism-trust-2026.md"
   - "../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md"
   - "../sources/platform-creative-automation-2026.md"
+  - "../sources/job-board-sample-round-1-2026-05-22.md"
+  - "../datasets/job-board-sample-round-1-2026-05-22.md"
   - "../sources/ilo-generative-ai-jobs-2025.md"
 ---
 
@@ -122,6 +124,8 @@ Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt die Performance-Creative-Seite: Werb
 
 Das Platform-Creative-Automation-Signal schärft das: Die Plattformen übernehmen Teile der Asset-Produktion und Optimierung selbst. Design-Employability liegt deshalb stärker in der Fähigkeit, Plattformen mit guten Inputs, Grenzen und Prüfentscheidungen zu führen. Wer nur einzelne Formatadaptionen baut, konkurriert direkt mit Plattformfunktionen.
 
+Der Job Board Sample Round 1 ergänzt die Rollenebene: In elf öffentlichen Jobboards tauchen enge Designrollen, Creative/Media-Rollen, Product/AI/UX, Games/VFX/3D und Informationsarbeit nebeneinander auf. Das bestätigt keine Wachstumsstory. Es bestätigt aber die Suchlogik des Vaults: Designarbeitsmarkt muss als Nachbarschaft von Craft, System, Plattform, Produkt, Daten und Kulturarbeit gelesen werden.
+
 ## Rollen, die wichtiger werden
 
 - AI Creative Producer
@@ -170,3 +174,4 @@ Nicht jede Designpraxis wird technisch. Handwerk, Konzept, Kritik, Kultur, Typog
 - [Atlassian AI Design 2026](../sources/atlassian-ai-design-nondeterminism-trust-2026.md)
 - [Azerion AdMove.ai Hawk DSP 2026](../sources/azerion-admove-hawk-dsp-agentic-creative-production-2026.md)
 - [Platform Creative Automation 2026](../sources/platform-creative-automation-2026.md)
+- [Job Board Sample Round 1](../sources/job-board-sample-round-1-2026-05-22.md)

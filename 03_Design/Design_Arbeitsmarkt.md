@@ -99,6 +99,18 @@ Der [PAGE Stellenmarkt Spot Check](../wiki/sources/page-stellenmarkt-design-medi
 
 Die belastbare Aussage bleibt: Designarbeit verschiebt sich. PAGE belegt nicht, dass der Designmarkt insgesamt wächst, schrumpft oder von KI ersetzt wird.
 
+## Jobboard Round 1 2026-05-22
+
+Der [Job Board Sample Round 1](../wiki/sources/job-board-sample-round-1-2026-05-22.md) ergänzt PAGE um 101 Titel-/Listing-Marker aus elf öffentlichen Jobboards. Die stärkere Lesart:
+
+- enges Design bleibt sichtbar: Art Direction, Packaging, Mediengestaltung, UI, Brand, Motion, Illustration
+- Product/AI/UX ist als eigene Nachbarschaft stärker sichtbar als in PAGE
+- Creative Technology erscheint als Titelmarker: Creative Technologist, Design Engineer, 3D/AI Generalist, Technical Artist
+- Games/VFX/3D gehört als Vertiefung dazu, weil dort Craft, Pipeline, Live Ops und Metriken eng beieinanderliegen
+- Informationsarbeit bleibt als Gegenmarker wichtig: Bibliothek, Archiv, Datenmanagement, Informationskompetenz
+
+Nicht belastbar ist daraus Wachstum. Für harte Designclaims zählen erst Detailseiten: Aufgaben, Tools, Review, Portfolio, Mentoring, AI-/Datenmarker und Freigabegrenzen.
+
 ## Plattformmetriken und Gestaltungsspielraum
 
 Die Synthese [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md) präzisiert den KPI-Teil: Plattformen nehmen Gestaltung nicht einfach weg. Sie verschieben Gestaltung an Regeln, Inputs, Guardrails, Variantenlogik, Review und Stop-Entscheidungen.
@@ -107,6 +119,7 @@ Die Synthese [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformm
 
 - [Design Rollen und Portfolio](Design_Rollen_und_Portfolio.md)
 - [PAGE Stellenmarkt Design/Media Corpus](../wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md)
+- [Job Board Sample Round 1](../wiki/datasets/job-board-sample-round-1-2026-05-22.md)
 - [Design Arbeitsmarkt Synthese](../wiki/syntheses/design-arbeitsmarkt-synthese.md)
 - [Plattformmetriken und Designfreiheit](../wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 - [Design Through Language](../wiki/concepts/design-through-language.md)

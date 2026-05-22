@@ -16,6 +16,7 @@ Aktuelle Durchläufe:
 - [Jobposting und Arbeitgeberdaten Check 2026-05-21](../wiki/sources/jobposting-employer-data-check-2026-05-21.md), codiert als [Jobposting Corpus 2026-05-21](../wiki/datasets/jobposting-corpus-2026-05-21.md).
 - [PAGE Stellenmarkt Design/Media Spot Check 2026-05-22](../wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md), codiert als [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](../wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md).
 - [Job Board Search Expansion 2026-05-22](../wiki/sources/job-board-search-expansion-2026-05-22.md), codiert als [Job Board Watchlist 2026-05-22](../wiki/datasets/job-board-watchlist-2026-05-22.md).
+- [Job Board Sample Round 1 2026-05-22](../wiki/sources/job-board-sample-round-1-2026-05-22.md), codiert als [Job Board Sample Round 1 2026-05-22](../wiki/datasets/job-board-sample-round-1-2026-05-22.md).
 
 ## Minimum Dataset
 
@@ -56,6 +57,8 @@ Codierung:
 | `media_marketing_platform` | W&V, kress, turi2, PAGE adjacent | 50 Rollen | Social, PR, CRM, Performance, Programmatic, Content, Redaktion, Plattformsteuerung. |
 | `product_ai_ux` | Tech in Berlin, WoodyJobs, Hisignal, heise Jobs, Firmenkarrieren | 50 Rollen | Product Design, AI Product, UX Research, Product Management, Design Engineering, Product Engineering. |
 | `information_culture_countermarker` | BiblioJobs, PAGE countermarker, Games-Career, Kulturstellen | 30 Rollen | Bibliothek, Archiv, Informationskompetenz, Datenmanagement, Game/VFX/3D, Kulturhandwerk. |
+
+Round 1 am 22.05.2026 liefert 101 Titel-/Listing-Marker. Das ist ein Suchraum-Sample. Für Claim-Upgrades zählen erst Detailcodierungen mit Aufgaben, Tools, Seniorität, Mentoring, Review, Governance und Plattformmetriken.
 
 ## Claim-Fragen
 

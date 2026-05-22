@@ -49,6 +49,7 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 ## J
 
 - Job Board Watchlist: [Dataset](wiki/datasets/job-board-watchlist-2026-05-22.md), [Source](wiki/sources/job-board-search-expansion-2026-05-22.md)
+- Job Board Sample Round 1: [Dataset](wiki/datasets/job-board-sample-round-1-2026-05-22.md), [Source](wiki/sources/job-board-sample-round-1-2026-05-22.md)
 - Jobposting Corpus: [Dataset](wiki/datasets/jobposting-corpus-2026-05-21.md)
 - Juniorarbeit: [Packet](wiki/packets/juniorarbeit-verschiebt-sich-zu-review.md), [Entry Level Compression](wiki/concepts/entry-level-compression.md)
 
@@ -59,6 +60,10 @@ Ein kontrolliertes Vokabular für Suche und Orientierung.
 ## M
 
 - Media/Marketing: [Jobposting Corpus](wiki/datasets/jobposting-corpus-2026-05-21.md), [Trends und Signale](Trends_und_Signale.md)
+
+## N
+
+- Narrow Design: [Job Board Sample Round 1](wiki/datasets/job-board-sample-round-1-2026-05-22.md), [Design Arbeitsmarkt](03_Design/Design_Arbeitsmarkt.md)
 
 ## P
 

@@ -47,3 +47,16 @@ Entscheidung:
 - Enge Designclaims brauchen eigene Design-Samples.
 - Media/Marketing/Plattform und Product/AI/UX werden getrennt codiert.
 - Bibliothek, Games, VFX, Archiv und Kulturarbeit bleiben als Gegenmarker sichtbar.
+
+## [2026-05-22] ingest | Job Board Sample Round 1
+
+Ergänzt:
+
+- [Job Board Sample Round 1](sources/job-board-sample-round-1-2026-05-22.md)
+- [Job Board Sample Round 1 Dataset](datasets/job-board-sample-round-1-2026-05-22.md)
+
+Entscheidung:
+
+- 101 Titel-/Listing-Marker aus elf öffentlichen Jobboards sind jetzt als Suchraum-Sample erfasst.
+- Die Spuren bleiben getrennt: enges Design, Creative/Media, Media/Marketing/Plattform, Product/AI/UX, Games/VFX/3D und Informationsarbeit.
+- Der Sample stärkt Sichtbarkeit und Suchlogik, aber keinen Wachstums-, Gehalts- oder Jobverlustclaim.

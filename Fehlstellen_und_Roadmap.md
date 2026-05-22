@@ -25,15 +25,15 @@ Nächster Schritt:
 
 ### 2. DACH-Jobposting-Daten
 
-Der Vault hat jetzt ein erstes public-safe Sample mit 22 Rollenmarkern und eine codierte Datenseite: [Jobposting Corpus 2026-05-21](wiki/datasets/jobposting-corpus-2026-05-21.md). Dazu kommt ein getrenntes PAGE-Sample mit 33 Creative/Media-Anzeigen: [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md). Zusammen sind das mehr Ankerpunkte, aber noch kein repräsentatives Korpus.
+Der Vault hat jetzt ein erstes public-safe Sample mit 22 Rollenmarkern und eine codierte Datenseite: [Jobposting Corpus 2026-05-21](wiki/datasets/jobposting-corpus-2026-05-21.md). Dazu kommt ein getrenntes PAGE-Sample mit 33 Creative/Media-Anzeigen: [PAGE Stellenmarkt Design/Media Corpus 2026-05-22](wiki/datasets/page-stellenmarkt-design-media-corpus-2026-05-22.md). Round 1 ergänzt 101 Titel-/Listing-Marker aus elf Jobboards: [Job Board Sample Round 1](wiki/datasets/job-board-sample-round-1-2026-05-22.md). Zusammen sind das mehr Ankerpunkte, aber noch kein repräsentatives Korpus.
 
 Nächster Schritt:
 
-- Suchorte nach [Job Board Watchlist 2026-05-22](wiki/datasets/job-board-watchlist-2026-05-22.md) abarbeiten
-- 50 enge Designanzeigen codieren und von Creative/Media-Adjacent trennen: dasauge, DESIGNERDOCK, Games-Career
-- 50 Media-/Marketing-/Plattformanzeigen codieren: W&V, kress, turi2, PAGE adjacent
-- 50 Product-/AI-/UX-Anzeigen codieren: Tech in Berlin, WoodyJobs, Hisignal, heise Jobs, Firmenkarrieren
-- 30 Informations-/Kultur-/Gegenmarker codieren: BiblioJobs, PAGE countermarker, Games-Career
+- Round-1-Detailseiten auscodieren: Aufgaben, Tools, Seniorität, AI-/Datenmarker, Review, Mentoring, Governance, Portfolioanforderungen
+- 50 enge Designanzeigen aus Titel- und Detailcodierung bilden: dasauge, DESIGNERDOCK, Games-Career
+- 50 Media-/Marketing-/Plattformanzeigen bilden: W&V, kress, turi2, PAGE adjacent
+- 50 Product-/AI-/UX-Anzeigen bilden: Tech in Berlin, WoodyJobs, Hisignal, heise Jobs, Firmenkarrieren
+- 30 Informations-/Kultur-/Gegenmarker bilden: BiblioJobs, PAGE countermarker, Games-Career
 - 30 Anzeigen Wirtschaft codieren
 - Junior/Mid/Senior trennen
 - KI-, Daten-, Governance- und Portfolio-Signale erfassen

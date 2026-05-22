@@ -59,6 +59,8 @@ Check 2026-05-21: DACH-Rollenprofile zeigen Creative Technology und AI-nahe Desi
 
 Check 2026-05-22: Der [PAGE Stellenmarkt Spot Check](wiki/sources/page-stellenmarkt-design-media-spot-check-2026-05-22.md) macht das Signal breiter, aber nicht härter. PAGE zeigt Senior Brand/System Design, UX/Research Leadership, E-Mail-Marketing-Automation, AI-Workflow-Lektorat und Agentic-AI-Product-Ownership. Das trägt System- und Workflowverschiebung. Es belegt kein Wachstum von Creative-Technology-Rollen.
 
+Check 2026-05-22, Round 1: Der [Job Board Sample Round 1](wiki/sources/job-board-sample-round-1-2026-05-22.md) zeigt Creative Technologist, 3D/AI Generalist, Design Engineer, Technical Artist, Conversational UX und AI Product Design als sichtbare Titelmarker. Das stärkt Sichtbarkeit, nicht Wachstum. Der nächste harte Schritt ist Detailcodierung: Welche Aufgaben verlangen wirklich Scripting, Pipelinearbeit, Modell-/Workflowkompetenz und Designurteil?
+
 ### Wirtschaft braucht KI-Governance im Alltag
 
 Regulierung und betriebliche KI-Nutzung machen Governance praktischer. Offen ist, wie stark das bereits in Einstiegsrollen sichtbar ist.
@@ -76,6 +78,8 @@ Nächster Check: DACH-Stellenprofile für Media Planning, Performance Marketing,
 Check 2026-05-21: Programmatic-, Paid-Media- und Display-Rollen zeigen DV360, The Trade Desk, Amazon DSP, Meta/TikTok, KPI-Monitoring, Attribution, Reporting, Brand Safety und Tech-Stack als wiederkehrende Marker. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md)
 
 Check 2026-05-22: PAGE ergänzt Social, Redaktion, Content, E-Mail-Marketing, Kommunikation und Publishing. Damit wird der Creative/Media-Mix sichtbarer, aber Programmatic und Retail Media müssen weiter separat codiert werden.
+
+Check 2026-05-22, Round 1: W&V, kress, turi2, Tech in Berlin und WoodyJobs ergänzen Social/Performance, CRM, Digital Campaigns, Product Marketing, International Marketing und AI-/SaaS-nahe Produktmärkte. Das verschiebt die Lesart: Media- und Marketingarbeit ist nicht nur Kanalumsetzung, sondern Steuerung von Plattformen, Messlogik, Produktpositionierung und Freigabegrenzen.
 
 ### KI-Suche wird zum Reichweiten- und Monetarisierungsrisiko
 
@@ -125,6 +129,8 @@ Nächster Check: Rollenprofile für Product Design, UX, Design Systems und AI Pr
 
 Check 2026-05-21: Rollenprofile für AI Product Design stützen die Richtung: Verhalten, Grenzen, Eskalation, Recovery, Evaluation, Guardrails, Vertrauen und menschliche Kontrolle werden explizit. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md)
 
+Check 2026-05-22, Round 1: Hisignal, heise Jobs, Tech in Berlin und WoodyJobs zeigen AI Product Designer, Conversational UX Designer, Design Engineer, UI/UX für Conversational AI und UI/UX für AI Agents. Die belastbare Lesart bleibt eng: Es gibt sichtbare Rollenmarker für AI-nahe UX. Nicht belegt ist, wie viele Stellen das im Gesamtmarkt sind.
+
 ### Creative Production wandert in Media-Buying-Infrastruktur
 
 Das Azerion/AdMove.ai/Hawk-DSP-Signal zeigt, dass KI-gestützte Werbemittelproduktion direkt in DSP- und Aktivierungsumgebungen integriert wird. Damit verschmelzen Kreation, Brand Governance, Freigabe, Publishing, Testing und Media Buying.
@@ -142,3 +148,5 @@ Nächster Check: Jobprofile und Portfolios auf Seed Assets, Brand Invariants, Cr
 Check 2026-05-21: Die Aufgabenverschiebung ist tragfähiger: Inputs, Guardrails, Variantenlogik, Review, Rechte, KPI-Lesen und Stop-Regeln werden wichtiger. Nicht belegt ist, dass Plattformautomation Gestaltung freier oder besser macht. Siehe: [Trends und Signale Next Checks 2026-05-21](wiki/sources/trends-signale-next-checks-2026-05-21.md) und [Plattformmetriken und Designfreiheit](wiki/syntheses/plattformmetriken-und-designfreiheit.md)
 
 Check 2026-05-22: PAGE zeigt Rollen, in denen Gestaltung mit Automatisierung, Systemführung, Research, Social-Content, Publishing und Qualitätsprüfung zusammenliegt. Die saubere Lesart: Gestaltung wird häufiger an vorgelagerte Inputs und nachgelagerte Prüfung gekoppelt. Nicht belegt ist, dass Designer:innen dadurch automatisch mehr Freiheit oder weniger Arbeit haben.
+
+Check 2026-05-22, Round 1: Games-Career ergänzt eine nützliche Vertiefung: Game Designer Live Ops, Product Manager/Game Designer und Big Data Engineering zeigen Gestaltung als Betrieb unter Metriken. Das passt zur Plattformthese, ohne sie zu überziehen: KPI-Logik erzeugt Entscheidungslast, aber nicht automatisch bessere Gestaltung.
